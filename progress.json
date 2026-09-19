@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T04:40:19.744Z",
+  "generated_at": "2026-09-19T04:40:21.924Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -1131,6 +1131,45 @@
       "last_pushed_at": "2026-09-08T04:33:43.888Z",
       "language": "python",
       "lines": 4
+    },
+    "problem:790": {
+      "kind": "problem",
+      "id": "790",
+      "title": "Sigmoidal Accuracy-to-Log-Likelihood Scaling Law Fit",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/790",
+      "path": "problems/0790-sigmoidal-accuracy-to-log-likelihood-scaling-law-fit",
+      "first_solved_at": "2026-09-09T03:55:21.593Z",
+      "last_pushed_at": "2026-09-09T03:55:21.593Z",
+      "language": "python",
+      "lines": 30
+    },
+    "problem:351": {
+      "kind": "problem",
+      "id": "351",
+      "title": "Implement LLE (Locally Linear Embedding)",
+      "difficulty": "hard",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/351",
+      "path": "problems/0351-implement-lle-locally-linear-embedding",
+      "first_solved_at": "2026-09-09T18:06:04.121Z",
+      "last_pushed_at": "2026-09-09T18:06:04.121Z",
+      "language": "python",
+      "lines": 87
+    },
+    "problem:358": {
+      "kind": "problem",
+      "id": "358",
+      "title": "Implement Core MDN Residualization",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/358",
+      "path": "problems/0358-implement-core-mdn-residualization",
+      "first_solved_at": "2026-09-09T18:07:16.477Z",
+      "last_pushed_at": "2026-09-09T18:07:16.477Z",
+      "language": "python",
+      "lines": 33
     }
   }
 }
