@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**151** solved · 110 problems · 41 labs · 0 math
+**161** solved · 120 problems · 41 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -34,6 +34,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-08-25 | [solution](problems/0009-matrix-times-matrix) |
 | [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2026-08-25 | [solution](problems/0007-matrix-transformation) |
 | [Minimum Remove to Make Valid Parentheses](https://www.deep-ml.com/problems/1159) | medium | 2026-09-12 | [solution](problems/1159-minimum-remove-to-make-valid-parentheses) |
+| [Mutual Information](https://www.deep-ml.com/problems/204) | medium | 2026-09-13 | [solution](problems/0204-mutual-information) |
 | [Numerical Gradient Checking](https://www.deep-ml.com/problems/313) | medium | 2026-09-06 | [solution](problems/0313-numerical-gradient-checking) |
 | [Sigmoidal Accuracy-to-Log-Likelihood Scaling Law Fit](https://www.deep-ml.com/problems/790) | medium | 2026-09-09 | [solution](problems/0790-sigmoidal-accuracy-to-log-likelihood-scaling-law-fit) |
 | [Solve Linear Equations using Jacobi Method](https://www.deep-ml.com/problems/11) | medium | 2026-08-25 | [solution](problems/0011-solve-linear-equations-using-jacobi-method) |
@@ -42,15 +43,18 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Actor-Critic Algorithm](https://www.deep-ml.com/problems/538) | hard | 2026-09-11 | [solution](problems/0538-actor-critic-algorithm) |
 | [Actor-Critic with Traces](https://www.deep-ml.com/problems/539) | hard | 2026-09-11 | [solution](problems/0539-actor-critic-with-traces) |
 | [Advantage Actor-Critic (A2C) Batch Update from Parallel Environments](https://www.deep-ml.com/problems/553) | hard | 2026-09-11 | [solution](problems/0553-advantage-actor-critic-a2c-batch-update-from-parallel-environments) |
+| [Asynchronous Advantage Actor-Critic (A3C)](https://www.deep-ml.com/problems/594) | hard | 2026-09-13 | [solution](problems/0594-asynchronous-advantage-actor-critic-a3c) |
 | [Backgammon with TD Learning](https://www.deep-ml.com/problems/579) | hard | 2026-09-11 | [solution](problems/0579-backgammon-with-td-learning) |
 | [Beam Search with Memory-Efficient Block Sharing](https://www.deep-ml.com/problems/496) | hard | 2026-09-11 | [solution](problems/0496-beam-search-with-memory-efficient-block-sharing) |
 | [Build a Transformer Encoder Layer](https://www.deep-ml.com/problems/491) | hard | 2026-09-11 | [solution](problems/0491-build-a-transformer-encoder-layer) |
 | [Certainty-Equivalence in TD Learning](https://www.deep-ml.com/problems/516) | hard | 2026-09-11 | [solution](problems/0516-certainty-equivalence-in-td-learning) |
 | [Combined Token Sampling Pipeline (Temperature + Top-k + Top-p)](https://www.deep-ml.com/problems/419) | hard | 2026-09-10 | [solution](problems/0419-combined-token-sampling-pipeline-temperature-top-k-top-p) |
 | [Context Parallelism with Ring Attention for Video Models](https://www.deep-ml.com/problems/448) | hard | 2026-09-10 | [solution](problems/0448-context-parallelism-with-ring-attention-for-video-models) |
+| [Control Variates in Off-Policy Methods](https://www.deep-ml.com/problems/584) | hard | 2026-09-13 | [solution](problems/0584-control-variates-in-off-policy-methods) |
 | [Decision Tree Learning](https://www.deep-ml.com/problems/20) | hard | 2026-08-25 | [solution](problems/0020-decision-tree-learning) |
 | [Deep Q-Network Implementation](https://www.deep-ml.com/problems/551) | hard | 2026-09-11 | [solution](problems/0551-deep-q-network-implementation) |
 | [Determinant of a 4x4 Matrix using Laplace's Expansion (hard)](https://www.deep-ml.com/problems/13) | hard | 2026-08-25 | [solution](problems/0013-determinant-of-a-4x4-matrix-using-laplace-s-expansion-hard) |
+| [Deterministic Policy Gradient](https://www.deep-ml.com/problems/589) | hard | 2026-09-13 | [solution](problems/0589-deterministic-policy-gradient) |
 | [Differential Sarsa Algorithm](https://www.deep-ml.com/problems/541) | hard | 2026-09-11 | [solution](problems/0541-differential-sarsa-algorithm) |
 | [Disaggregated Prefill-Decode Serving Simulator](https://www.deep-ml.com/problems/440) | hard | 2026-09-10 | [solution](problems/0440-disaggregated-prefill-decode-serving-simulator) |
 | [Distributed On-Policy Reinforcement Learning](https://www.deep-ml.com/problems/504) | hard | 2026-09-11 | [solution](problems/0504-distributed-on-policy-reinforcement-learning) |
@@ -94,6 +98,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Off-Policy n-Step Sarsa with Importance Sampling](https://www.deep-ml.com/problems/563) | hard | 2026-09-11 | [solution](problems/0563-off-policy-n-step-sarsa-with-importance-sampling) |
 | [Off-Policy n-Step TD Prediction with Importance Sampling](https://www.deep-ml.com/problems/549) | hard | 2026-09-11 | [solution](problems/0549-off-policy-n-step-td-prediction-with-importance-sampling) |
 | [Off-Policy TD(lambda) with Importance-Weighted Eligibility Traces](https://www.deep-ml.com/problems/580) | hard | 2026-09-12 | [solution](problems/0580-off-policy-td-lambda-with-importance-weighted-eligibility-traces) |
+| [Parallel Value Functions (Horde)](https://www.deep-ml.com/problems/585) | hard | 2026-09-13 | [solution](problems/0585-parallel-value-functions-horde) |
 | [PCA Color Augmentation](https://www.deep-ml.com/problems/191) | hard | 2026-09-06 | [solution](problems/0191-pca-color-augmentation) |
 | [Pegasos Kernel SVM Implementation](https://www.deep-ml.com/problems/21) | hard | 2026-08-25 | [solution](problems/0021-pegasos-kernel-svm-implementation) |
 | [Policy Gradient with REINFORCE](https://www.deep-ml.com/problems/122) | hard | 2026-09-06 | [solution](problems/0122-policy-gradient-with-reinforce) |
@@ -101,11 +106,14 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Positional Encoding Calculator](https://www.deep-ml.com/problems/85) | hard | 2026-09-03 | [solution](problems/0085-positional-encoding-calculator) |
 | [Prioritized Sweeping Algorithm](https://www.deep-ml.com/problems/527) | hard | 2026-09-11 | [solution](problems/0527-prioritized-sweeping-algorithm) |
 | [Q(lambda) with Eligibility Traces](https://www.deep-ml.com/problems/522) | hard | 2026-09-11 | [solution](problems/0522-q-lambda-with-eligibility-traces) |
+| [Q(σ) Unified Algorithm](https://www.deep-ml.com/problems/583) | hard | 2026-09-13 | [solution](problems/0583-q-unified-algorithm) |
 | [QR Decomposition](https://www.deep-ml.com/problems/201) | hard | 2026-09-06 | [solution](problems/0201-qr-decomposition) |
 | [R-Learning for Average Reward](https://www.deep-ml.com/problems/540) | hard | 2026-09-11 | [solution](problems/0540-r-learning-for-average-reward) |
+| [Rainbow DQN Implementation](https://www.deep-ml.com/problems/593) | hard | 2026-09-13 | [solution](problems/0593-rainbow-dqn-implementation) |
 | [REINFORCE with Baseline: Episode Update](https://www.deep-ml.com/problems/481) | hard | 2026-09-11 | [solution](problems/0481-reinforce-with-baseline-episode-update) |
 | [REINFORCE with Value Baseline](https://www.deep-ml.com/problems/552) | hard | 2026-09-11 | [solution](problems/0552-reinforce-with-value-baseline) |
 | [Residual Gradient Algorithm for Value Function Approximation](https://www.deep-ml.com/problems/577) | hard | 2026-09-11 | [solution](problems/0577-residual-gradient-algorithm-for-value-function-approximation) |
+| [Retrace(λ) Implementation](https://www.deep-ml.com/problems/582) | hard | 2026-09-13 | [solution](problems/0582-retrace-implementation) |
 | [Sarsa(lambda) Algorithm with Eligibility Traces](https://www.deep-ml.com/problems/521) | hard | 2026-09-11 | [solution](problems/0521-sarsa-lambda-algorithm-with-eligibility-traces) |
 | [Semi-Gradient TD(lambda) with Eligibility Traces and Linear Function Approximation](https://www.deep-ml.com/problems/531) | hard | 2026-09-11 | [solution](problems/0531-semi-gradient-td-lambda-with-eligibility-traces-and-linear-function-approximation) |
 | [Sequential Video Generation with Diffusion Models](https://www.deep-ml.com/problems/501) | hard | 2026-09-11 | [solution](problems/0501-sequential-video-generation-with-diffusion-models) |
@@ -114,6 +122,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [SVD of a 2x2 Matrix](https://www.deep-ml.com/problems/28) | hard | 2026-08-25 | [solution](problems/0028-svd-of-a-2x2-matrix) |
 | [TD(λ) Forward View for Value Prediction](https://www.deep-ml.com/problems/520) | hard | 2026-09-11 | [solution](problems/0520-td-forward-view-for-value-prediction) |
 | [TD(λ) with Eligibility Traces](https://www.deep-ml.com/problems/274) | hard | 2026-09-06 | [solution](problems/0274-td-with-eligibility-traces) |
+| [Temporal Abstraction with Options](https://www.deep-ml.com/problems/587) | hard | 2026-09-13 | [solution](problems/0587-temporal-abstraction-with-options) |
 | [Train a Simple GAN on 1D Gaussian Data](https://www.deep-ml.com/problems/174) | hard | 2026-09-06 | [solution](problems/0174-train-a-simple-gan-on-1d-gaussian-data) |
 | [Train Logistic Regression with Gradient Descent](https://www.deep-ml.com/problems/106) | hard | 2026-09-06 | [solution](problems/0106-train-logistic-regression-with-gradient-descent) |
 | [Train Softmax Regression with Gradient Descent](https://www.deep-ml.com/problems/105) | hard | 2026-09-06 | [solution](problems/0105-train-softmax-regression-with-gradient-descent) |
@@ -121,6 +130,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [True Online SARSA with Eligibility Traces](https://www.deep-ml.com/problems/483) | hard | 2026-09-11 | [solution](problems/0483-true-online-sarsa-with-eligibility-traces) |
 | [True Online TD(λ) with Linear Function Approximation](https://www.deep-ml.com/problems/561) | hard | 2026-09-11 | [solution](problems/0561-true-online-td-with-linear-function-approximation) |
 | [Two-Sample T-Test Implementation](https://www.deep-ml.com/problems/211) | hard | 2026-09-06 | [solution](problems/0211-two-sample-t-test-implementation) |
+| [Value Functions for Options](https://www.deep-ml.com/problems/588) | hard | 2026-09-13 | [solution](problems/0588-value-functions-for-options) |
 | [Variational Inference: ELBO Computation](https://www.deep-ml.com/problems/206) | hard | 2026-09-06 | [solution](problems/0206-variational-inference-elbo-computation) |
 
 ## Labs

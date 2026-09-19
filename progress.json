@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T04:40:54.881Z",
+  "generated_at": "2026-09-19T04:40:56.720Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -1963,6 +1963,136 @@
       "last_pushed_at": "2026-09-12T15:55:16.316Z",
       "language": "python",
       "lines": 103
+    },
+    "problem:204": {
+      "kind": "problem",
+      "id": "204",
+      "title": "Mutual Information",
+      "difficulty": "medium",
+      "category": "Information Theory",
+      "url": "https://www.deep-ml.com/problems/204",
+      "path": "problems/0204-mutual-information",
+      "first_solved_at": "2026-09-13T06:05:26.521Z",
+      "last_pushed_at": "2026-09-13T06:05:26.521Z",
+      "language": "python",
+      "lines": 30
+    },
+    "problem:582": {
+      "kind": "problem",
+      "id": "582",
+      "title": "Retrace(λ) Implementation",
+      "difficulty": "hard",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/582",
+      "path": "problems/0582-retrace-implementation",
+      "first_solved_at": "2026-09-13T06:10:28.700Z",
+      "last_pushed_at": "2026-09-13T06:10:28.700Z",
+      "language": "python",
+      "lines": 73
+    },
+    "problem:583": {
+      "kind": "problem",
+      "id": "583",
+      "title": "Q(σ) Unified Algorithm",
+      "difficulty": "hard",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/583",
+      "path": "problems/0583-q-unified-algorithm",
+      "first_solved_at": "2026-09-13T06:11:04.000Z",
+      "last_pushed_at": "2026-09-13T06:11:04.000Z",
+      "language": "python",
+      "lines": 72
+    },
+    "problem:584": {
+      "kind": "problem",
+      "id": "584",
+      "title": "Control Variates in Off-Policy Methods",
+      "difficulty": "hard",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/584",
+      "path": "problems/0584-control-variates-in-off-policy-methods",
+      "first_solved_at": "2026-09-13T06:11:53.355Z",
+      "last_pushed_at": "2026-09-13T06:11:53.355Z",
+      "language": "python",
+      "lines": 77
+    },
+    "problem:585": {
+      "kind": "problem",
+      "id": "585",
+      "title": "Parallel Value Functions (Horde)",
+      "difficulty": "hard",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/585",
+      "path": "problems/0585-parallel-value-functions-horde",
+      "first_solved_at": "2026-09-13T06:12:21.023Z",
+      "last_pushed_at": "2026-09-13T06:12:21.023Z",
+      "language": "python",
+      "lines": 81
+    },
+    "problem:587": {
+      "kind": "problem",
+      "id": "587",
+      "title": "Temporal Abstraction with Options",
+      "difficulty": "hard",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/587",
+      "path": "problems/0587-temporal-abstraction-with-options",
+      "first_solved_at": "2026-09-13T06:13:37.643Z",
+      "last_pushed_at": "2026-09-13T06:13:37.643Z",
+      "language": "python",
+      "lines": 155
+    },
+    "problem:588": {
+      "kind": "problem",
+      "id": "588",
+      "title": "Value Functions for Options",
+      "difficulty": "hard",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/588",
+      "path": "problems/0588-value-functions-for-options",
+      "first_solved_at": "2026-09-13T06:14:31.796Z",
+      "last_pushed_at": "2026-09-13T06:14:31.796Z",
+      "language": "python",
+      "lines": 113
+    },
+    "problem:589": {
+      "kind": "problem",
+      "id": "589",
+      "title": "Deterministic Policy Gradient",
+      "difficulty": "hard",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/589",
+      "path": "problems/0589-deterministic-policy-gradient",
+      "first_solved_at": "2026-09-13T06:16:32.916Z",
+      "last_pushed_at": "2026-09-13T06:16:32.916Z",
+      "language": "python",
+      "lines": 66
+    },
+    "problem:593": {
+      "kind": "problem",
+      "id": "593",
+      "title": "Rainbow DQN Implementation",
+      "difficulty": "hard",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/593",
+      "path": "problems/0593-rainbow-dqn-implementation",
+      "first_solved_at": "2026-09-13T06:19:28.266Z",
+      "last_pushed_at": "2026-09-13T06:19:28.266Z",
+      "language": "python",
+      "lines": 113
+    },
+    "problem:594": {
+      "kind": "problem",
+      "id": "594",
+      "title": "Asynchronous Advantage Actor-Critic (A3C)",
+      "difficulty": "hard",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/594",
+      "path": "problems/0594-asynchronous-advantage-actor-critic-a3c",
+      "first_solved_at": "2026-09-13T13:05:09.469Z",
+      "last_pushed_at": "2026-09-13T13:05:09.469Z",
+      "language": "python",
+      "lines": 84
     }
   }
 }
