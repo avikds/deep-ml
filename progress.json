@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T04:42:35.464Z",
+  "generated_at": "2026-09-19T04:42:37.714Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -2626,6 +2626,19 @@
       "last_pushed_at": "2026-09-17T19:29:21.697Z",
       "language": "python",
       "lines": 48
+    },
+    "problem:862": {
+      "kind": "problem",
+      "id": "862",
+      "title": "Toy Models of Superposition: Feature Reconstruction",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/862",
+      "path": "problems/0862-toy-models-of-superposition-feature-reconstruction",
+      "first_solved_at": "2026-09-18T04:06:37.903Z",
+      "last_pushed_at": "2026-09-18T04:06:37.903Z",
+      "language": "python",
+      "lines": 17
     }
   }
 }
