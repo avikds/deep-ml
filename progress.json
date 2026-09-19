@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T04:39:54.620Z",
+  "generated_at": "2026-09-19T04:39:56.778Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -117,6 +117,136 @@
       "last_pushed_at": "2026-08-24T05:57:52.225Z",
       "language": "python",
       "lines": 87
+    },
+    "problem:13": {
+      "kind": "problem",
+      "id": "13",
+      "title": "Determinant of a 4x4 Matrix using Laplace's Expansion (hard)",
+      "difficulty": "hard",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/13",
+      "path": "problems/0013-determinant-of-a-4x4-matrix-using-laplace-s-expansion-hard",
+      "first_solved_at": "2026-08-25T04:40:46.449Z",
+      "last_pushed_at": "2026-08-25T04:40:46.449Z",
+      "language": "python",
+      "lines": 29
+    },
+    "problem:7": {
+      "kind": "problem",
+      "id": "7",
+      "title": "Matrix Transformation ",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/7",
+      "path": "problems/0007-matrix-transformation",
+      "first_solved_at": "2026-08-25T04:42:25.380Z",
+      "last_pushed_at": "2026-08-25T04:42:25.380Z",
+      "language": "python",
+      "lines": 29
+    },
+    "problem:20": {
+      "kind": "problem",
+      "id": "20",
+      "title": "Decision Tree Learning",
+      "difficulty": "hard",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/20",
+      "path": "problems/0020-decision-tree-learning",
+      "first_solved_at": "2026-08-25T04:43:58.275Z",
+      "last_pushed_at": "2026-08-25T04:43:58.275Z",
+      "language": "python",
+      "lines": 129
+    },
+    "problem:21": {
+      "kind": "problem",
+      "id": "21",
+      "title": "Pegasos Kernel SVM Implementation",
+      "difficulty": "hard",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/21",
+      "path": "problems/0021-pegasos-kernel-svm-implementation",
+      "first_solved_at": "2026-08-25T10:09:10.353Z",
+      "last_pushed_at": "2026-08-25T10:09:10.353Z",
+      "language": "python",
+      "lines": 52
+    },
+    "problem:9": {
+      "kind": "problem",
+      "id": "9",
+      "title": "Matrix times Matrix ",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/9",
+      "path": "problems/0009-matrix-times-matrix",
+      "first_solved_at": "2026-08-25T10:09:52.201Z",
+      "last_pushed_at": "2026-08-25T10:09:52.201Z",
+      "language": "python",
+      "lines": 23
+    },
+    "problem:28": {
+      "kind": "problem",
+      "id": "28",
+      "title": "SVD of a 2x2 Matrix",
+      "difficulty": "hard",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/28",
+      "path": "problems/0028-svd-of-a-2x2-matrix",
+      "first_solved_at": "2026-08-25T10:10:41.265Z",
+      "last_pushed_at": "2026-08-25T10:10:41.265Z",
+      "language": "python",
+      "lines": 96
+    },
+    "problem:11": {
+      "kind": "problem",
+      "id": "11",
+      "title": "Solve Linear Equations using Jacobi Method",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/11",
+      "path": "problems/0011-solve-linear-equations-using-jacobi-method",
+      "first_solved_at": "2026-08-25T10:11:27.297Z",
+      "last_pushed_at": "2026-08-25T10:11:27.297Z",
+      "language": "python",
+      "lines": 25
+    },
+    "problem:17": {
+      "kind": "problem",
+      "id": "17",
+      "title": "K-Means Clustering",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/17",
+      "path": "problems/0017-k-means-clustering",
+      "first_solved_at": "2026-08-25T10:11:58.554Z",
+      "last_pushed_at": "2026-08-25T10:11:58.554Z",
+      "language": "python",
+      "lines": 53
+    },
+    "problem:18": {
+      "kind": "problem",
+      "id": "18",
+      "title": "Implement K-Fold Cross-Validation",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/18",
+      "path": "problems/0018-implement-k-fold-cross-validation",
+      "first_solved_at": "2026-08-25T10:20:10.614Z",
+      "last_pushed_at": "2026-08-25T10:20:10.614Z",
+      "language": "python",
+      "lines": 50
+    },
+    "problem:40": {
+      "kind": "problem",
+      "id": "40",
+      "title": "Implementing a Custom Dense Layer in Python",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/40",
+      "path": "problems/0040-implementing-a-custom-dense-layer-in-python",
+      "first_solved_at": "2026-08-25T10:23:48.469Z",
+      "last_pushed_at": "2026-08-25T10:23:48.469Z",
+      "language": "python",
+      "lines": 92
     }
   }
 }
