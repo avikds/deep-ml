@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T04:40:04.015Z",
+  "generated_at": "2026-09-19T04:40:06.983Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -403,6 +403,97 @@
       "last_pushed_at": "2026-09-01T09:23:18.631Z",
       "language": "python",
       "lines": 68
+    },
+    "problem:109": {
+      "kind": "problem",
+      "id": "109",
+      "title": "Implement Layer Normalization for Sequence Data",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/109",
+      "path": "problems/0109-implement-layer-normalization-for-sequence-data",
+      "first_solved_at": "2026-09-03T14:56:11.530Z",
+      "last_pushed_at": "2026-09-03T14:56:11.530Z",
+      "language": "python",
+      "lines": 30
+    },
+    "problem:107": {
+      "kind": "problem",
+      "id": "107",
+      "title": "Implement Masked Self-Attention",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/107",
+      "path": "problems/0107-implement-masked-self-attention",
+      "first_solved_at": "2026-09-03T14:56:54.745Z",
+      "last_pushed_at": "2026-09-03T14:56:54.745Z",
+      "language": "python",
+      "lines": 43
+    },
+    "problem:94": {
+      "kind": "problem",
+      "id": "94",
+      "title": "Implement Multi-Head Attention",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/94",
+      "path": "problems/0094-implement-multi-head-attention",
+      "first_solved_at": "2026-09-03T14:57:32.010Z",
+      "last_pushed_at": "2026-09-03T14:57:32.010Z",
+      "language": "python",
+      "lines": 98
+    },
+    "problem:85": {
+      "kind": "problem",
+      "id": "85",
+      "title": "Positional Encoding Calculator",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/85",
+      "path": "problems/0085-positional-encoding-calculator",
+      "first_solved_at": "2026-09-03T14:58:02.317Z",
+      "last_pushed_at": "2026-09-03T14:58:02.317Z",
+      "language": "python",
+      "lines": 28
+    },
+    "problem:53": {
+      "kind": "problem",
+      "id": "53",
+      "title": "Implement Self-Attention Mechanism",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/53",
+      "path": "problems/0053-implement-self-attention-mechanism",
+      "first_solved_at": "2026-09-03T14:58:35.723Z",
+      "last_pushed_at": "2026-09-03T14:58:35.723Z",
+      "language": "python",
+      "lines": 38
+    },
+    "lab:33": {
+      "kind": "lab",
+      "id": "33",
+      "title": "Tinygrad: Implement Your Own Gradient Descent Training Step",
+      "difficulty": "medium",
+      "category": "Tinygrad Fundamentals",
+      "url": "https://www.deep-ml.com/labs/33",
+      "path": "labs/0033-tinygrad-implement-your-own-gradient-descent-training-step",
+      "first_solved_at": "2026-09-03T15:07:16.082Z",
+      "last_pushed_at": "2026-09-03T15:07:16.082Z",
+      "language": "python",
+      "lines": 24
+    },
+    "lab:32": {
+      "kind": "lab",
+      "id": "32",
+      "title": "MNIST: Design Your Own Tinygrad Optimizer",
+      "difficulty": "medium",
+      "category": "Optimizers",
+      "url": "https://www.deep-ml.com/labs/32",
+      "path": "labs/0032-mnist-design-your-own-tinygrad-optimizer",
+      "first_solved_at": "2026-09-03T15:09:36.509Z",
+      "last_pushed_at": "2026-09-03T15:09:36.509Z",
+      "language": "python",
+      "lines": 62
     }
   }
 }
