@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**42** solved · 18 problems · 24 labs · 0 math
+**43** solved · 18 problems · 25 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -37,6 +37,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | --- | --- | --- | --- |
 | [Train a Binary Classifier](https://www.deep-ml.com/labs/23) | easy | 2026-08-20 | [solution](labs/0023-train-a-binary-classifier) |
 | [Train a Linear Regression Model](https://www.deep-ml.com/labs/18) | easy | 2026-08-26 | [solution](labs/0018-train-a-linear-regression-model) |
+| [Combine Trained Models into an Ensemble](https://www.deep-ml.com/labs/27) | medium | 2026-09-05 | [solution](labs/0027-combine-trained-models-into-an-ensemble) |
 | [Data Preprocessing: Handling Missing Values](https://www.deep-ml.com/labs/11) | medium | 2026-08-26 | [solution](labs/0011-data-preprocessing-handling-missing-values) |
 | [Design Your Own Optimizer (NumPy)](https://www.deep-ml.com/labs/8) | medium | 2026-09-01 | [solution](labs/0008-design-your-own-optimizer-numpy) |
 | [Design Your Own PTQ](https://www.deep-ml.com/labs/36) | medium | 2026-08-20 | [solution](labs/0036-design-your-own-ptq) |
