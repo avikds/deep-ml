@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**5** solved · 3 problems · 2 labs · 0 math
+**7** solved · 3 problems · 4 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -22,6 +22,8 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | --- | --- | --- | --- |
 | [Train a Binary Classifier](https://www.deep-ml.com/labs/23) | easy | 2026-08-20 | [solution](labs/0023-train-a-binary-classifier) |
 | [Design Your Own PTQ](https://www.deep-ml.com/labs/36) | medium | 2026-08-20 | [solution](labs/0036-design-your-own-ptq) |
+| [Design Your Own Tabular Classifier](https://www.deep-ml.com/labs/35) | medium | 2026-08-21 | [solution](labs/0035-design-your-own-tabular-classifier) |
+| [Feature Deconfounder for Biased Image Data](https://www.deep-ml.com/labs/16) | hard | 2026-08-21 | [solution](labs/0016-feature-deconfounder-for-biased-image-data) |
 
 ---
 
