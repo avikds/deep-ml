@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T04:39:51.466Z",
+  "generated_at": "2026-09-19T04:39:54.620Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -91,6 +91,32 @@
       "last_pushed_at": "2026-08-21T02:56:14.292Z",
       "language": "python",
       "lines": 97
+    },
+    "lab:6": {
+      "kind": "lab",
+      "id": "6",
+      "title": "MNIST: Build Neural Network from Scratch (NumPy Only)",
+      "difficulty": "hard",
+      "category": "Neural Network Fundamentals",
+      "url": "https://www.deep-ml.com/labs/6",
+      "path": "labs/0006-mnist-build-neural-network-from-scratch-numpy-only",
+      "first_solved_at": "2026-08-24T05:56:26.178Z",
+      "last_pushed_at": "2026-08-24T05:56:26.178Z",
+      "language": "python",
+      "lines": 116
+    },
+    "lab:5": {
+      "kind": "lab",
+      "id": "5",
+      "title": "MNIST: Adversarial Example Generation",
+      "difficulty": "hard",
+      "category": "Adversarial Robustness",
+      "url": "https://www.deep-ml.com/labs/5",
+      "path": "labs/0005-mnist-adversarial-example-generation",
+      "first_solved_at": "2026-08-24T05:57:52.225Z",
+      "last_pushed_at": "2026-08-24T05:57:52.225Z",
+      "language": "python",
+      "lines": 87
     }
   }
 }
