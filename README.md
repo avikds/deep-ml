@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**148** solved · 107 problems · 41 labs · 0 math
+**151** solved · 110 problems · 41 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -33,6 +33,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [K-Means Clustering](https://www.deep-ml.com/problems/17) | medium | 2026-08-25 | [solution](problems/0017-k-means-clustering) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-08-25 | [solution](problems/0009-matrix-times-matrix) |
 | [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2026-08-25 | [solution](problems/0007-matrix-transformation) |
+| [Minimum Remove to Make Valid Parentheses](https://www.deep-ml.com/problems/1159) | medium | 2026-09-12 | [solution](problems/1159-minimum-remove-to-make-valid-parentheses) |
 | [Numerical Gradient Checking](https://www.deep-ml.com/problems/313) | medium | 2026-09-06 | [solution](problems/0313-numerical-gradient-checking) |
 | [Sigmoidal Accuracy-to-Log-Likelihood Scaling Law Fit](https://www.deep-ml.com/problems/790) | medium | 2026-09-09 | [solution](problems/0790-sigmoidal-accuracy-to-log-likelihood-scaling-law-fit) |
 | [Solve Linear Equations using Jacobi Method](https://www.deep-ml.com/problems/11) | medium | 2026-08-25 | [solution](problems/0011-solve-linear-equations-using-jacobi-method) |
@@ -85,12 +86,14 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [ML Pipeline DAG Scheduler with Critical Path Analysis](https://www.deep-ml.com/problems/270) | hard | 2026-09-06 | [solution](problems/0270-ml-pipeline-dag-scheduler-with-critical-path-analysis) |
 | [Monte Carlo Tree Search](https://www.deep-ml.com/problems/207) | hard | 2026-09-06 | [solution](problems/0207-monte-carlo-tree-search) |
 | [Multi-Head Latent Attention (MLA)](https://www.deep-ml.com/problems/405) | hard | 2026-09-10 | [solution](problems/0405-multi-head-latent-attention-mla) |
+| [n-Step Tree Backup Algorithm](https://www.deep-ml.com/problems/581) | hard | 2026-09-12 | [solution](problems/0581-n-step-tree-backup-algorithm) |
 | [Non-Maximum Suppression for Object Detection](https://www.deep-ml.com/problems/242) | hard | 2026-09-06 | [solution](problems/0242-non-maximum-suppression-for-object-detection) |
 | [NoPE (No Positional Embedding) with iRoPE Attention](https://www.deep-ml.com/problems/406) | hard | 2026-09-10 | [solution](problems/0406-nope-no-positional-embedding-with-irope-attention) |
 | [Number Format Precision Comparison (FP16 vs BF16 vs FP8 vs FP4)](https://www.deep-ml.com/problems/428) | hard | 2026-09-10 | [solution](problems/0428-number-format-precision-comparison-fp16-vs-bf16-vs-fp8-vs-fp4) |
 | [Off-Policy Monte Carlo Control with Weighted Importance Sampling](https://www.deep-ml.com/problems/474) | hard | 2026-09-06 | [solution](problems/0474-off-policy-monte-carlo-control-with-weighted-importance-sampling) |
 | [Off-Policy n-Step Sarsa with Importance Sampling](https://www.deep-ml.com/problems/563) | hard | 2026-09-11 | [solution](problems/0563-off-policy-n-step-sarsa-with-importance-sampling) |
 | [Off-Policy n-Step TD Prediction with Importance Sampling](https://www.deep-ml.com/problems/549) | hard | 2026-09-11 | [solution](problems/0549-off-policy-n-step-td-prediction-with-importance-sampling) |
+| [Off-Policy TD(lambda) with Importance-Weighted Eligibility Traces](https://www.deep-ml.com/problems/580) | hard | 2026-09-12 | [solution](problems/0580-off-policy-td-lambda-with-importance-weighted-eligibility-traces) |
 | [PCA Color Augmentation](https://www.deep-ml.com/problems/191) | hard | 2026-09-06 | [solution](problems/0191-pca-color-augmentation) |
 | [Pegasos Kernel SVM Implementation](https://www.deep-ml.com/problems/21) | hard | 2026-08-25 | [solution](problems/0021-pegasos-kernel-svm-implementation) |
 | [Policy Gradient with REINFORCE](https://www.deep-ml.com/problems/122) | hard | 2026-09-06 | [solution](problems/0122-policy-gradient-with-reinforce) |

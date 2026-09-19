@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T04:40:50.863Z",
+  "generated_at": "2026-09-19T04:40:54.881Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -1924,6 +1924,45 @@
       "last_pushed_at": "2026-09-11T16:37:15.033Z",
       "language": "python",
       "lines": 92
+    },
+    "problem:1159": {
+      "kind": "problem",
+      "id": "1159",
+      "title": "Minimum Remove to Make Valid Parentheses",
+      "difficulty": "medium",
+      "category": "Algorithms",
+      "url": "https://www.deep-ml.com/problems/1159",
+      "path": "problems/1159-minimum-remove-to-make-valid-parentheses",
+      "first_solved_at": "2026-09-12T03:22:07.583Z",
+      "last_pushed_at": "2026-09-12T03:22:07.583Z",
+      "language": "python",
+      "lines": 20
+    },
+    "problem:580": {
+      "kind": "problem",
+      "id": "580",
+      "title": "Off-Policy TD(lambda) with Importance-Weighted Eligibility Traces",
+      "difficulty": "hard",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/580",
+      "path": "problems/0580-off-policy-td-lambda-with-importance-weighted-eligibility-traces",
+      "first_solved_at": "2026-09-12T15:54:34.720Z",
+      "last_pushed_at": "2026-09-12T15:54:34.720Z",
+      "language": "python",
+      "lines": 72
+    },
+    "problem:581": {
+      "kind": "problem",
+      "id": "581",
+      "title": "n-Step Tree Backup Algorithm",
+      "difficulty": "hard",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/581",
+      "path": "problems/0581-n-step-tree-backup-algorithm",
+      "first_solved_at": "2026-09-12T15:55:16.316Z",
+      "last_pushed_at": "2026-09-12T15:55:16.316Z",
+      "language": "python",
+      "lines": 103
     }
   }
 }
