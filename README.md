@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**203** solved · 162 problems · 41 labs · 0 math
+**206** solved · 165 problems · 41 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -26,6 +26,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Your First Gradient with jax.grad](https://www.deep-ml.com/problems/1325) | easy | 2026-09-10 | [solution](problems/1325-your-first-gradient-with-jax-grad) |
 | [Backpropagation Gradients for a Dense Layer](https://www.deep-ml.com/problems/1076) | medium | 2026-09-06 | [solution](problems/1076-backpropagation-gradients-for-a-dense-layer) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-08-20 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
+| [Highest Total Daily Order Cost in a Date Range](https://www.deep-ml.com/problems/1120) | medium | 2026-09-19 | [solution](problems/1120-highest-total-daily-order-cost-in-a-date-range) |
 | [Implement a Vision Transformer (ViT) Image Encoder](https://www.deep-ml.com/problems/720) | medium | 2026-09-16 | [solution](problems/0720-implement-a-vision-transformer-vit-image-encoder) |
 | [Implement BatchNorm2d from Scratch (training mode)](https://www.deep-ml.com/problems/902) | medium | 2026-09-07 | [solution](problems/0902-implement-batchnorm2d-from-scratch-training-mode) |
 | [Implement K-Fold Cross-Validation](https://www.deep-ml.com/problems/18) | medium | 2026-08-25 | [solution](problems/0018-implement-k-fold-cross-validation) |
@@ -50,6 +51,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Actor-Critic Algorithm](https://www.deep-ml.com/problems/538) | hard | 2026-09-11 | [solution](problems/0538-actor-critic-algorithm) |
 | [Actor-Critic with Traces](https://www.deep-ml.com/problems/539) | hard | 2026-09-11 | [solution](problems/0539-actor-critic-with-traces) |
 | [Advantage Actor-Critic (A2C) Batch Update from Parallel Environments](https://www.deep-ml.com/problems/553) | hard | 2026-09-11 | [solution](problems/0553-advantage-actor-critic-a2c-batch-update-from-parallel-environments) |
+| [Anticipatory Routing for MoE Training Stability](https://www.deep-ml.com/problems/744) | hard | 2026-09-19 | [solution](problems/0744-anticipatory-routing-for-moe-training-stability) |
 | [Asynchronous Advantage Actor-Critic (A3C)](https://www.deep-ml.com/problems/594) | hard | 2026-09-13 | [solution](problems/0594-asynchronous-advantage-actor-critic-a3c) |
 | [Asynchronous PPO Training Pipeline](https://www.deep-ml.com/problems/664) | hard | 2026-09-16 | [solution](problems/0664-asynchronous-ppo-training-pipeline) |
 | [Backgammon with TD Learning](https://www.deep-ml.com/problems/579) | hard | 2026-09-11 | [solution](problems/0579-backgammon-with-td-learning) |
@@ -66,6 +68,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Deep Q-Network Implementation](https://www.deep-ml.com/problems/551) | hard | 2026-09-11 | [solution](problems/0551-deep-q-network-implementation) |
 | [Determinant of a 4x4 Matrix using Laplace's Expansion (hard)](https://www.deep-ml.com/problems/13) | hard | 2026-08-25 | [solution](problems/0013-determinant-of-a-4x4-matrix-using-laplace-s-expansion-hard) |
 | [Deterministic Policy Gradient](https://www.deep-ml.com/problems/589) | hard | 2026-09-13 | [solution](problems/0589-deterministic-policy-gradient) |
+| [Deterministic Sparse Attention Backward KV Accumulation](https://www.deep-ml.com/problems/748) | hard | 2026-09-19 | [solution](problems/0748-deterministic-sparse-attention-backward-kv-accumulation) |
 | [Differential Sarsa Algorithm](https://www.deep-ml.com/problems/541) | hard | 2026-09-11 | [solution](problems/0541-differential-sarsa-algorithm) |
 | [Disaggregated Prefill-Decode Serving Simulator](https://www.deep-ml.com/problems/440) | hard | 2026-09-10 | [solution](problems/0440-disaggregated-prefill-decode-serving-simulator) |
 | [Distributed On-Policy Reinforcement Learning](https://www.deep-ml.com/problems/504) | hard | 2026-09-11 | [solution](problems/0504-distributed-on-policy-reinforcement-learning) |

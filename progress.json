@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T04:42:37.714Z",
+  "generated_at": "2026-09-19T04:42:39.618Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -2639,6 +2639,45 @@
       "last_pushed_at": "2026-09-18T04:06:37.903Z",
       "language": "python",
       "lines": 17
+    },
+    "problem:1120": {
+      "kind": "problem",
+      "id": "1120",
+      "title": "Highest Total Daily Order Cost in a Date Range",
+      "difficulty": "medium",
+      "category": "Sql",
+      "url": "https://www.deep-ml.com/problems/1120",
+      "path": "problems/1120-highest-total-daily-order-cost-in-a-date-range",
+      "first_solved_at": "2026-09-19T04:25:19.106Z",
+      "last_pushed_at": "2026-09-19T04:25:19.106Z",
+      "language": "sql",
+      "lines": 10
+    },
+    "problem:744": {
+      "kind": "problem",
+      "id": "744",
+      "title": "Anticipatory Routing for MoE Training Stability",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/744",
+      "path": "problems/0744-anticipatory-routing-for-moe-training-stability",
+      "first_solved_at": "2026-09-19T04:26:13.869Z",
+      "last_pushed_at": "2026-09-19T04:26:13.869Z",
+      "language": "python",
+      "lines": 39
+    },
+    "problem:748": {
+      "kind": "problem",
+      "id": "748",
+      "title": "Deterministic Sparse Attention Backward KV Accumulation",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/748",
+      "path": "problems/0748-deterministic-sparse-attention-backward-kv-accumulation",
+      "first_solved_at": "2026-09-19T04:27:30.766Z",
+      "last_pushed_at": "2026-09-19T04:27:30.766Z",
+      "language": "python",
+      "lines": 30
     }
   }
 }
