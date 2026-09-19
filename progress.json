@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T04:42:39.618Z",
+  "generated_at": "2026-09-19T05:48:49.715Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -2678,6 +2678,58 @@
       "last_pushed_at": "2026-09-19T04:27:30.766Z",
       "language": "python",
       "lines": 30
+    },
+    "problem:749": {
+      "kind": "problem",
+      "id": "749",
+      "title": "Deterministic MoE Backward with Buffer Isolation",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/749",
+      "path": "problems/0749-deterministic-moe-backward-with-buffer-isolation",
+      "first_solved_at": "2026-09-19T04:45:03.705Z",
+      "last_pushed_at": "2026-09-19T04:45:03.705Z",
+      "language": "python",
+      "lines": 39
+    },
+    "problem:756": {
+      "kind": "problem",
+      "id": "756",
+      "title": "Wave-Based Expert Parallelism Pipelining",
+      "difficulty": "hard",
+      "category": "Optimization",
+      "url": "https://www.deep-ml.com/problems/756",
+      "path": "problems/0756-wave-based-expert-parallelism-pipelining",
+      "first_solved_at": "2026-09-19T05:33:25.129Z",
+      "last_pushed_at": "2026-09-19T05:33:25.129Z",
+      "language": "python",
+      "lines": 27
+    },
+    "problem:760": {
+      "kind": "problem",
+      "id": "760",
+      "title": "Overlapping Look-Back KV Compression",
+      "difficulty": "hard",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/760",
+      "path": "problems/0760-overlapping-look-back-kv-compression",
+      "first_solved_at": "2026-09-19T05:33:59.027Z",
+      "last_pushed_at": "2026-09-19T05:33:59.027Z",
+      "language": "python",
+      "lines": 70
+    },
+    "problem:766": {
+      "kind": "problem",
+      "id": "766",
+      "title": "MinHash for Near-Duplicate Document Detection",
+      "difficulty": "hard",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/766",
+      "path": "problems/0766-minhash-for-near-duplicate-document-detection",
+      "first_solved_at": "2026-09-19T05:47:46.979Z",
+      "last_pushed_at": "2026-09-19T05:47:46.979Z",
+      "language": "python",
+      "lines": 75
     }
   }
 }

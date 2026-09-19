@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**206** solved · 165 problems · 41 labs · 0 math
+**210** solved · 169 problems · 41 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -67,6 +67,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Decision Tree Learning](https://www.deep-ml.com/problems/20) | hard | 2026-08-25 | [solution](problems/0020-decision-tree-learning) |
 | [Deep Q-Network Implementation](https://www.deep-ml.com/problems/551) | hard | 2026-09-11 | [solution](problems/0551-deep-q-network-implementation) |
 | [Determinant of a 4x4 Matrix using Laplace's Expansion (hard)](https://www.deep-ml.com/problems/13) | hard | 2026-08-25 | [solution](problems/0013-determinant-of-a-4x4-matrix-using-laplace-s-expansion-hard) |
+| [Deterministic MoE Backward with Buffer Isolation](https://www.deep-ml.com/problems/749) | hard | 2026-09-19 | [solution](problems/0749-deterministic-moe-backward-with-buffer-isolation) |
 | [Deterministic Policy Gradient](https://www.deep-ml.com/problems/589) | hard | 2026-09-13 | [solution](problems/0589-deterministic-policy-gradient) |
 | [Deterministic Sparse Attention Backward KV Accumulation](https://www.deep-ml.com/problems/748) | hard | 2026-09-19 | [solution](problems/0748-deterministic-sparse-attention-backward-kv-accumulation) |
 | [Differential Sarsa Algorithm](https://www.deep-ml.com/problems/541) | hard | 2026-09-11 | [solution](problems/0541-differential-sarsa-algorithm) |
@@ -113,6 +114,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Linear Sarsa Algorithm](https://www.deep-ml.com/problems/534) | hard | 2026-09-11 | [solution](problems/0534-linear-sarsa-algorithm) |
 | [Masked Generative Token Prediction Step](https://www.deep-ml.com/problems/706) | hard | 2026-09-17 | [solution](problems/0706-masked-generative-token-prediction-step) |
 | [MDN with Label Collinearity Control](https://www.deep-ml.com/problems/360) | hard | 2026-09-10 | [solution](problems/0360-mdn-with-label-collinearity-control) |
+| [MinHash for Near-Duplicate Document Detection](https://www.deep-ml.com/problems/766) | hard | 2026-09-19 | [solution](problems/0766-minhash-for-near-duplicate-document-detection) |
 | [ML Pipeline DAG Scheduler with Critical Path Analysis](https://www.deep-ml.com/problems/270) | hard | 2026-09-06 | [solution](problems/0270-ml-pipeline-dag-scheduler-with-critical-path-analysis) |
 | [Model-Based Value Expansion](https://www.deep-ml.com/problems/598) | hard | 2026-09-15 | [solution](problems/0598-model-based-value-expansion) |
 | [Monte Carlo Tree Search](https://www.deep-ml.com/problems/207) | hard | 2026-09-06 | [solution](problems/0207-monte-carlo-tree-search) |
@@ -125,6 +127,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Off-Policy n-Step Sarsa with Importance Sampling](https://www.deep-ml.com/problems/563) | hard | 2026-09-11 | [solution](problems/0563-off-policy-n-step-sarsa-with-importance-sampling) |
 | [Off-Policy n-Step TD Prediction with Importance Sampling](https://www.deep-ml.com/problems/549) | hard | 2026-09-11 | [solution](problems/0549-off-policy-n-step-td-prediction-with-importance-sampling) |
 | [Off-Policy TD(lambda) with Importance-Weighted Eligibility Traces](https://www.deep-ml.com/problems/580) | hard | 2026-09-12 | [solution](problems/0580-off-policy-td-lambda-with-importance-weighted-eligibility-traces) |
+| [Overlapping Look-Back KV Compression](https://www.deep-ml.com/problems/760) | hard | 2026-09-19 | [solution](problems/0760-overlapping-look-back-kv-compression) |
 | [Overlapping Weighted KV Compression](https://www.deep-ml.com/problems/735) | hard | 2026-09-17 | [solution](problems/0735-overlapping-weighted-kv-compression) |
 | [Parallel Environment Simulation with Multiprocessing](https://www.deep-ml.com/problems/655) | hard | 2026-09-16 | [solution](problems/0655-parallel-environment-simulation-with-multiprocessing) |
 | [Parallel Value Functions (Horde)](https://www.deep-ml.com/problems/585) | hard | 2026-09-13 | [solution](problems/0585-parallel-value-functions-horde) |
@@ -176,6 +179,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Variance Reduction in TD Learning via Truncated Importance Sampling](https://www.deep-ml.com/problems/650) | hard | 2026-09-16 | [solution](problems/0650-variance-reduction-in-td-learning-via-truncated-importance-sampling) |
 | [Variational Inference: ELBO Computation](https://www.deep-ml.com/problems/206) | hard | 2026-09-06 | [solution](problems/0206-variational-inference-elbo-computation) |
 | [Video Tokenizer with Spatiotemporal VQ-VAE](https://www.deep-ml.com/problems/704) | hard | 2026-09-17 | [solution](problems/0704-video-tokenizer-with-spatiotemporal-vq-vae) |
+| [Wave-Based Expert Parallelism Pipelining](https://www.deep-ml.com/problems/756) | hard | 2026-09-19 | [solution](problems/0756-wave-based-expert-parallelism-pipelining) |
 | [Zero-Copy C Environment Implementation](https://www.deep-ml.com/problems/670) | hard | 2026-09-16 | [solution](problems/0670-zero-copy-c-environment-implementation) |
 
 ## Labs
