@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**217** solved · 176 problems · 41 labs · 0 math
+**219** solved · 178 problems · 41 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -115,6 +115,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Least-Squares Temporal Difference (LSTD) for Policy Evaluation](https://www.deep-ml.com/problems/536) | hard | 2026-09-11 | [solution](problems/0536-least-squares-temporal-difference-lstd-for-policy-evaluation) |
 | [Lightning Indexer Sparse Attention Selection](https://www.deep-ml.com/problems/736) | hard | 2026-09-17 | [solution](problems/0736-lightning-indexer-sparse-attention-selection) |
 | [Linear Sarsa Algorithm](https://www.deep-ml.com/problems/534) | hard | 2026-09-11 | [solution](problems/0534-linear-sarsa-algorithm) |
+| [Manual Backprop Through Cross-Entropy Intermediates](https://www.deep-ml.com/problems/997) | hard | 2026-09-19 | [solution](problems/0997-manual-backprop-through-cross-entropy-intermediates) |
 | [Masked Generative Token Prediction Step](https://www.deep-ml.com/problems/706) | hard | 2026-09-17 | [solution](problems/0706-masked-generative-token-prediction-step) |
 | [MCTS with Step-wise Reward for Reasoning Trace Search](https://www.deep-ml.com/problems/777) | hard | 2026-09-19 | [solution](problems/0777-mcts-with-step-wise-reward-for-reasoning-trace-search) |
 | [MDN with Label Collinearity Control](https://www.deep-ml.com/problems/360) | hard | 2026-09-10 | [solution](problems/0360-mdn-with-label-collinearity-control) |
@@ -122,6 +123,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [ML Pipeline DAG Scheduler with Critical Path Analysis](https://www.deep-ml.com/problems/270) | hard | 2026-09-06 | [solution](problems/0270-ml-pipeline-dag-scheduler-with-critical-path-analysis) |
 | [Model-Based Value Expansion](https://www.deep-ml.com/problems/598) | hard | 2026-09-15 | [solution](problems/0598-model-based-value-expansion) |
 | [Monte Carlo Tree Search](https://www.deep-ml.com/problems/207) | hard | 2026-09-06 | [solution](problems/0207-monte-carlo-tree-search) |
+| [Monte Carlo Tree Search with Neural Policy and Value](https://www.deep-ml.com/problems/978) | hard | 2026-09-19 | [solution](problems/0978-monte-carlo-tree-search-with-neural-policy-and-value) |
 | [Multi-Head Latent Attention (MLA)](https://www.deep-ml.com/problems/405) | hard | 2026-09-10 | [solution](problems/0405-multi-head-latent-attention-mla) |
 | [n-Step Tree Backup Algorithm](https://www.deep-ml.com/problems/581) | hard | 2026-09-12 | [solution](problems/0581-n-step-tree-backup-algorithm) |
 | [Non-Maximum Suppression for Object Detection](https://www.deep-ml.com/problems/242) | hard | 2026-09-06 | [solution](problems/0242-non-maximum-suppression-for-object-detection) |

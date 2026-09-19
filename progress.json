@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T09:04:19.408Z",
+  "generated_at": "2026-09-19T19:13:29.817Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -2821,6 +2821,32 @@
       "last_pushed_at": "2026-09-19T09:00:26.691Z",
       "language": "python",
       "lines": 107
+    },
+    "problem:978": {
+      "kind": "problem",
+      "id": "978",
+      "title": "Monte Carlo Tree Search with Neural Policy and Value",
+      "difficulty": "hard",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/978",
+      "path": "problems/0978-monte-carlo-tree-search-with-neural-policy-and-value",
+      "first_solved_at": "2026-09-19T19:09:37.147Z",
+      "last_pushed_at": "2026-09-19T19:09:37.147Z",
+      "language": "python",
+      "lines": 153
+    },
+    "problem:997": {
+      "kind": "problem",
+      "id": "997",
+      "title": "Manual Backprop Through Cross-Entropy Intermediates",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/997",
+      "path": "problems/0997-manual-backprop-through-cross-entropy-intermediates",
+      "first_solved_at": "2026-09-19T19:13:03.452Z",
+      "last_pushed_at": "2026-09-19T19:13:03.452Z",
+      "language": "python",
+      "lines": 68
     }
   }
 }
