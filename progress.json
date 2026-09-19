@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T04:40:56.720Z",
+  "generated_at": "2026-09-19T04:40:59.271Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -2093,6 +2093,19 @@
       "last_pushed_at": "2026-09-13T13:05:09.469Z",
       "language": "python",
       "lines": 84
+    },
+    "problem:1387": {
+      "kind": "problem",
+      "id": "1387",
+      "title": "Looped Transformer Stack Forward Pass",
+      "difficulty": "medium",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/1387",
+      "path": "problems/1387-looped-transformer-stack-forward-pass",
+      "first_solved_at": "2026-09-14T05:59:06.653Z",
+      "last_pushed_at": "2026-09-14T05:59:06.653Z",
+      "language": "python",
+      "lines": 29
     }
   }
 }
