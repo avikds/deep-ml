@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T04:39:56.778Z",
+  "generated_at": "2026-09-19T04:39:58.938Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -247,6 +247,123 @@
       "last_pushed_at": "2026-08-25T10:23:48.469Z",
       "language": "python",
       "lines": 92
+    },
+    "lab:4": {
+      "kind": "lab",
+      "id": "4",
+      "title": "MNIST: Classification Loss (with Gradient)",
+      "difficulty": "hard",
+      "category": "Loss Functions",
+      "url": "https://www.deep-ml.com/labs/4",
+      "path": "labs/0004-mnist-classification-loss-with-gradient",
+      "first_solved_at": "2026-08-26T06:10:49.812Z",
+      "last_pushed_at": "2026-08-26T06:10:49.812Z",
+      "language": "python",
+      "lines": 48
+    },
+    "lab:29": {
+      "kind": "lab",
+      "id": "29",
+      "title": "Fine-Tune DistilGPT2 on TinyStories",
+      "difficulty": "hard",
+      "category": "LLM Fine-Tuning",
+      "url": "https://www.deep-ml.com/labs/29",
+      "path": "labs/0029-fine-tune-distilgpt2-on-tinystories",
+      "first_solved_at": "2026-08-26T06:13:31.735Z",
+      "last_pushed_at": "2026-08-26T06:13:31.735Z",
+      "language": "python",
+      "lines": 107
+    },
+    "lab:26": {
+      "kind": "lab",
+      "id": "26",
+      "title": "Build a Tree for a Random Forest",
+      "difficulty": "hard",
+      "category": "Ensembles",
+      "url": "https://www.deep-ml.com/labs/26",
+      "path": "labs/0026-build-a-tree-for-a-random-forest",
+      "first_solved_at": "2026-08-26T06:14:40.915Z",
+      "last_pushed_at": "2026-08-26T06:14:40.915Z",
+      "language": "python",
+      "lines": 229
+    },
+    "lab:20": {
+      "kind": "lab",
+      "id": "20",
+      "title": "Build a Digit Classifier from Scratch",
+      "difficulty": "hard",
+      "category": "Classification",
+      "url": "https://www.deep-ml.com/labs/20",
+      "path": "labs/0020-build-a-digit-classifier-from-scratch",
+      "first_solved_at": "2026-08-26T06:15:46.935Z",
+      "last_pushed_at": "2026-08-26T06:15:46.935Z",
+      "language": "python",
+      "lines": 80
+    },
+    "lab:91c76ab2-7d3a-43a7-98ce-385aab6f1691": {
+      "kind": "lab",
+      "id": "91c76ab2-7d3a-43a7-98ce-385aab6f1691",
+      "title": "Train a Tiny CNN Image Classifier",
+      "difficulty": "hard",
+      "category": "Model Architecture",
+      "url": "https://www.deep-ml.com/labs/91c76ab2-7d3a-43a7-98ce-385aab6f1691",
+      "path": "labs/91c76ab2-7d3a-43a7-98ce-385aab6f1691-train-a-tiny-cnn-image-classifier",
+      "first_solved_at": "2026-08-26T06:16:45.069Z",
+      "last_pushed_at": "2026-08-26T06:16:45.069Z",
+      "language": "python",
+      "lines": 83
+    },
+    "lab:18": {
+      "kind": "lab",
+      "id": "18",
+      "title": "Train a Linear Regression Model",
+      "difficulty": "easy",
+      "category": "Regression",
+      "url": "https://www.deep-ml.com/labs/18",
+      "path": "labs/0018-train-a-linear-regression-model",
+      "first_solved_at": "2026-08-26T08:50:45.388Z",
+      "last_pushed_at": "2026-08-26T08:50:45.388Z",
+      "language": "python",
+      "lines": 30
+    },
+    "lab:14": {
+      "kind": "lab",
+      "id": "14",
+      "title": "Numpy: Design Your Own Dimensionality Reduction",
+      "difficulty": "medium",
+      "category": "Dimensionality Reduction",
+      "url": "https://www.deep-ml.com/labs/14",
+      "path": "labs/0014-numpy-design-your-own-dimensionality-reduction",
+      "first_solved_at": "2026-08-26T08:53:03.083Z",
+      "last_pushed_at": "2026-08-26T08:53:03.083Z",
+      "language": "python",
+      "lines": 50
+    },
+    "lab:12": {
+      "kind": "lab",
+      "id": "12",
+      "title": "PyTorch: Implement Your Own Gradient Descent Training Step",
+      "difficulty": "medium",
+      "category": "PyTorch Fundamentals",
+      "url": "https://www.deep-ml.com/labs/12",
+      "path": "labs/0012-pytorch-implement-your-own-gradient-descent-training-step",
+      "first_solved_at": "2026-08-26T08:54:05.911Z",
+      "last_pushed_at": "2026-08-26T08:54:05.911Z",
+      "language": "python",
+      "lines": 31
+    },
+    "lab:11": {
+      "kind": "lab",
+      "id": "11",
+      "title": "Data Preprocessing: Handling Missing Values",
+      "difficulty": "medium",
+      "category": "Data Structures",
+      "url": "https://www.deep-ml.com/labs/11",
+      "path": "labs/0011-data-preprocessing-handling-missing-values",
+      "first_solved_at": "2026-08-26T08:55:28.110Z",
+      "last_pushed_at": "2026-08-26T08:55:28.110Z",
+      "language": "python",
+      "lines": 27
     }
   }
 }
