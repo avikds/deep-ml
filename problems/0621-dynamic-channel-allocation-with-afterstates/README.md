@@ -1,0 +1,9 @@
+# Dynamic Channel Allocation with Afterstates
+
+**Difficulty:** hard · **Category:** Reinforcement Learning
+
+[Solve it on Deep-ML](https://www.deep-ml.com/problems/621)
+
+---
+
+_Pushed from [Deep-ML](https://www.deep-ml.com)._
