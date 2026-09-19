@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**38** solved · 18 problems · 20 labs · 0 math
+**42** solved · 18 problems · 24 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -41,9 +41,13 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Design Your Own Optimizer (NumPy)](https://www.deep-ml.com/labs/8) | medium | 2026-09-01 | [solution](labs/0008-design-your-own-optimizer-numpy) |
 | [Design Your Own PTQ](https://www.deep-ml.com/labs/36) | medium | 2026-08-20 | [solution](labs/0036-design-your-own-ptq) |
 | [Design Your Own Tabular Classifier](https://www.deep-ml.com/labs/35) | medium | 2026-08-21 | [solution](labs/0035-design-your-own-tabular-classifier) |
+| [Few-Shot Classification with Cluster-Based Label Propagation](https://www.deep-ml.com/labs/28) | medium | 2026-09-04 | [solution](labs/0028-few-shot-classification-with-cluster-based-label-propagation) |
+| [MNIST: Design Your Own Pytorch Optimizer](https://www.deep-ml.com/labs/3) | medium | 2026-09-04 | [solution](labs/0003-mnist-design-your-own-pytorch-optimizer) |
 | [MNIST: Design Your Own Tinygrad Optimizer](https://www.deep-ml.com/labs/32) | medium | 2026-09-03 | [solution](labs/0032-mnist-design-your-own-tinygrad-optimizer) |
+| [MNIST: Design-Your-Own Tiny Tinygrad Model](https://www.deep-ml.com/labs/31) | medium | 2026-09-04 | [solution](labs/0031-mnist-design-your-own-tiny-tinygrad-model) |
 | [MNIST: Fix Very Deep Network Training](https://www.deep-ml.com/labs/7) | medium | 2026-09-01 | [solution](labs/0007-mnist-fix-very-deep-network-training) |
 | [MNIST: Pytorch DataLoader](https://www.deep-ml.com/labs/1) | medium | 2026-08-31 | [solution](labs/0001-mnist-pytorch-dataloader) |
+| [MNIST: Tinygrad Data Transform](https://www.deep-ml.com/labs/30) | medium | 2026-09-04 | [solution](labs/0030-mnist-tinygrad-data-transform) |
 | [Numpy: Design Your Own Dimensionality Reduction](https://www.deep-ml.com/labs/14) | medium | 2026-08-26 | [solution](labs/0014-numpy-design-your-own-dimensionality-reduction) |
 | [PyTorch: Implement Your Own Gradient Descent Training Step](https://www.deep-ml.com/labs/12) | medium | 2026-08-26 | [solution](labs/0012-pytorch-implement-your-own-gradient-descent-training-step) |
 | [Tinygrad: Implement Your Own Gradient Descent Training Step](https://www.deep-ml.com/labs/33) | medium | 2026-09-03 | [solution](labs/0033-tinygrad-implement-your-own-gradient-descent-training-step) |

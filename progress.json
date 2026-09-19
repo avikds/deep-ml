@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T04:40:06.983Z",
+  "generated_at": "2026-09-19T04:40:10.085Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -494,6 +494,58 @@
       "last_pushed_at": "2026-09-03T15:09:36.509Z",
       "language": "python",
       "lines": 62
+    },
+    "lab:31": {
+      "kind": "lab",
+      "id": "31",
+      "title": "MNIST: Design-Your-Own Tiny Tinygrad Model",
+      "difficulty": "medium",
+      "category": "Model Architecture",
+      "url": "https://www.deep-ml.com/labs/31",
+      "path": "labs/0031-mnist-design-your-own-tiny-tinygrad-model",
+      "first_solved_at": "2026-09-04T09:10:44.251Z",
+      "last_pushed_at": "2026-09-04T09:10:44.251Z",
+      "language": "python",
+      "lines": 31
+    },
+    "lab:30": {
+      "kind": "lab",
+      "id": "30",
+      "title": "MNIST: Tinygrad Data Transform",
+      "difficulty": "medium",
+      "category": "Data Pipelines",
+      "url": "https://www.deep-ml.com/labs/30",
+      "path": "labs/0030-mnist-tinygrad-data-transform",
+      "first_solved_at": "2026-09-04T09:18:55.707Z",
+      "last_pushed_at": "2026-09-04T09:18:55.707Z",
+      "language": "python",
+      "lines": 11
+    },
+    "lab:3": {
+      "kind": "lab",
+      "id": "3",
+      "title": "MNIST: Design Your Own Pytorch Optimizer",
+      "difficulty": "medium",
+      "category": "Optimizers",
+      "url": "https://www.deep-ml.com/labs/3",
+      "path": "labs/0003-mnist-design-your-own-pytorch-optimizer",
+      "first_solved_at": "2026-09-04T14:22:15.909Z",
+      "last_pushed_at": "2026-09-04T14:22:15.909Z",
+      "language": "python",
+      "lines": 92
+    },
+    "lab:28": {
+      "kind": "lab",
+      "id": "28",
+      "title": "Few-Shot Classification with Cluster-Based Label Propagation",
+      "difficulty": "medium",
+      "category": "Clustering",
+      "url": "https://www.deep-ml.com/labs/28",
+      "path": "labs/0028-few-shot-classification-with-cluster-based-label-propagation",
+      "first_solved_at": "2026-09-04T14:25:38.346Z",
+      "last_pushed_at": "2026-09-04T14:25:38.346Z",
+      "language": "python",
+      "lines": 93
     }
   }
 }
