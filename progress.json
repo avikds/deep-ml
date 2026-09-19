@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T04:40:01.977Z",
+  "generated_at": "2026-09-19T04:40:04.015Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -377,6 +377,32 @@
       "last_pushed_at": "2026-08-31T18:08:33.829Z",
       "language": "python",
       "lines": 9
+    },
+    "lab:8": {
+      "kind": "lab",
+      "id": "8",
+      "title": "Design Your Own Optimizer (NumPy)",
+      "difficulty": "medium",
+      "category": "Optimizers",
+      "url": "https://www.deep-ml.com/labs/8",
+      "path": "labs/0008-design-your-own-optimizer-numpy",
+      "first_solved_at": "2026-09-01T09:22:14.670Z",
+      "last_pushed_at": "2026-09-01T09:22:14.670Z",
+      "language": "python",
+      "lines": 43
+    },
+    "lab:7": {
+      "kind": "lab",
+      "id": "7",
+      "title": "MNIST: Fix Very Deep Network Training",
+      "difficulty": "medium",
+      "category": "Network Optimization",
+      "url": "https://www.deep-ml.com/labs/7",
+      "path": "labs/0007-mnist-fix-very-deep-network-training",
+      "first_solved_at": "2026-09-01T09:23:18.631Z",
+      "last_pushed_at": "2026-09-01T09:23:18.631Z",
+      "language": "python",
+      "lines": 68
     }
   }
 }

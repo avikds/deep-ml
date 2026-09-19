@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**29** solved · 13 problems · 16 labs · 0 math
+**31** solved · 13 problems · 18 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -33,8 +33,10 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Train a Binary Classifier](https://www.deep-ml.com/labs/23) | easy | 2026-08-20 | [solution](labs/0023-train-a-binary-classifier) |
 | [Train a Linear Regression Model](https://www.deep-ml.com/labs/18) | easy | 2026-08-26 | [solution](labs/0018-train-a-linear-regression-model) |
 | [Data Preprocessing: Handling Missing Values](https://www.deep-ml.com/labs/11) | medium | 2026-08-26 | [solution](labs/0011-data-preprocessing-handling-missing-values) |
+| [Design Your Own Optimizer (NumPy)](https://www.deep-ml.com/labs/8) | medium | 2026-09-01 | [solution](labs/0008-design-your-own-optimizer-numpy) |
 | [Design Your Own PTQ](https://www.deep-ml.com/labs/36) | medium | 2026-08-20 | [solution](labs/0036-design-your-own-ptq) |
 | [Design Your Own Tabular Classifier](https://www.deep-ml.com/labs/35) | medium | 2026-08-21 | [solution](labs/0035-design-your-own-tabular-classifier) |
+| [MNIST: Fix Very Deep Network Training](https://www.deep-ml.com/labs/7) | medium | 2026-09-01 | [solution](labs/0007-mnist-fix-very-deep-network-training) |
 | [MNIST: Pytorch DataLoader](https://www.deep-ml.com/labs/1) | medium | 2026-08-31 | [solution](labs/0001-mnist-pytorch-dataloader) |
 | [Numpy: Design Your Own Dimensionality Reduction](https://www.deep-ml.com/labs/14) | medium | 2026-08-26 | [solution](labs/0014-numpy-design-your-own-dimensionality-reduction) |
 | [PyTorch: Implement Your Own Gradient Descent Training Step](https://www.deep-ml.com/labs/12) | medium | 2026-08-26 | [solution](labs/0012-pytorch-implement-your-own-gradient-descent-training-step) |
