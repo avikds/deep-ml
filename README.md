@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**84** solved · 56 problems · 28 labs · 0 math
+**86** solved · 57 problems · 29 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -22,6 +22,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Single Neuron](https://www.deep-ml.com/problems/24) | easy | 2026-09-06 | [solution](problems/0024-single-neuron) |
 | [Backpropagation Gradients for a Dense Layer](https://www.deep-ml.com/problems/1076) | medium | 2026-09-06 | [solution](problems/1076-backpropagation-gradients-for-a-dense-layer) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-08-20 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
+| [Implement BatchNorm2d from Scratch (training mode)](https://www.deep-ml.com/problems/902) | medium | 2026-09-07 | [solution](problems/0902-implement-batchnorm2d-from-scratch-training-mode) |
 | [Implement K-Fold Cross-Validation](https://www.deep-ml.com/problems/18) | medium | 2026-08-25 | [solution](problems/0018-implement-k-fold-cross-validation) |
 | [Implement Layer Normalization for Sequence Data](https://www.deep-ml.com/problems/109) | medium | 2026-09-03 | [solution](problems/0109-implement-layer-normalization-for-sequence-data) |
 | [Implement Masked Self-Attention](https://www.deep-ml.com/problems/107) | medium | 2026-09-03 | [solution](problems/0107-implement-masked-self-attention) |
@@ -95,6 +96,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Tinygrad: Implement Your Own Gradient Descent Training Step](https://www.deep-ml.com/labs/33) | medium | 2026-09-03 | [solution](labs/0033-tinygrad-implement-your-own-gradient-descent-training-step) |
 | [Build a Digit Classifier from Scratch](https://www.deep-ml.com/labs/20) | hard | 2026-08-26 | [solution](labs/0020-build-a-digit-classifier-from-scratch) |
 | [Build a Tree for a Random Forest](https://www.deep-ml.com/labs/26) | hard | 2026-08-26 | [solution](labs/0026-build-a-tree-for-a-random-forest) |
+| [Design Your Own Latent Dynamics: Self-Speculative Decoding on TinyStories](https://www.deep-ml.com/labs/442392d7-09c3-4535-94f5-3aa8f288cce5) | hard | 2026-09-07 | [solution](labs/442392d7-09c3-4535-94f5-3aa8f288cce5-design-your-own-latent-dynamics-self-speculative-decoding-on-tinystories) |
 | [Feature Deconfounder for Biased Image Data](https://www.deep-ml.com/labs/16) | hard | 2026-08-21 | [solution](labs/0016-feature-deconfounder-for-biased-image-data) |
 | [Fine-Tune DistilGPT2 on TinyStories](https://www.deep-ml.com/labs/29) | hard | 2026-08-26 | [solution](labs/0029-fine-tune-distilgpt2-on-tinystories) |
 | [MNIST: Adversarial Example Generation](https://www.deep-ml.com/labs/5) | hard | 2026-08-24 | [solution](labs/0005-mnist-adversarial-example-generation) |

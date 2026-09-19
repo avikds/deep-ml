@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T04:40:13.833Z",
+  "generated_at": "2026-09-19T04:40:17.758Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -1092,6 +1092,32 @@
       "last_pushed_at": "2026-09-06T08:18:31.694Z",
       "language": "python",
       "lines": 88
+    },
+    "problem:902": {
+      "kind": "problem",
+      "id": "902",
+      "title": "Implement BatchNorm2d from Scratch (training mode)",
+      "difficulty": "medium",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/902",
+      "path": "problems/0902-implement-batchnorm2d-from-scratch-training-mode",
+      "first_solved_at": "2026-09-07T10:59:41.317Z",
+      "last_pushed_at": "2026-09-07T10:59:41.317Z",
+      "language": "python",
+      "lines": 16
+    },
+    "lab:442392d7-09c3-4535-94f5-3aa8f288cce5": {
+      "kind": "lab",
+      "id": "442392d7-09c3-4535-94f5-3aa8f288cce5",
+      "title": "Design Your Own Latent Dynamics: Self-Speculative Decoding on TinyStories",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/labs/442392d7-09c3-4535-94f5-3aa8f288cce5",
+      "path": "labs/442392d7-09c3-4535-94f5-3aa8f288cce5-design-your-own-latent-dynamics-self-speculative-decoding-on-tinystories",
+      "first_solved_at": "2026-09-07T11:03:11.692Z",
+      "last_pushed_at": "2026-09-07T11:03:11.692Z",
+      "language": "python",
+      "lines": 60
     }
   }
 }
