@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T04:40:59.271Z",
+  "generated_at": "2026-09-19T04:41:01.061Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -2106,6 +2106,136 @@
       "last_pushed_at": "2026-09-14T05:59:06.653Z",
       "language": "python",
       "lines": 29
+    },
+    "problem:887": {
+      "kind": "problem",
+      "id": "887",
+      "title": "Build an MLP with nn.Sequential",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/887",
+      "path": "problems/0887-build-an-mlp-with-nn-sequential",
+      "first_solved_at": "2026-09-15T06:04:38.986Z",
+      "last_pushed_at": "2026-09-15T06:04:38.986Z",
+      "language": "python",
+      "lines": 9
+    },
+    "problem:595": {
+      "kind": "problem",
+      "id": "595",
+      "title": "Trust Region Policy Optimization (TRPO)",
+      "difficulty": "hard",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/595",
+      "path": "problems/0595-trust-region-policy-optimization-trpo",
+      "first_solved_at": "2026-09-15T06:09:02.895Z",
+      "last_pushed_at": "2026-09-15T06:09:02.895Z",
+      "language": "python",
+      "lines": 174
+    },
+    "problem:596": {
+      "kind": "problem",
+      "id": "596",
+      "title": "Distributional RL: Categorical Projection (C51)",
+      "difficulty": "hard",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/596",
+      "path": "problems/0596-distributional-rl-categorical-projection-c51",
+      "first_solved_at": "2026-09-15T06:10:03.823Z",
+      "last_pushed_at": "2026-09-15T06:10:03.823Z",
+      "language": "python",
+      "lines": 44
+    },
+    "problem:597": {
+      "kind": "problem",
+      "id": "597",
+      "title": "Successor Representation Learning",
+      "difficulty": "hard",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/597",
+      "path": "problems/0597-successor-representation-learning",
+      "first_solved_at": "2026-09-15T06:11:07.891Z",
+      "last_pushed_at": "2026-09-15T06:11:07.891Z",
+      "language": "python",
+      "lines": 39
+    },
+    "problem:598": {
+      "kind": "problem",
+      "id": "598",
+      "title": "Model-Based Value Expansion",
+      "difficulty": "hard",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/598",
+      "path": "problems/0598-model-based-value-expansion",
+      "first_solved_at": "2026-09-15T06:11:34.052Z",
+      "last_pushed_at": "2026-09-15T06:11:34.052Z",
+      "language": "python",
+      "lines": 53
+    },
+    "problem:600": {
+      "kind": "problem",
+      "id": "600",
+      "title": "Kanerva Coding for High-Dimensional Spaces",
+      "difficulty": "hard",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/600",
+      "path": "problems/0600-kanerva-coding-for-high-dimensional-spaces",
+      "first_solved_at": "2026-09-15T06:13:31.482Z",
+      "last_pushed_at": "2026-09-15T06:13:31.482Z",
+      "language": "python",
+      "lines": 52
+    },
+    "problem:601": {
+      "kind": "problem",
+      "id": "601",
+      "title": "Hashing for Memory-Efficient Tile Coding",
+      "difficulty": "hard",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/601",
+      "path": "problems/0601-hashing-for-memory-efficient-tile-coding",
+      "first_solved_at": "2026-09-15T06:21:17.093Z",
+      "last_pushed_at": "2026-09-15T06:21:17.093Z",
+      "language": "python",
+      "lines": 51
+    },
+    "problem:602": {
+      "kind": "problem",
+      "id": "602",
+      "title": "TD(λ) Asymptotic Error Bound Verification",
+      "difficulty": "hard",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/602",
+      "path": "problems/0602-td-asymptotic-error-bound-verification",
+      "first_solved_at": "2026-09-15T06:23:25.358Z",
+      "last_pushed_at": "2026-09-15T06:23:25.358Z",
+      "language": "python",
+      "lines": 70
+    },
+    "problem:614": {
+      "kind": "problem",
+      "id": "614",
+      "title": "Blocking Maze with Model Updates",
+      "difficulty": "hard",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/614",
+      "path": "problems/0614-blocking-maze-with-model-updates",
+      "first_solved_at": "2026-09-15T06:24:41.908Z",
+      "last_pushed_at": "2026-09-15T06:24:41.908Z",
+      "language": "python",
+      "lines": 136
+    },
+    "problem:615": {
+      "kind": "problem",
+      "id": "615",
+      "title": "Shortcut Maze and Exploration",
+      "difficulty": "hard",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/615",
+      "path": "problems/0615-shortcut-maze-and-exploration",
+      "first_solved_at": "2026-09-15T11:25:38.139Z",
+      "last_pushed_at": "2026-09-15T11:25:38.139Z",
+      "language": "python",
+      "lines": 142
     }
   }
 }
