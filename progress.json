@@ -1,0 +1,70 @@
+{
+  "generated_at": "2026-09-19T04:39:49.469Z",
+  "items": {
+    "problem:1": {
+      "kind": "problem",
+      "id": "1",
+      "title": "Matrix-Vector Dot Product",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1",
+      "path": "problems/0001-matrix-vector-dot-product",
+      "first_solved_at": "2026-08-20T11:04:15.844Z",
+      "last_pushed_at": "2026-08-20T11:04:15.844Z",
+      "language": "python",
+      "lines": 10
+    },
+    "problem:6": {
+      "kind": "problem",
+      "id": "6",
+      "title": "Calculate Eigenvalues of a Matrix",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/6",
+      "path": "problems/0006-calculate-eigenvalues-of-a-matrix",
+      "first_solved_at": "2026-08-20T11:05:37.220Z",
+      "last_pushed_at": "2026-08-20T11:05:37.220Z",
+      "language": "python",
+      "lines": 16
+    },
+    "problem:12": {
+      "kind": "problem",
+      "id": "12",
+      "title": "Singular Value Decomposition (SVD) of 2x2 Matrix",
+      "difficulty": "hard",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/12",
+      "path": "problems/0012-singular-value-decomposition-svd-of-2x2-matrix",
+      "first_solved_at": "2026-08-20T11:07:28.806Z",
+      "last_pushed_at": "2026-08-20T11:07:28.806Z",
+      "language": "python",
+      "lines": 73
+    },
+    "lab:23": {
+      "kind": "lab",
+      "id": "23",
+      "title": "Train a Binary Classifier",
+      "difficulty": "easy",
+      "category": "Logistic Regression",
+      "url": "https://www.deep-ml.com/labs/23",
+      "path": "labs/0023-train-a-binary-classifier",
+      "first_solved_at": "2026-08-20T11:11:28.545Z",
+      "last_pushed_at": "2026-08-20T11:11:28.545Z",
+      "language": "python",
+      "lines": 46
+    },
+    "lab:36": {
+      "kind": "lab",
+      "id": "36",
+      "title": "Design Your Own PTQ",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/labs/36",
+      "path": "labs/0036-design-your-own-ptq",
+      "first_solved_at": "2026-08-20T11:13:24.295Z",
+      "last_pushed_at": "2026-08-20T11:13:24.295Z",
+      "language": "python",
+      "lines": 76
+    }
+  }
+}

@@ -1,0 +1,126 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>avikds · Deep-ML</title>
+<meta name="description" content="Machine learning practice by avikds, solved on Deep-ML and committed here." />
+<meta property="og:title" content="avikds: machine learning, solved by hand" />
+<meta property="og:type" content="profile" />
+<meta property="og:url" content="https://avikds.github.io/deep-ml/" />
+<meta property="og:description" content="Every problem in the Deep-ML catalog, and the ones avikds has solved. Replay it filling in over time." />
+<!-- The card is rendered on deep-ml.com: Pages is static and cannot make an
+     image, and neither Twitter nor LinkedIn will take an SVG as an og:image. -->
+<meta property="og:image" content="https://www.deep-ml.com/api/og/portfolio/avikds.png?repo=deep-ml&amp;t=5wY06k4ZrHZfQw" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="avikds: machine learning, solved by hand" />
+<meta name="twitter:image" content="https://www.deep-ml.com/api/og/portfolio/avikds.png?repo=deep-ml&amp;t=5wY06k4ZrHZfQw" />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link rel="preconnect" href="https://raw.githubusercontent.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet" />
+<link rel="stylesheet" href="./style.css" />
+</head>
+<body>
+<div class="wrap">
+
+  <header class="top">
+    <div class="brand"><b>Deep-ML</b> practice portfolio</div>
+    <div class="chips">
+      <a class="chip" href="https://github.com/avikds/deep-ml">Repository</a>
+      <a class="chip" href="https://www.deep-ml.com">Deep-ML</a>
+      <button class="chip" id="share" type="button">Share</button>
+      <button class="chip" id="theme" type="button" aria-label="Toggle colour theme">Theme</button>
+    </div>
+  </header>
+
+  <div id="boot" class="hero">
+    <div class="skeleton" style="height:44px;width:min(340px,60%)"></div>
+    <div class="skeleton" style="height:18px;width:min(520px,80%);margin-top:14px"></div>
+    <div class="skeleton" style="height:120px;width:min(420px,70%);margin-top:34px"></div>
+  </div>
+
+  <main id="app" class="gone">
+    <section class="hero">
+      <h1 id="who"></h1>
+      <p class="sub" id="lede"></p>
+      <div class="headline">
+        <div class="big tnum" id="bignum"></div>
+        <div class="big-meta">
+          <div class="l1" id="bigl1"></div>
+          <div class="l2" id="bigl2"></div>
+        </div>
+      </div>
+      <div class="rail" id="rail"></div>
+    </section>
+
+    <section class="sec">
+      <div class="sec-head">
+        <h2>Coverage</h2>
+        <span class="note">every problem on Deep-ML, one square each</span>
+      </div>
+      <p class="sec-lede">Filled squares are solved and open the code in this repository. Empty ones open the problem. Drag the slider to watch the map fill in as it actually happened.</p>
+
+      <div class="scrub" id="scrub">
+        <button class="play" id="play" type="button" aria-label="Replay progress over time">
+          <svg viewBox="0 0 10 12"><path d="M0 0l10 6-10 6z"/></svg>
+        </button>
+        <input type="range" id="slider" min="0" max="1" value="1" aria-label="Date" />
+        <div class="stamp tnum" id="stamp"></div>
+        <button class="chip" id="export" type="button" title="Save the replay as a GIF">GIF</button>
+      </div>
+      <canvas id="frame" width="800" height="450" style="display:none"></canvas>
+
+      <div class="map" id="map"></div>
+
+      <div class="legend">
+        <span><i class="sw" style="background:var(--easy)"></i> easy</span>
+        <span><i class="sw" style="background:var(--medium)"></i> medium</span>
+        <span><i class="sw" style="background:var(--hard)"></i> hard</span>
+        <span><i class="sw" style="background:var(--none)"></i> not solved yet</span>
+      </div>
+    </section>
+
+    <section class="sec" id="momentum">
+      <div class="sec-head"><h2>Momentum</h2><span class="note" id="peak"></span></div>
+      <div class="panel"><svg class="spark" id="spark" viewBox="0 0 1000 84" preserveAspectRatio="none"></svg></div>
+    </section>
+
+    <section class="sec">
+      <div class="sec-head"><h2>Breakdown</h2></div>
+      <div class="duo">
+        <div class="panel"><h4>Difficulty</h4><div id="difficulty"></div></div>
+        <div class="panel" id="langpanel"><h4>Languages</h4><div id="languages"></div></div>
+      </div>
+    </section>
+
+    <section class="sec" id="nextpanel">
+      <div class="sec-head"><h2>Next up</h2><span class="note">unsolved, in the areas gone deepest</span></div>
+      <div class="panel"><div class="next" id="next"></div></div>
+    </section>
+
+    <section class="sec">
+      <div class="sec-head"><h2>Labs</h2><span class="note" id="labcount"></span></div>
+      <ul class="items" id="labs"></ul>
+    </section>
+
+    <section class="sec">
+      <div class="sec-head"><h2>Math</h2><span class="note" id="mathcount"></span></div>
+      <ul class="items" id="maths"></ul>
+    </section>
+
+    <footer>
+      <span>Generated by <a href="https://www.deep-ml.com">Deep-ML</a></span>
+      <span id="updated"></span>
+    </footer>
+  </main>
+</div>
+
+<div id="tip" role="tooltip"></div>
+<script type="application/json" id="cfg">{"login":"avikds","repo":"deep-ml","branch":"main","totals":{"labs":41,"math":161}}</script>
+<script src="./gif.js"></script>
+<script src="./app.js"></script>
+</body>
+</html>
