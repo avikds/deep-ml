@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T05:48:49.715Z",
+  "generated_at": "2026-09-19T09:04:19.408Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -2730,6 +2730,97 @@
       "last_pushed_at": "2026-09-19T05:47:46.979Z",
       "language": "python",
       "lines": 75
+    },
+    "problem:777": {
+      "kind": "problem",
+      "id": "777",
+      "title": "MCTS with Step-wise Reward for Reasoning Trace Search",
+      "difficulty": "hard",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/777",
+      "path": "problems/0777-mcts-with-step-wise-reward-for-reasoning-trace-search",
+      "first_solved_at": "2026-09-19T08:49:40.934Z",
+      "last_pushed_at": "2026-09-19T08:49:40.934Z",
+      "language": "python",
+      "lines": 99
+    },
+    "problem:904": {
+      "kind": "problem",
+      "id": "904",
+      "title": "Implement Multi-Head Self-Attention",
+      "difficulty": "hard",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/904",
+      "path": "problems/0904-implement-multi-head-self-attention",
+      "first_solved_at": "2026-09-19T08:50:12.921Z",
+      "last_pushed_at": "2026-09-19T08:50:12.921Z",
+      "language": "python",
+      "lines": 49
+    },
+    "problem:918": {
+      "kind": "problem",
+      "id": "918",
+      "title": "Build a Tiny GPT",
+      "difficulty": "hard",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/918",
+      "path": "problems/0918-build-a-tiny-gpt",
+      "first_solved_at": "2026-09-19T08:50:41.056Z",
+      "last_pushed_at": "2026-09-19T08:50:41.056Z",
+      "language": "python",
+      "lines": 44
+    },
+    "problem:925": {
+      "kind": "problem",
+      "id": "925",
+      "title": "Tinygrad: Implement Multi-Head Self-Attention",
+      "difficulty": "hard",
+      "category": "Tinygrad",
+      "url": "https://www.deep-ml.com/problems/925",
+      "path": "problems/0925-tinygrad-implement-multi-head-self-attention",
+      "first_solved_at": "2026-09-19T08:51:30.671Z",
+      "last_pushed_at": "2026-09-19T08:51:30.671Z",
+      "language": "python",
+      "lines": 44
+    },
+    "problem:939": {
+      "kind": "problem",
+      "id": "939",
+      "title": "Tinygrad: Build a Tiny GPT",
+      "difficulty": "hard",
+      "category": "Tinygrad",
+      "url": "https://www.deep-ml.com/problems/939",
+      "path": "problems/0939-tinygrad-build-a-tiny-gpt",
+      "first_solved_at": "2026-09-19T08:52:20.522Z",
+      "last_pushed_at": "2026-09-19T08:52:20.522Z",
+      "language": "python",
+      "lines": 87
+    },
+    "problem:960": {
+      "kind": "problem",
+      "id": "960",
+      "title": "Implement Multi-Head Attention Using Einsum",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/960",
+      "path": "problems/0960-implement-multi-head-attention-using-einsum",
+      "first_solved_at": "2026-09-19T08:53:01.407Z",
+      "last_pushed_at": "2026-09-19T08:53:01.407Z",
+      "language": "python",
+      "lines": 56
+    },
+    "problem:975": {
+      "kind": "problem",
+      "id": "975",
+      "title": "Triton: Block Matrix Multiplication",
+      "difficulty": "hard",
+      "category": "Triton",
+      "url": "https://www.deep-ml.com/problems/975",
+      "path": "problems/0975-triton-block-matrix-multiplication",
+      "first_solved_at": "2026-09-19T09:00:26.691Z",
+      "last_pushed_at": "2026-09-19T09:00:26.691Z",
+      "language": "python",
+      "lines": 107
     }
   }
 }
