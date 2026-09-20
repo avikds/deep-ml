@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T19:13:29.817Z",
+  "generated_at": "2026-09-20T07:20:07.655Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -2847,6 +2847,32 @@
       "last_pushed_at": "2026-09-19T19:13:03.452Z",
       "language": "python",
       "lines": 68
+    },
+    "problem:825": {
+      "kind": "problem",
+      "id": "825",
+      "title": "BIRCH Clustering for Large Datasets",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/825",
+      "path": "problems/0825-birch-clustering-for-large-datasets",
+      "first_solved_at": "2026-09-20T03:57:45.478Z",
+      "last_pushed_at": "2026-09-20T03:57:45.478Z",
+      "language": "python",
+      "lines": 66
+    },
+    "problem:1002": {
+      "kind": "problem",
+      "id": "1002",
+      "title": "Fused Backward Pass of BatchNorm1d",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/1002",
+      "path": "problems/1002-fused-backward-pass-of-batchnorm1d",
+      "first_solved_at": "2026-09-20T03:58:19.568Z",
+      "last_pushed_at": "2026-09-20T03:58:19.568Z",
+      "language": "python",
+      "lines": 42
     }
   }
 }

@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**219** solved · 178 problems · 41 labs · 0 math
+**221** solved · 180 problems · 41 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -25,6 +25,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Single Neuron](https://www.deep-ml.com/problems/24) | easy | 2026-09-06 | [solution](problems/0024-single-neuron) |
 | [Your First Gradient with jax.grad](https://www.deep-ml.com/problems/1325) | easy | 2026-09-10 | [solution](problems/1325-your-first-gradient-with-jax-grad) |
 | [Backpropagation Gradients for a Dense Layer](https://www.deep-ml.com/problems/1076) | medium | 2026-09-06 | [solution](problems/1076-backpropagation-gradients-for-a-dense-layer) |
+| [BIRCH Clustering for Large Datasets](https://www.deep-ml.com/problems/825) | medium | 2026-09-20 | [solution](problems/0825-birch-clustering-for-large-datasets) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-08-20 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Highest Total Daily Order Cost in a Date Range](https://www.deep-ml.com/problems/1120) | medium | 2026-09-19 | [solution](problems/1120-highest-total-daily-order-cost-in-a-date-range) |
 | [Implement a Vision Transformer (ViT) Image Encoder](https://www.deep-ml.com/problems/720) | medium | 2026-09-16 | [solution](problems/0720-implement-a-vision-transformer-vit-image-encoder) |
@@ -82,6 +83,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [First-Visit Monte Carlo Control with Exploring Starts](https://www.deep-ml.com/problems/470) | hard | 2026-09-11 | [solution](problems/0470-first-visit-monte-carlo-control-with-exploring-starts) |
 | [Flash Attention v1 - Forward Pass](https://www.deep-ml.com/problems/208) | hard | 2026-09-06 | [solution](problems/0208-flash-attention-v1-forward-pass) |
 | [FP4 Quantization with Microscaling (MXFP4)](https://www.deep-ml.com/problems/427) | hard | 2026-09-10 | [solution](problems/0427-fp4-quantization-with-microscaling-mxfp4) |
+| [Fused Backward Pass of BatchNorm1d](https://www.deep-ml.com/problems/1002) | hard | 2026-09-20 | [solution](problems/1002-fused-backward-pass-of-batchnorm1d) |
 | [Gambler's Problem: Value Iteration](https://www.deep-ml.com/problems/164) | hard | 2026-09-06 | [solution](problems/0164-gambler-s-problem-value-iteration) |
 | [Gaussian Process for Regression](https://www.deep-ml.com/problems/186) | hard | 2026-09-06 | [solution](problems/0186-gaussian-process-for-regression) |
 | [Goal-Conditioned World Model with Future Anchoring](https://www.deep-ml.com/problems/683) | hard | 2026-09-16 | [solution](problems/0683-goal-conditioned-world-model-with-future-anchoring) |
