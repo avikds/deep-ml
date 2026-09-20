@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T07:20:07.655Z",
+  "generated_at": "2026-09-20T19:18:55.019Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -2873,6 +2873,19 @@
       "last_pushed_at": "2026-09-20T03:58:19.568Z",
       "language": "python",
       "lines": 42
+    },
+    "problem:1011": {
+      "kind": "problem",
+      "id": "1011",
+      "title": "Pre-allocated Sliding KV Cache Update",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/1011",
+      "path": "problems/1011-pre-allocated-sliding-kv-cache-update",
+      "first_solved_at": "2026-09-20T19:18:24.967Z",
+      "last_pushed_at": "2026-09-20T19:18:24.967Z",
+      "language": "python",
+      "lines": 68
     }
   }
 }
