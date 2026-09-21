@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T19:18:55.019Z",
+  "generated_at": "2026-09-21T09:14:41.536Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -2886,6 +2886,123 @@
       "last_pushed_at": "2026-09-20T19:18:24.967Z",
       "language": "python",
       "lines": 68
+    },
+    "problem:768": {
+      "kind": "problem",
+      "id": "768",
+      "title": "Rejection Sampling Best-of-K Selection",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/768",
+      "path": "problems/0768-rejection-sampling-best-of-k-selection",
+      "first_solved_at": "2026-09-21T09:05:41.744Z",
+      "last_pushed_at": "2026-09-21T09:05:41.744Z",
+      "language": "python",
+      "lines": 14
+    },
+    "problem:1017": {
+      "kind": "problem",
+      "id": "1017",
+      "title": "Implement Gated DeltaNet Linear Attention",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/1017",
+      "path": "problems/1017-implement-gated-deltanet-linear-attention",
+      "first_solved_at": "2026-09-21T09:06:13.520Z",
+      "last_pushed_at": "2026-09-21T09:06:13.520Z",
+      "language": "python",
+      "lines": 54
+    },
+    "problem:1020": {
+      "kind": "problem",
+      "id": "1020",
+      "title": "Implement Cross-Layer KV Sharing in Transformer",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/1020",
+      "path": "problems/1020-implement-cross-layer-kv-sharing-in-transformer",
+      "first_solved_at": "2026-09-21T09:06:56.453Z",
+      "last_pushed_at": "2026-09-21T09:06:56.453Z",
+      "language": "python",
+      "lines": 52
+    },
+    "problem:1024": {
+      "kind": "problem",
+      "id": "1024",
+      "title": "Implement Llama 3.1 RoPE Frequency Rescaling",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/1024",
+      "path": "problems/1024-implement-llama-3-1-rope-frequency-rescaling",
+      "first_solved_at": "2026-09-21T09:07:22.213Z",
+      "last_pushed_at": "2026-09-21T09:07:22.213Z",
+      "language": "python",
+      "lines": 44
+    },
+    "problem:1025": {
+      "kind": "problem",
+      "id": "1025",
+      "title": "Llama 3 RoPE Frequency Scaling",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/1025",
+      "path": "problems/1025-llama-3-rope-frequency-scaling",
+      "first_solved_at": "2026-09-21T09:07:53.331Z",
+      "last_pushed_at": "2026-09-21T09:07:53.331Z",
+      "language": "python",
+      "lines": 47
+    },
+    "problem:1050": {
+      "kind": "problem",
+      "id": "1050",
+      "title": "Per-Layer Embedding Projection (PLE)",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/1050",
+      "path": "problems/1050-per-layer-embedding-projection-ple",
+      "first_solved_at": "2026-09-21T09:08:39.877Z",
+      "last_pushed_at": "2026-09-21T09:08:39.877Z",
+      "language": "python",
+      "lines": 45
+    },
+    "problem:1056": {
+      "kind": "problem",
+      "id": "1056",
+      "title": "Pre-Norm GPT Transformer Block Forward Pass",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/1056",
+      "path": "problems/1056-pre-norm-gpt-transformer-block-forward-pass",
+      "first_solved_at": "2026-09-21T09:10:40.677Z",
+      "last_pushed_at": "2026-09-21T09:10:40.677Z",
+      "language": "python",
+      "lines": 99
+    },
+    "problem:1069": {
+      "kind": "problem",
+      "id": "1069",
+      "title": "Preference Dataset Collate Function for DPO",
+      "difficulty": "hard",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/1069",
+      "path": "problems/1069-preference-dataset-collate-function-for-dpo",
+      "first_solved_at": "2026-09-21T09:11:06.653Z",
+      "last_pushed_at": "2026-09-21T09:11:06.653Z",
+      "language": "python",
+      "lines": 64
+    },
+    "problem:1097": {
+      "kind": "problem",
+      "id": "1097",
+      "title": "Distributed Mode/Median with Message Passing",
+      "difficulty": "hard",
+      "category": "Algorithms",
+      "url": "https://www.deep-ml.com/problems/1097",
+      "path": "problems/1097-distributed-mode-median-with-message-passing",
+      "first_solved_at": "2026-09-21T09:11:37.003Z",
+      "last_pushed_at": "2026-09-21T09:11:37.003Z",
+      "language": "python",
+      "lines": 37
     }
   }
 }
