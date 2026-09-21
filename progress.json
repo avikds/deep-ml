@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T09:14:41.536Z",
+  "generated_at": "2026-09-21T09:19:07.267Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -3003,6 +3003,17 @@
       "last_pushed_at": "2026-09-21T09:11:37.003Z",
       "language": "python",
       "lines": 37
+    },
+    "math:171": {
+      "kind": "math",
+      "id": "171",
+      "title": "Disaggregation and Chunked Prefill: The Scheduling Arithmetic",
+      "difficulty": "hard",
+      "category": "Inference Engineering",
+      "url": "https://www.deep-ml.com/math-problems/171",
+      "path": "math/0171-disaggregation-and-chunked-prefill-the-scheduling-arithmetic",
+      "first_solved_at": "2026-09-21T09:19:06.568Z",
+      "last_pushed_at": "2026-09-21T09:19:06.568Z"
     }
   }
 }
