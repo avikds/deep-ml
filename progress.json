@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T04:39:35.426Z",
+  "generated_at": "2026-09-22T04:42:54.674Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -3027,6 +3027,45 @@
       "last_pushed_at": "2026-09-22T04:38:43.525Z",
       "language": "python",
       "lines": 13
+    },
+    "problem:1110": {
+      "kind": "problem",
+      "id": "1110",
+      "title": "Nth-Highest Salary with Ties and NULL",
+      "difficulty": "medium",
+      "category": "Sql",
+      "url": "https://www.deep-ml.com/problems/1110",
+      "path": "problems/1110-nth-highest-salary-with-ties-and-null",
+      "first_solved_at": "2026-09-22T04:40:50.852Z",
+      "last_pushed_at": "2026-09-22T04:40:50.852Z",
+      "language": "sql",
+      "lines": 8
+    },
+    "problem:80": {
+      "kind": "problem",
+      "id": "80",
+      "title": "Normal Distribution PDF Calculator",
+      "difficulty": "medium",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/80",
+      "path": "problems/0080-normal-distribution-pdf-calculator",
+      "first_solved_at": "2026-09-22T04:41:37.398Z",
+      "last_pushed_at": "2026-09-22T04:41:37.398Z",
+      "language": "python",
+      "lines": 17
+    },
+    "problem:1188": {
+      "kind": "problem",
+      "id": "1188",
+      "title": "Fused Bias+ReLU CUDA Kernel",
+      "difficulty": "medium",
+      "category": "Cuda",
+      "url": "https://www.deep-ml.com/problems/1188",
+      "path": "problems/1188-fused-bias-relu-cuda-kernel",
+      "first_solved_at": "2026-09-22T04:42:03.617Z",
+      "last_pushed_at": "2026-09-22T04:42:03.617Z",
+      "language": "python",
+      "lines": 83
     }
   }
 }
