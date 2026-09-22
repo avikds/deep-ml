@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T09:19:07.267Z",
+  "generated_at": "2026-09-22T04:39:35.426Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -3014,6 +3014,19 @@
       "path": "math/0171-disaggregation-and-chunked-prefill-the-scheduling-arithmetic",
       "first_solved_at": "2026-09-21T09:19:06.568Z",
       "last_pushed_at": "2026-09-21T09:19:06.568Z"
+    },
+    "problem:947": {
+      "kind": "problem",
+      "id": "947",
+      "title": "Embedding Layer as One-Hot Matrix Multiplication",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/947",
+      "path": "problems/0947-embedding-layer-as-one-hot-matrix-multiplication",
+      "first_solved_at": "2026-09-22T04:38:43.525Z",
+      "last_pushed_at": "2026-09-22T04:38:43.525Z",
+      "language": "python",
+      "lines": 13
     }
   }
 }
