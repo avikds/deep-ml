@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T06:16:45.135Z",
+  "generated_at": "2026-09-23T06:20:30.064Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -3123,6 +3123,17 @@
       "path": "math/0122-matrix-completion-and-missing-values",
       "first_solved_at": "2026-09-23T06:16:43.432Z",
       "last_pushed_at": "2026-09-23T06:16:43.432Z"
+    },
+    "math:117": {
+      "kind": "math",
+      "id": "117",
+      "title": "Recurrent Networks, Weight Sharing and Vanishing Gradients",
+      "difficulty": "hard",
+      "category": "Deep Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/117",
+      "path": "math/0117-recurrent-networks-weight-sharing-and-vanishing-gradients",
+      "first_solved_at": "2026-09-23T06:20:25.320Z",
+      "last_pushed_at": "2026-09-23T06:20:25.320Z"
     }
   }
 }
