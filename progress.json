@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T06:10:10.314Z",
+  "generated_at": "2026-09-23T06:11:45.660Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -3090,6 +3090,17 @@
       "path": "math/0151-xgboost-split-gain-from-the-second-order-objective",
       "first_solved_at": "2026-09-23T06:10:08.710Z",
       "last_pushed_at": "2026-09-23T06:10:08.710Z"
+    },
+    "math:149": {
+      "kind": "math",
+      "id": "149",
+      "title": "Renewal Processes and Blackwell's Theorem",
+      "difficulty": "hard",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/149",
+      "path": "math/0149-renewal-processes-and-blackwell-s-theorem",
+      "first_solved_at": "2026-09-23T06:11:24.114Z",
+      "last_pushed_at": "2026-09-23T06:11:24.114Z"
     }
   }
 }
