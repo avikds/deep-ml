@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T06:14:09.974Z",
+  "generated_at": "2026-09-23T06:16:45.135Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -3112,6 +3112,17 @@
       "path": "math/0148-moment-generating-functions-and-a-central-limit-theorem-sketch",
       "first_solved_at": "2026-09-23T06:14:07.536Z",
       "last_pushed_at": "2026-09-23T06:14:07.536Z"
+    },
+    "math:122": {
+      "kind": "math",
+      "id": "122",
+      "title": "Matrix Completion and Missing Values",
+      "difficulty": "hard",
+      "category": "Machine Learning Fundamentals",
+      "url": "https://www.deep-ml.com/math-problems/122",
+      "path": "math/0122-matrix-completion-and-missing-values",
+      "first_solved_at": "2026-09-23T06:16:43.432Z",
+      "last_pushed_at": "2026-09-23T06:16:43.432Z"
     }
   }
 }

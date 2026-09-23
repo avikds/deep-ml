@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**240** solved · 195 problems · 41 labs · 4 math
+**241** solved · 195 problems · 41 labs · 5 math
 
 ![Coverage](./coverage.svg)
 
@@ -259,6 +259,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
 | [Disaggregation and Chunked Prefill: The Scheduling Arithmetic](https://www.deep-ml.com/math-problems/171) | hard | 2026-09-21 | [solution](math/0171-disaggregation-and-chunked-prefill-the-scheduling-arithmetic) |
+| [Matrix Completion and Missing Values](https://www.deep-ml.com/math-problems/122) | hard | 2026-09-23 | [solution](math/0122-matrix-completion-and-missing-values) |
 | [Moment-Generating Functions and a Central Limit Theorem Sketch](https://www.deep-ml.com/math-problems/148) | hard | 2026-09-23 | [solution](math/0148-moment-generating-functions-and-a-central-limit-theorem-sketch) |
 | [Renewal Processes and Blackwell's Theorem](https://www.deep-ml.com/math-problems/149) | hard | 2026-09-23 | [solution](math/0149-renewal-processes-and-blackwell-s-theorem) |
 | [XGBoost Split Gain from the Second-Order Objective](https://www.deep-ml.com/math-problems/151) | hard | 2026-09-23 | [solution](math/0151-xgboost-split-gain-from-the-second-order-objective) |
