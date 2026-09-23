@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T05:03:01.396Z",
+  "generated_at": "2026-09-23T06:10:10.314Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -3079,6 +3079,17 @@
       "last_pushed_at": "2026-09-23T05:02:27.071Z",
       "language": "python",
       "lines": 11
+    },
+    "math:151": {
+      "kind": "math",
+      "id": "151",
+      "title": "XGBoost Split Gain from the Second-Order Objective",
+      "difficulty": "hard",
+      "category": "Machine Learning Fundamentals",
+      "url": "https://www.deep-ml.com/math-problems/151",
+      "path": "math/0151-xgboost-split-gain-from-the-second-order-objective",
+      "first_solved_at": "2026-09-23T06:10:08.710Z",
+      "last_pushed_at": "2026-09-23T06:10:08.710Z"
     }
   }
 }
