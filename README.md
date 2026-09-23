@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**236** solved · 194 problems · 41 labs · 1 math
+**237** solved · 195 problems · 41 labs · 1 math
 
 ![Coverage](./coverage.svg)
 
@@ -189,6 +189,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Tinygrad: Build a Tiny GPT](https://www.deep-ml.com/problems/939) | hard | 2026-09-19 | [solution](problems/0939-tinygrad-build-a-tiny-gpt) |
 | [Tinygrad: Implement Multi-Head Self-Attention](https://www.deep-ml.com/problems/925) | hard | 2026-09-19 | [solution](problems/0925-tinygrad-implement-multi-head-self-attention) |
 | [Token-Level Key-Value Compression with Overlapping Windows](https://www.deep-ml.com/problems/734) | hard | 2026-09-17 | [solution](problems/0734-token-level-key-value-compression-with-overlapping-windows) |
+| [Trade Compute for Memory with Gradient Checkpointing](https://www.deep-ml.com/problems/1342) | hard | 2026-09-23 | [solution](problems/1342-trade-compute-for-memory-with-gradient-checkpointing) |
 | [Train a Simple GAN on 1D Gaussian Data](https://www.deep-ml.com/problems/174) | hard | 2026-09-06 | [solution](problems/0174-train-a-simple-gan-on-1d-gaussian-data) |
 | [Train Logistic Regression with Gradient Descent](https://www.deep-ml.com/problems/106) | hard | 2026-09-06 | [solution](problems/0106-train-logistic-regression-with-gradient-descent) |
 | [Train Softmax Regression with Gradient Descent](https://www.deep-ml.com/problems/105) | hard | 2026-09-06 | [solution](problems/0105-train-softmax-regression-with-gradient-descent) |
