@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T06:11:45.660Z",
+  "generated_at": "2026-09-23T06:14:09.974Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -3101,6 +3101,17 @@
       "path": "math/0149-renewal-processes-and-blackwell-s-theorem",
       "first_solved_at": "2026-09-23T06:11:24.114Z",
       "last_pushed_at": "2026-09-23T06:11:24.114Z"
+    },
+    "math:148": {
+      "kind": "math",
+      "id": "148",
+      "title": "Moment-Generating Functions and a Central Limit Theorem Sketch",
+      "difficulty": "hard",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/148",
+      "path": "math/0148-moment-generating-functions-and-a-central-limit-theorem-sketch",
+      "first_solved_at": "2026-09-23T06:14:07.536Z",
+      "last_pushed_at": "2026-09-23T06:14:07.536Z"
     }
   }
 }
