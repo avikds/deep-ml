@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T04:58:22.411Z",
+  "generated_at": "2026-09-24T04:59:31.849Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -3145,6 +3145,17 @@
       "path": "math/0180-ratio-metrics-the-delta-method-and-the-unit-of-analysis",
       "first_solved_at": "2026-09-24T04:58:20.428Z",
       "last_pushed_at": "2026-09-24T04:58:20.428Z"
+    },
+    "math:118": {
+      "kind": "math",
+      "id": "118",
+      "title": "Interpolation and Double Descent",
+      "difficulty": "hard",
+      "category": "Deep Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/118",
+      "path": "math/0118-interpolation-and-double-descent",
+      "first_solved_at": "2026-09-24T04:59:30.354Z",
+      "last_pushed_at": "2026-09-24T04:59:30.354Z"
     }
   }
 }
