@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T05:54:37.738Z",
+  "generated_at": "2026-09-24T05:56:45.404Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -3211,6 +3211,17 @@
       "path": "math/0108-dimension-reduction-principal-components-and-partial-least-squares",
       "first_solved_at": "2026-09-24T05:54:35.575Z",
       "last_pushed_at": "2026-09-24T05:54:35.575Z"
+    },
+    "math:100": {
+      "kind": "math",
+      "id": "100",
+      "title": "Cox Proportional Hazards and the Hazard Ratio",
+      "difficulty": "hard",
+      "category": "Statistical Modeling",
+      "url": "https://www.deep-ml.com/math-problems/100",
+      "path": "math/0100-cox-proportional-hazards-and-the-hazard-ratio",
+      "first_solved_at": "2026-09-24T05:56:43.572Z",
+      "last_pushed_at": "2026-09-24T05:56:43.572Z"
     }
   }
 }
