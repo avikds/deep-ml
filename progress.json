@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T05:56:45.404Z",
+  "generated_at": "2026-09-24T05:57:34.074Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -3222,6 +3222,17 @@
       "path": "math/0100-cox-proportional-hazards-and-the-hazard-ratio",
       "first_solved_at": "2026-09-24T05:56:43.572Z",
       "last_pushed_at": "2026-09-24T05:56:43.572Z"
+    },
+    "math:97": {
+      "kind": "math",
+      "id": "97",
+      "title": "Smoothing Splines: $\\lambda$ and Effective Degrees of Freedom",
+      "difficulty": "hard",
+      "category": "Statistical Modeling",
+      "url": "https://www.deep-ml.com/math-problems/97",
+      "path": "math/0097-smoothing-splines-lambda-and-effective-degrees-of-freedom",
+      "first_solved_at": "2026-09-24T05:57:32.485Z",
+      "last_pushed_at": "2026-09-24T05:57:32.485Z"
     }
   }
 }
