@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T14:52:58.865Z",
+  "generated_at": "2026-09-25T14:57:50.692Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -3255,6 +3255,19 @@
       "path": "math/0085-false-discovery-rate-and-benjamini-hochberg",
       "first_solved_at": "2026-09-25T14:52:51.637Z",
       "last_pushed_at": "2026-09-25T14:52:51.637Z"
+    },
+    "problem:138": {
+      "kind": "problem",
+      "id": "138",
+      "title": "Find the Best Gini-Based Split for a Binary Decision Tree",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/138",
+      "path": "problems/0138-find-the-best-gini-based-split-for-a-binary-decision-tree",
+      "first_solved_at": "2026-09-24T03:35:32.606Z",
+      "last_pushed_at": "2026-09-24T03:35:32.606Z",
+      "language": "python",
+      "lines": 44
     }
   }
 }

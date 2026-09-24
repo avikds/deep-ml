@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**253** solved · 195 problems · 41 labs · 17 math
+**254** solved · 196 problems · 41 labs · 17 math
 
 ![Coverage](./coverage.svg)
 
@@ -29,6 +29,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Backpropagation Gradients for a Dense Layer](https://www.deep-ml.com/problems/1076) | medium | 2026-09-06 | [solution](problems/1076-backpropagation-gradients-for-a-dense-layer) |
 | [BIRCH Clustering for Large Datasets](https://www.deep-ml.com/problems/825) | medium | 2026-09-20 | [solution](problems/0825-birch-clustering-for-large-datasets) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-08-20 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
+| [Find the Best Gini-Based Split for a Binary Decision Tree](https://www.deep-ml.com/problems/138) | medium | 2026-09-24 | [solution](problems/0138-find-the-best-gini-based-split-for-a-binary-decision-tree) |
 | [Fused Bias+ReLU CUDA Kernel](https://www.deep-ml.com/problems/1188) | medium | 2026-09-22 | [solution](problems/1188-fused-bias-relu-cuda-kernel) |
 | [Highest Total Daily Order Cost in a Date Range](https://www.deep-ml.com/problems/1120) | medium | 2026-09-19 | [solution](problems/1120-highest-total-daily-order-cost-in-a-date-range) |
 | [Implement a Vision Transformer (ViT) Image Encoder](https://www.deep-ml.com/problems/720) | medium | 2026-09-16 | [solution](problems/0720-implement-a-vision-transformer-vit-image-encoder) |
