@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T06:20:30.064Z",
+  "generated_at": "2026-09-24T04:58:22.411Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -3134,6 +3134,17 @@
       "path": "math/0117-recurrent-networks-weight-sharing-and-vanishing-gradients",
       "first_solved_at": "2026-09-23T06:20:25.320Z",
       "last_pushed_at": "2026-09-23T06:20:25.320Z"
+    },
+    "math:180": {
+      "kind": "math",
+      "id": "180",
+      "title": "Ratio Metrics, the Delta Method and the Unit of Analysis",
+      "difficulty": "hard",
+      "category": "Experiments and Causal Inference",
+      "url": "https://www.deep-ml.com/math-problems/180",
+      "path": "math/0180-ratio-metrics-the-delta-method-and-the-unit-of-analysis",
+      "first_solved_at": "2026-09-24T04:58:20.428Z",
+      "last_pushed_at": "2026-09-24T04:58:20.428Z"
     }
   }
 }
