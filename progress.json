@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T04:59:31.849Z",
+  "generated_at": "2026-09-24T05:00:40.933Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -3156,6 +3156,17 @@
       "path": "math/0118-interpolation-and-double-descent",
       "first_solved_at": "2026-09-24T04:59:30.354Z",
       "last_pushed_at": "2026-09-24T04:59:30.354Z"
+    },
+    "math:119": {
+      "kind": "math",
+      "id": "119",
+      "title": "Regularized Cox Models and the Concordance Index",
+      "difficulty": "hard",
+      "category": "Statistical Modeling",
+      "url": "https://www.deep-ml.com/math-problems/119",
+      "path": "math/0119-regularized-cox-models-and-the-concordance-index",
+      "first_solved_at": "2026-09-24T05:00:39.287Z",
+      "last_pushed_at": "2026-09-24T05:00:39.287Z"
     }
   }
 }
