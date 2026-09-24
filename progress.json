@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T05:50:39.517Z",
+  "generated_at": "2026-09-24T05:51:45.290Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -3178,6 +3178,17 @@
       "path": "math/0111-local-regression-and-generalized-additive-models",
       "first_solved_at": "2026-09-24T05:50:36.964Z",
       "last_pushed_at": "2026-09-24T05:50:36.964Z"
+    },
+    "math:114": {
+      "kind": "math",
+      "id": "114",
+      "title": "Bagging, Variance Reduction and Random Forests",
+      "difficulty": "hard",
+      "category": "Machine Learning Fundamentals",
+      "url": "https://www.deep-ml.com/math-problems/114",
+      "path": "math/0114-bagging-variance-reduction-and-random-forests",
+      "first_solved_at": "2026-09-24T05:51:43.375Z",
+      "last_pushed_at": "2026-09-24T05:51:43.375Z"
     }
   }
 }
