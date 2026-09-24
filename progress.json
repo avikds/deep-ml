@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T05:00:40.933Z",
+  "generated_at": "2026-09-24T05:50:39.517Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -3167,6 +3167,17 @@
       "path": "math/0119-regularized-cox-models-and-the-concordance-index",
       "first_solved_at": "2026-09-24T05:00:39.287Z",
       "last_pushed_at": "2026-09-24T05:00:39.287Z"
+    },
+    "math:111": {
+      "kind": "math",
+      "id": "111",
+      "title": "Local Regression and Generalized Additive Models",
+      "difficulty": "hard",
+      "category": "Statistical Modeling",
+      "url": "https://www.deep-ml.com/math-problems/111",
+      "path": "math/0111-local-regression-and-generalized-additive-models",
+      "first_solved_at": "2026-09-24T05:50:36.964Z",
+      "last_pushed_at": "2026-09-24T05:50:36.964Z"
     }
   }
 }

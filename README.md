@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**245** solved · 195 problems · 41 labs · 9 math
+**246** solved · 195 problems · 41 labs · 10 math
 
 ![Coverage](./coverage.svg)
 
@@ -260,6 +260,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | --- | --- | --- | --- |
 | [Disaggregation and Chunked Prefill: The Scheduling Arithmetic](https://www.deep-ml.com/math-problems/171) | hard | 2026-09-21 | [solution](math/0171-disaggregation-and-chunked-prefill-the-scheduling-arithmetic) |
 | [Interpolation and Double Descent](https://www.deep-ml.com/math-problems/118) | hard | 2026-09-24 | [solution](math/0118-interpolation-and-double-descent) |
+| [Local Regression and Generalized Additive Models](https://www.deep-ml.com/math-problems/111) | hard | 2026-09-24 | [solution](math/0111-local-regression-and-generalized-additive-models) |
 | [Matrix Completion and Missing Values](https://www.deep-ml.com/math-problems/122) | hard | 2026-09-23 | [solution](math/0122-matrix-completion-and-missing-values) |
 | [Moment-Generating Functions and a Central Limit Theorem Sketch](https://www.deep-ml.com/math-problems/148) | hard | 2026-09-23 | [solution](math/0148-moment-generating-functions-and-a-central-limit-theorem-sketch) |
 | [Ratio Metrics, the Delta Method and the Unit of Analysis](https://www.deep-ml.com/math-problems/180) | hard | 2026-09-24 | [solution](math/0180-ratio-metrics-the-delta-method-and-the-unit-of-analysis) |
