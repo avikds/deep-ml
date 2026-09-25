@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**252** solved · 195 problems · 41 labs · 16 math
+**253** solved · 195 problems · 41 labs · 17 math
 
 ![Coverage](./coverage.svg)
 
@@ -263,6 +263,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Cox Proportional Hazards and the Hazard Ratio](https://www.deep-ml.com/math-problems/100) | hard | 2026-09-24 | [solution](math/0100-cox-proportional-hazards-and-the-hazard-ratio) |
 | [Dimension Reduction: Principal Components and Partial Least Squares](https://www.deep-ml.com/math-problems/108) | hard | 2026-09-24 | [solution](math/0108-dimension-reduction-principal-components-and-partial-least-squares) |
 | [Disaggregation and Chunked Prefill: The Scheduling Arithmetic](https://www.deep-ml.com/math-problems/171) | hard | 2026-09-21 | [solution](math/0171-disaggregation-and-chunked-prefill-the-scheduling-arithmetic) |
+| [False Discovery Rate and Benjamini-Hochberg](https://www.deep-ml.com/math-problems/85) | hard | 2026-09-25 | [solution](math/0085-false-discovery-rate-and-benjamini-hochberg) |
 | [Interpolation and Double Descent](https://www.deep-ml.com/math-problems/118) | hard | 2026-09-24 | [solution](math/0118-interpolation-and-double-descent) |
 | [Local Regression and Generalized Additive Models](https://www.deep-ml.com/math-problems/111) | hard | 2026-09-24 | [solution](math/0111-local-regression-and-generalized-additive-models) |
 | [Matrix Completion and Missing Values](https://www.deep-ml.com/math-problems/122) | hard | 2026-09-23 | [solution](math/0122-matrix-completion-and-missing-values) |
