@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**254** solved · 196 problems · 41 labs · 17 math
+**258** solved · 200 problems · 41 labs · 17 math
 
 ![Coverage](./coverage.svg)
 
@@ -30,6 +30,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [BIRCH Clustering for Large Datasets](https://www.deep-ml.com/problems/825) | medium | 2026-09-20 | [solution](problems/0825-birch-clustering-for-large-datasets) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-08-20 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Find the Best Gini-Based Split for a Binary Decision Tree](https://www.deep-ml.com/problems/138) | medium | 2026-09-24 | [solution](problems/0138-find-the-best-gini-based-split-for-a-binary-decision-tree) |
+| [Forward Diffusion Process](https://www.deep-ml.com/problems/303) | medium | 2026-09-25 | [solution](problems/0303-forward-diffusion-process) |
 | [Fused Bias+ReLU CUDA Kernel](https://www.deep-ml.com/problems/1188) | medium | 2026-09-22 | [solution](problems/1188-fused-bias-relu-cuda-kernel) |
 | [Highest Total Daily Order Cost in a Date Range](https://www.deep-ml.com/problems/1120) | medium | 2026-09-19 | [solution](problems/1120-highest-total-daily-order-cost-in-a-date-range) |
 | [Implement a Vision Transformer (ViT) Image Encoder](https://www.deep-ml.com/problems/720) | medium | 2026-09-16 | [solution](problems/0720-implement-a-vision-transformer-vit-image-encoder) |
@@ -69,6 +70,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Build a Transformer Encoder Layer](https://www.deep-ml.com/problems/491) | hard | 2026-09-11 | [solution](problems/0491-build-a-transformer-encoder-layer) |
 | [Build a VQ-VAE from Scratch](https://www.deep-ml.com/problems/699) | hard | 2026-09-17 | [solution](problems/0699-build-a-vq-vae-from-scratch) |
 | [Certainty-Equivalence in TD Learning](https://www.deep-ml.com/problems/516) | hard | 2026-09-11 | [solution](problems/0516-certainty-equivalence-in-td-learning) |
+| [Cohort Retention: First Login and Consecutive-Day Logins](https://www.deep-ml.com/problems/1119) | hard | 2026-09-25 | [solution](problems/1119-cohort-retention-first-login-and-consecutive-day-logins) |
 | [Combined Token Sampling Pipeline (Temperature + Top-k + Top-p)](https://www.deep-ml.com/problems/419) | hard | 2026-09-10 | [solution](problems/0419-combined-token-sampling-pipeline-temperature-top-k-top-p) |
 | [Context Parallelism with Ring Attention for Video Models](https://www.deep-ml.com/problems/448) | hard | 2026-09-10 | [solution](problems/0448-context-parallelism-with-ring-attention-for-video-models) |
 | [Control Variates in Off-Policy Methods](https://www.deep-ml.com/problems/584) | hard | 2026-09-13 | [solution](problems/0584-control-variates-in-off-policy-methods) |
@@ -137,6 +139,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Model-Based Value Expansion](https://www.deep-ml.com/problems/598) | hard | 2026-09-15 | [solution](problems/0598-model-based-value-expansion) |
 | [Monte Carlo Tree Search](https://www.deep-ml.com/problems/207) | hard | 2026-09-06 | [solution](problems/0207-monte-carlo-tree-search) |
 | [Monte Carlo Tree Search with Neural Policy and Value](https://www.deep-ml.com/problems/978) | hard | 2026-09-19 | [solution](problems/0978-monte-carlo-tree-search-with-neural-policy-and-value) |
+| [Monthly-Cohort Retention Rate by Plan](https://www.deep-ml.com/problems/1133) | hard | 2026-09-25 | [solution](problems/1133-monthly-cohort-retention-rate-by-plan) |
 | [Multi-Head Latent Attention (MLA)](https://www.deep-ml.com/problems/405) | hard | 2026-09-10 | [solution](problems/0405-multi-head-latent-attention-mla) |
 | [n-Step Tree Backup Algorithm](https://www.deep-ml.com/problems/581) | hard | 2026-09-12 | [solution](problems/0581-n-step-tree-backup-algorithm) |
 | [Non-Maximum Suppression for Object Detection](https://www.deep-ml.com/problems/242) | hard | 2026-09-06 | [solution](problems/0242-non-maximum-suppression-for-object-detection) |
@@ -190,6 +193,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Tinygrad: Build a Tiny GPT](https://www.deep-ml.com/problems/939) | hard | 2026-09-19 | [solution](problems/0939-tinygrad-build-a-tiny-gpt) |
 | [Tinygrad: Implement Multi-Head Self-Attention](https://www.deep-ml.com/problems/925) | hard | 2026-09-19 | [solution](problems/0925-tinygrad-implement-multi-head-self-attention) |
 | [Token-Level Key-Value Compression with Overlapping Windows](https://www.deep-ml.com/problems/734) | hard | 2026-09-17 | [solution](problems/0734-token-level-key-value-compression-with-overlapping-windows) |
+| [Top Users by Longest Consecutive Visit Streak](https://www.deep-ml.com/problems/1184) | hard | 2026-09-25 | [solution](problems/1184-top-users-by-longest-consecutive-visit-streak) |
 | [Trade Compute for Memory with Gradient Checkpointing](https://www.deep-ml.com/problems/1342) | hard | 2026-09-23 | [solution](problems/1342-trade-compute-for-memory-with-gradient-checkpointing) |
 | [Train a Simple GAN on 1D Gaussian Data](https://www.deep-ml.com/problems/174) | hard | 2026-09-06 | [solution](problems/0174-train-a-simple-gan-on-1d-gaussian-data) |
 | [Train Logistic Regression with Gradient Descent](https://www.deep-ml.com/problems/106) | hard | 2026-09-06 | [solution](problems/0106-train-logistic-regression-with-gradient-descent) |

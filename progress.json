@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T14:57:50.692Z",
+  "generated_at": "2026-09-25T14:57:52.876Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -3268,6 +3268,58 @@
       "last_pushed_at": "2026-09-24T03:35:32.606Z",
       "language": "python",
       "lines": 44
+    },
+    "problem:303": {
+      "kind": "problem",
+      "id": "303",
+      "title": "Forward Diffusion Process",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/303",
+      "path": "problems/0303-forward-diffusion-process",
+      "first_solved_at": "2026-09-25T03:11:21.503Z",
+      "last_pushed_at": "2026-09-25T03:11:21.503Z",
+      "language": "python",
+      "lines": 24
+    },
+    "problem:1119": {
+      "kind": "problem",
+      "id": "1119",
+      "title": "Cohort Retention: First Login and Consecutive-Day Logins",
+      "difficulty": "hard",
+      "category": "Sql",
+      "url": "https://www.deep-ml.com/problems/1119",
+      "path": "problems/1119-cohort-retention-first-login-and-consecutive-day-logins",
+      "first_solved_at": "2026-09-25T14:54:42.963Z",
+      "last_pushed_at": "2026-09-25T14:54:42.963Z",
+      "language": "sql",
+      "lines": 13
+    },
+    "problem:1133": {
+      "kind": "problem",
+      "id": "1133",
+      "title": "Monthly-Cohort Retention Rate by Plan",
+      "difficulty": "hard",
+      "category": "Sql",
+      "url": "https://www.deep-ml.com/problems/1133",
+      "path": "problems/1133-monthly-cohort-retention-rate-by-plan",
+      "first_solved_at": "2026-09-25T14:55:54.736Z",
+      "last_pushed_at": "2026-09-25T14:55:54.736Z",
+      "language": "sql",
+      "lines": 41
+    },
+    "problem:1184": {
+      "kind": "problem",
+      "id": "1184",
+      "title": "Top Users by Longest Consecutive Visit Streak",
+      "difficulty": "hard",
+      "category": "Sql",
+      "url": "https://www.deep-ml.com/problems/1184",
+      "path": "problems/1184-top-users-by-longest-consecutive-visit-streak",
+      "first_solved_at": "2026-09-25T14:57:07.615Z",
+      "last_pushed_at": "2026-09-25T14:57:07.615Z",
+      "language": "sql",
+      "lines": 28
     }
   }
 }
