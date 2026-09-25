@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T05:57:34.074Z",
+  "generated_at": "2026-09-25T03:12:26.142Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -3233,6 +3233,17 @@
       "path": "math/0097-smoothing-splines-lambda-and-effective-degrees-of-freedom",
       "first_solved_at": "2026-09-24T05:57:32.485Z",
       "last_pushed_at": "2026-09-24T05:57:32.485Z"
+    },
+    "math:94": {
+      "kind": "math",
+      "id": "94",
+      "title": "Ridge vs Lasso: Constraint Geometry and Soft-Thresholding",
+      "difficulty": "hard",
+      "category": "Statistical Modeling",
+      "url": "https://www.deep-ml.com/math-problems/94",
+      "path": "math/0094-ridge-vs-lasso-constraint-geometry-and-soft-thresholding",
+      "first_solved_at": "2026-09-25T03:12:25.067Z",
+      "last_pushed_at": "2026-09-25T03:12:25.067Z"
     }
   }
 }

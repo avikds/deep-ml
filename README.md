@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**251** solved · 195 problems · 41 labs · 15 math
+**252** solved · 195 problems · 41 labs · 16 math
 
 ![Coverage](./coverage.svg)
 
@@ -271,6 +271,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Recurrent Networks, Weight Sharing and Vanishing Gradients](https://www.deep-ml.com/math-problems/117) | hard | 2026-09-23 | [solution](math/0117-recurrent-networks-weight-sharing-and-vanishing-gradients) |
 | [Regularized Cox Models and the Concordance Index](https://www.deep-ml.com/math-problems/119) | hard | 2026-09-24 | [solution](math/0119-regularized-cox-models-and-the-concordance-index) |
 | [Renewal Processes and Blackwell's Theorem](https://www.deep-ml.com/math-problems/149) | hard | 2026-09-23 | [solution](math/0149-renewal-processes-and-blackwell-s-theorem) |
+| [Ridge vs Lasso: Constraint Geometry and Soft-Thresholding](https://www.deep-ml.com/math-problems/94) | hard | 2026-09-25 | [solution](math/0094-ridge-vs-lasso-constraint-geometry-and-soft-thresholding) |
 | [Smoothing Splines: $\lambda$ and Effective Degrees of Freedom](https://www.deep-ml.com/math-problems/97) | hard | 2026-09-24 | [solution](math/0097-smoothing-splines-lambda-and-effective-degrees-of-freedom) |
 | [XGBoost Split Gain from the Second-Order Objective](https://www.deep-ml.com/math-problems/151) | hard | 2026-09-23 | [solution](math/0151-xgboost-split-gain-from-the-second-order-objective) |
 
