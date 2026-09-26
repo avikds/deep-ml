@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**258** solved · 200 problems · 41 labs · 17 math
+**259** solved · 200 problems · 41 labs · 18 math
 
 ![Coverage](./coverage.svg)
 
@@ -273,6 +273,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Local Regression and Generalized Additive Models](https://www.deep-ml.com/math-problems/111) | hard | 2026-09-24 | [solution](math/0111-local-regression-and-generalized-additive-models) |
 | [Matrix Completion and Missing Values](https://www.deep-ml.com/math-problems/122) | hard | 2026-09-23 | [solution](math/0122-matrix-completion-and-missing-values) |
 | [Moment-Generating Functions and a Central Limit Theorem Sketch](https://www.deep-ml.com/math-problems/148) | hard | 2026-09-23 | [solution](math/0148-moment-generating-functions-and-a-central-limit-theorem-sketch) |
+| [Properties of Estimators: Bias, Consistency, Efficiency](https://www.deep-ml.com/math-problems/74) | hard | 2026-09-26 | [solution](math/0074-properties-of-estimators-bias-consistency-efficiency) |
 | [Ratio Metrics, the Delta Method and the Unit of Analysis](https://www.deep-ml.com/math-problems/180) | hard | 2026-09-24 | [solution](math/0180-ratio-metrics-the-delta-method-and-the-unit-of-analysis) |
 | [Recurrent Networks, Weight Sharing and Vanishing Gradients](https://www.deep-ml.com/math-problems/117) | hard | 2026-09-23 | [solution](math/0117-recurrent-networks-weight-sharing-and-vanishing-gradients) |
 | [Regularized Cox Models and the Concordance Index](https://www.deep-ml.com/math-problems/119) | hard | 2026-09-24 | [solution](math/0119-regularized-cox-models-and-the-concordance-index) |
