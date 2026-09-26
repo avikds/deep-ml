@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**261** solved · 200 problems · 41 labs · 20 math
+**262** solved · 200 problems · 41 labs · 21 math
 
 ![Coverage](./coverage.svg)
 
@@ -273,6 +273,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Interpolation and Double Descent](https://www.deep-ml.com/math-problems/118) | hard | 2026-09-24 | [solution](math/0118-interpolation-and-double-descent) |
 | [Local Regression and Generalized Additive Models](https://www.deep-ml.com/math-problems/111) | hard | 2026-09-24 | [solution](math/0111-local-regression-and-generalized-additive-models) |
 | [Matrix Completion and Missing Values](https://www.deep-ml.com/math-problems/122) | hard | 2026-09-23 | [solution](math/0122-matrix-completion-and-missing-values) |
+| [Maximum Likelihood and MAP](https://www.deep-ml.com/math-problems/26) | hard | 2026-09-26 | [solution](math/0026-maximum-likelihood-and-map) |
 | [Moment-Generating Functions and a Central Limit Theorem Sketch](https://www.deep-ml.com/math-problems/148) | hard | 2026-09-23 | [solution](math/0148-moment-generating-functions-and-a-central-limit-theorem-sketch) |
 | [Probabilistic Models](https://www.deep-ml.com/math-problems/29) | hard | 2026-09-26 | [solution](math/0029-probabilistic-models) |
 | [Properties of Estimators: Bias, Consistency, Efficiency](https://www.deep-ml.com/math-problems/74) | hard | 2026-09-26 | [solution](math/0074-properties-of-estimators-bias-consistency-efficiency) |
