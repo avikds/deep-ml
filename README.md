@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**262** solved · 200 problems · 41 labs · 21 math
+**263** solved · 200 problems · 41 labs · 22 math
 
 ![Coverage](./coverage.svg)
 
@@ -271,6 +271,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Disaggregation and Chunked Prefill: The Scheduling Arithmetic](https://www.deep-ml.com/math-problems/171) | hard | 2026-09-21 | [solution](math/0171-disaggregation-and-chunked-prefill-the-scheduling-arithmetic) |
 | [False Discovery Rate and Benjamini-Hochberg](https://www.deep-ml.com/math-problems/85) | hard | 2026-09-25 | [solution](math/0085-false-discovery-rate-and-benjamini-hochberg) |
 | [Interpolation and Double Descent](https://www.deep-ml.com/math-problems/118) | hard | 2026-09-24 | [solution](math/0118-interpolation-and-double-descent) |
+| [KL Divergence](https://www.deep-ml.com/math-problems/25) | hard | 2026-09-26 | [solution](math/0025-kl-divergence) |
 | [Local Regression and Generalized Additive Models](https://www.deep-ml.com/math-problems/111) | hard | 2026-09-24 | [solution](math/0111-local-regression-and-generalized-additive-models) |
 | [Matrix Completion and Missing Values](https://www.deep-ml.com/math-problems/122) | hard | 2026-09-23 | [solution](math/0122-matrix-completion-and-missing-values) |
 | [Maximum Likelihood and MAP](https://www.deep-ml.com/math-problems/26) | hard | 2026-09-26 | [solution](math/0026-maximum-likelihood-and-map) |
