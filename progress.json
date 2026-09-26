@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T03:20:45.867Z",
+  "generated_at": "2026-09-26T03:21:53.620Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -3331,6 +3331,17 @@
       "path": "math/0074-properties-of-estimators-bias-consistency-efficiency",
       "first_solved_at": "2026-09-26T03:20:43.512Z",
       "last_pushed_at": "2026-09-26T03:20:43.512Z"
+    },
+    "math:29": {
+      "kind": "math",
+      "id": "29",
+      "title": "Probabilistic Models",
+      "difficulty": "hard",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/29",
+      "path": "math/0029-probabilistic-models",
+      "first_solved_at": "2026-09-26T03:21:53.153Z",
+      "last_pushed_at": "2026-09-26T03:21:53.153Z"
     }
   }
 }
