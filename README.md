@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**260** solved · 200 problems · 41 labs · 19 math
+**261** solved · 200 problems · 41 labs · 20 math
 
 ![Coverage](./coverage.svg)
 
@@ -264,6 +264,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
 | [Bagging, Variance Reduction and Random Forests](https://www.deep-ml.com/math-problems/114) | hard | 2026-09-24 | [solution](math/0114-bagging-variance-reduction-and-random-forests) |
+| [Bayesian Methods](https://www.deep-ml.com/math-problems/28) | hard | 2026-09-26 | [solution](math/0028-bayesian-methods) |
 | [Boosting: Learning Slowly from Residuals](https://www.deep-ml.com/math-problems/115) | hard | 2026-09-24 | [solution](math/0115-boosting-learning-slowly-from-residuals) |
 | [Cox Proportional Hazards and the Hazard Ratio](https://www.deep-ml.com/math-problems/100) | hard | 2026-09-24 | [solution](math/0100-cox-proportional-hazards-and-the-hazard-ratio) |
 | [Dimension Reduction: Principal Components and Partial Least Squares](https://www.deep-ml.com/math-problems/108) | hard | 2026-09-24 | [solution](math/0108-dimension-reduction-principal-components-and-partial-least-squares) |
