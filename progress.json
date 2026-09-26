@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T03:31:15.682Z",
+  "generated_at": "2026-09-26T03:33:20.840Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -3408,6 +3408,32 @@
       "path": "math/0052-dpo-as-closed-form-kl-constrained-rl",
       "first_solved_at": "2026-09-26T03:31:04.627Z",
       "last_pushed_at": "2026-09-26T03:31:04.627Z"
+    },
+    "problem:399": {
+      "kind": "problem",
+      "id": "399",
+      "title": "Diffusion Model U-Net Time Embedding",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/399",
+      "path": "problems/0399-diffusion-model-u-net-time-embedding",
+      "first_solved_at": "2026-09-26T03:14:19.963Z",
+      "last_pushed_at": "2026-09-26T03:14:19.963Z",
+      "language": "python",
+      "lines": 39
+    },
+    "problem:1168": {
+      "kind": "problem",
+      "id": "1168",
+      "title": "Alien Dictionary via Topological Sort",
+      "difficulty": "hard",
+      "category": "Algorithms",
+      "url": "https://www.deep-ml.com/problems/1168",
+      "path": "problems/1168-alien-dictionary-via-topological-sort",
+      "first_solved_at": "2026-09-26T03:32:53.455Z",
+      "last_pushed_at": "2026-09-26T03:32:53.455Z",
+      "language": "python",
+      "lines": 43
     }
   }
 }
