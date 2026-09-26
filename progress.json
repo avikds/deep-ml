@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T03:27:39.664Z",
+  "generated_at": "2026-09-26T03:29:08.048Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -3375,6 +3375,17 @@
       "path": "math/0025-kl-divergence",
       "first_solved_at": "2026-09-26T03:27:37.096Z",
       "last_pushed_at": "2026-09-26T03:27:37.096Z"
+    },
+    "math:16": {
+      "kind": "math",
+      "id": "16",
+      "title": "Eigendecomposition and SVD",
+      "difficulty": "hard",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/16",
+      "path": "math/0016-eigendecomposition-and-svd",
+      "first_solved_at": "2026-09-26T03:28:58.595Z",
+      "last_pushed_at": "2026-09-26T03:28:58.595Z"
     }
   }
 }
