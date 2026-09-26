@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**265** solved · 200 problems · 41 labs · 24 math
+**266** solved · 200 problems · 41 labs · 25 math
 
 ![Coverage](./coverage.svg)
 
@@ -269,6 +269,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Cox Proportional Hazards and the Hazard Ratio](https://www.deep-ml.com/math-problems/100) | hard | 2026-09-24 | [solution](math/0100-cox-proportional-hazards-and-the-hazard-ratio) |
 | [Dimension Reduction: Principal Components and Partial Least Squares](https://www.deep-ml.com/math-problems/108) | hard | 2026-09-24 | [solution](math/0108-dimension-reduction-principal-components-and-partial-least-squares) |
 | [Disaggregation and Chunked Prefill: The Scheduling Arithmetic](https://www.deep-ml.com/math-problems/171) | hard | 2026-09-21 | [solution](math/0171-disaggregation-and-chunked-prefill-the-scheduling-arithmetic) |
+| [DPO as Closed-Form KL-Constrained RL](https://www.deep-ml.com/math-problems/52) | hard | 2026-09-26 | [solution](math/0052-dpo-as-closed-form-kl-constrained-rl) |
 | [Eigendecomposition and SVD](https://www.deep-ml.com/math-problems/16) | hard | 2026-09-26 | [solution](math/0016-eigendecomposition-and-svd) |
 | [False Discovery Rate and Benjamini-Hochberg](https://www.deep-ml.com/math-problems/85) | hard | 2026-09-25 | [solution](math/0085-false-discovery-rate-and-benjamini-hochberg) |
 | [Interpolation and Double Descent](https://www.deep-ml.com/math-problems/118) | hard | 2026-09-24 | [solution](math/0118-interpolation-and-double-descent) |
