@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**268** solved · 202 problems · 41 labs · 25 math
+**270** solved · 204 problems · 41 labs · 25 math
 
 ![Coverage](./coverage.svg)
 
@@ -20,6 +20,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement ReLU Activation Function](https://www.deep-ml.com/problems/42) | easy | 2026-09-06 | [solution](problems/0042-implement-relu-activation-function) |
 | [Implement Xavier/Glorot Weight Initialization](https://www.deep-ml.com/problems/369) | easy | 2026-09-06 | [solution](problems/0369-implement-xavier-glorot-weight-initialization) |
 | [Label Encoding for Ordinal Variables](https://www.deep-ml.com/problems/356) | easy | 2026-09-11 | [solution](problems/0356-label-encoding-for-ordinal-variables) |
+| [Linear Kernel Function](https://www.deep-ml.com/problems/45) | easy | 2026-09-27 | [solution](problems/0045-linear-kernel-function) |
 | [Linear Regression Using Gradient Descent](https://www.deep-ml.com/problems/15) | easy | 2026-09-06 | [solution](problems/0015-linear-regression-using-gradient-descent) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2026-08-20 | [solution](problems/0001-matrix-vector-dot-product) |
 | [Rejection Sampling Best-of-K Selection](https://www.deep-ml.com/problems/768) | easy | 2026-09-21 | [solution](problems/0768-rejection-sampling-best-of-k-selection) |
@@ -125,6 +126,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement the GRPO Objective Function](https://www.deep-ml.com/problems/101) | hard | 2026-09-06 | [solution](problems/0101-implement-the-grpo-objective-function) |
 | [Implementing a Custom Dense Layer in Python](https://www.deep-ml.com/problems/40) | hard | 2026-08-25 | [solution](problems/0040-implementing-a-custom-dense-layer-in-python) |
 | [Implementing PagedAttention: Block-wise Attention Computation](https://www.deep-ml.com/problems/492) | hard | 2026-09-11 | [solution](problems/0492-implementing-pagedattention-block-wise-attention-computation) |
+| [INT4 Pack/Unpack and Weight-Only W4A16 Matmul](https://www.deep-ml.com/problems/1256) | hard | 2026-09-27 | [solution](problems/1256-int4-pack-unpack-and-weight-only-w4a16-matmul) |
 | [Intra-Option Q-Learning for Temporal Abstraction](https://www.deep-ml.com/problems/652) | hard | 2026-09-16 | [solution](problems/0652-intra-option-q-learning-for-temporal-abstraction) |
 | [Job-Shop Scheduling with TD Learning](https://www.deep-ml.com/problems/622) | hard | 2026-09-16 | [solution](problems/0622-job-shop-scheduling-with-td-learning) |
 | [Kanerva Coding for High-Dimensional Spaces](https://www.deep-ml.com/problems/600) | hard | 2026-09-15 | [solution](problems/0600-kanerva-coding-for-high-dimensional-spaces) |

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T03:33:20.840Z",
+  "generated_at": "2026-09-27T05:50:14.438Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -3434,6 +3434,32 @@
       "last_pushed_at": "2026-09-26T03:32:53.455Z",
       "language": "python",
       "lines": 43
+    },
+    "problem:45": {
+      "kind": "problem",
+      "id": "45",
+      "title": "Linear Kernel Function",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/45",
+      "path": "problems/0045-linear-kernel-function",
+      "first_solved_at": "2026-09-27T05:48:01.405Z",
+      "last_pushed_at": "2026-09-27T05:48:01.405Z",
+      "language": "python",
+      "lines": 4
+    },
+    "problem:1256": {
+      "kind": "problem",
+      "id": "1256",
+      "title": "INT4 Pack/Unpack and Weight-Only W4A16 Matmul",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/1256",
+      "path": "problems/1256-int4-pack-unpack-and-weight-only-w4a16-matmul",
+      "first_solved_at": "2026-09-27T05:48:56.117Z",
+      "last_pushed_at": "2026-09-27T05:48:56.117Z",
+      "language": "python",
+      "lines": 45
     }
   }
 }
