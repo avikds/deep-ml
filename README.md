@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**270** solved · 204 problems · 41 labs · 25 math
+**271** solved · 205 problems · 41 labs · 25 math
 
 ![Coverage](./coverage.svg)
 
@@ -181,6 +181,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Semi-Markov Q-Learning](https://www.deep-ml.com/problems/617) | hard | 2026-09-16 | [solution](problems/0617-semi-markov-q-learning) |
 | [Sequential Video Generation with Diffusion Models](https://www.deep-ml.com/problems/501) | hard | 2026-09-11 | [solution](problems/0501-sequential-video-generation-with-diffusion-models) |
 | [Shortcut Maze and Exploration](https://www.deep-ml.com/problems/615) | hard | 2026-09-15 | [solution](problems/0615-shortcut-maze-and-exploration) |
+| [Simplified GPTQ: Sequential Quantization with Error Compensation](https://www.deep-ml.com/problems/1257) | hard | 2026-09-28 | [solution](problems/1257-simplified-gptq-sequential-quantization-with-error-compensation) |
 | [Singular Value Decomposition (SVD) of 2x2 Matrix](https://www.deep-ml.com/problems/12) | hard | 2026-08-20 | [solution](problems/0012-singular-value-decomposition-svd-of-2x2-matrix) |
 | [Sparse Distributed Memory](https://www.deep-ml.com/problems/646) | hard | 2026-09-16 | [solution](problems/0646-sparse-distributed-memory) |
 | [Spatial vs. Spatiotemporal Video Tokenizer Ablation](https://www.deep-ml.com/problems/718) | hard | 2026-09-17 | [solution](problems/0718-spatial-vs-spatiotemporal-video-tokenizer-ablation) |
