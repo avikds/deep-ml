@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T04:41:46.210Z",
+  "generated_at": "2026-09-28T17:19:43.230Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -3473,6 +3473,19 @@
       "last_pushed_at": "2026-09-28T04:40:45.500Z",
       "language": "python",
       "lines": 40
+    },
+    "problem:457": {
+      "kind": "problem",
+      "id": "457",
+      "title": "Implement Attention Sink Detection",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/457",
+      "path": "problems/0457-implement-attention-sink-detection",
+      "first_solved_at": "2026-09-28T17:19:11.878Z",
+      "last_pushed_at": "2026-09-28T17:19:11.878Z",
+      "language": "python",
+      "lines": 23
     }
   }
 }

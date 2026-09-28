@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**271** solved · 205 problems · 41 labs · 25 math
+**272** solved · 206 problems · 41 labs · 25 math
 
 ![Coverage](./coverage.svg)
 
@@ -36,6 +36,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Fused Bias+ReLU CUDA Kernel](https://www.deep-ml.com/problems/1188) | medium | 2026-09-22 | [solution](problems/1188-fused-bias-relu-cuda-kernel) |
 | [Highest Total Daily Order Cost in a Date Range](https://www.deep-ml.com/problems/1120) | medium | 2026-09-19 | [solution](problems/1120-highest-total-daily-order-cost-in-a-date-range) |
 | [Implement a Vision Transformer (ViT) Image Encoder](https://www.deep-ml.com/problems/720) | medium | 2026-09-16 | [solution](problems/0720-implement-a-vision-transformer-vit-image-encoder) |
+| [Implement Attention Sink Detection](https://www.deep-ml.com/problems/457) | medium | 2026-09-28 | [solution](problems/0457-implement-attention-sink-detection) |
 | [Implement BatchNorm2d from Scratch (training mode)](https://www.deep-ml.com/problems/902) | medium | 2026-09-07 | [solution](problems/0902-implement-batchnorm2d-from-scratch-training-mode) |
 | [Implement K-Fold Cross-Validation](https://www.deep-ml.com/problems/18) | medium | 2026-08-25 | [solution](problems/0018-implement-k-fold-cross-validation) |
 | [Implement Layer Normalization for Sequence Data](https://www.deep-ml.com/problems/109) | medium | 2026-09-03 | [solution](problems/0109-implement-layer-normalization-for-sequence-data) |
