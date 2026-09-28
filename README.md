@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**272** solved · 206 problems · 41 labs · 25 math
+**273** solved · 207 problems · 41 labs · 25 math
 
 ![Coverage](./coverage.svg)
 
@@ -184,6 +184,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Shortcut Maze and Exploration](https://www.deep-ml.com/problems/615) | hard | 2026-09-15 | [solution](problems/0615-shortcut-maze-and-exploration) |
 | [Simplified GPTQ: Sequential Quantization with Error Compensation](https://www.deep-ml.com/problems/1257) | hard | 2026-09-28 | [solution](problems/1257-simplified-gptq-sequential-quantization-with-error-compensation) |
 | [Singular Value Decomposition (SVD) of 2x2 Matrix](https://www.deep-ml.com/problems/12) | hard | 2026-08-20 | [solution](problems/0012-singular-value-decomposition-svd-of-2x2-matrix) |
+| [SmoothQuant: Migration Scales for W8A8](https://www.deep-ml.com/problems/1260) | hard | 2026-09-28 | [solution](problems/1260-smoothquant-migration-scales-for-w8a8) |
 | [Sparse Distributed Memory](https://www.deep-ml.com/problems/646) | hard | 2026-09-16 | [solution](problems/0646-sparse-distributed-memory) |
 | [Spatial vs. Spatiotemporal Video Tokenizer Ablation](https://www.deep-ml.com/problems/718) | hard | 2026-09-17 | [solution](problems/0718-spatial-vs-spatiotemporal-video-tokenizer-ablation) |
 | [Speculative Decoding End-to-End Simulation](https://www.deep-ml.com/problems/410) | hard | 2026-09-10 | [solution](problems/0410-speculative-decoding-end-to-end-simulation) |
