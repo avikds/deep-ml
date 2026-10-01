@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T18:25:31.982Z",
+  "generated_at": "2026-10-01T18:27:20.657Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -3525,6 +3525,19 @@
       "last_pushed_at": "2026-10-01T18:25:30.291Z",
       "language": "python",
       "lines": 80
+    },
+    "lab:a41c9e77-5d2b-4f0e-8c3a-6b7d8e9f0a1b": {
+      "kind": "lab",
+      "id": "a41c9e77-5d2b-4f0e-8c3a-6b7d8e9f0a1b",
+      "title": "Design Your Own KV Cache Eviction Policy",
+      "difficulty": "medium",
+      "category": "Inference",
+      "url": "https://www.deep-ml.com/labs/a41c9e77-5d2b-4f0e-8c3a-6b7d8e9f0a1b",
+      "path": "labs/a41c9e77-5d2b-4f0e-8c3a-6b7d8e9f0a1b-design-your-own-kv-cache-eviction-policy",
+      "first_solved_at": "2026-10-01T18:27:20.010Z",
+      "last_pushed_at": "2026-10-01T18:27:20.010Z",
+      "language": "python",
+      "lines": 119
     }
   }
 }
