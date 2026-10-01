@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T18:27:20.657Z",
+  "generated_at": "2026-10-01T18:29:02.165Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -3538,6 +3538,19 @@
       "last_pushed_at": "2026-10-01T18:27:20.010Z",
       "language": "python",
       "lines": 119
+    },
+    "lab:c8e5b2d4-9f1a-4e6c-b7d3-2a4f6e8c0b9d": {
+      "kind": "lab",
+      "id": "c8e5b2d4-9f1a-4e6c-b7d3-2a4f6e8c0b9d",
+      "title": "Design Your Own Quantizer",
+      "difficulty": "hard",
+      "category": "Inference",
+      "url": "https://www.deep-ml.com/labs/c8e5b2d4-9f1a-4e6c-b7d3-2a4f6e8c0b9d",
+      "path": "labs/c8e5b2d4-9f1a-4e6c-b7d3-2a4f6e8c0b9d-design-your-own-quantizer",
+      "first_solved_at": "2026-10-01T18:29:01.744Z",
+      "last_pushed_at": "2026-10-01T18:29:01.744Z",
+      "language": "python",
+      "lines": 44
     }
   }
 }
