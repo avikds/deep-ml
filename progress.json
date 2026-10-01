@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T18:32:06.956Z",
+  "generated_at": "2026-10-01T18:33:05.752Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -3564,6 +3564,58 @@
       "last_pushed_at": "2026-10-01T18:32:06.304Z",
       "language": "python",
       "lines": 127
+    },
+    "problem:1235": {
+      "kind": "problem",
+      "id": "1235",
+      "title": "SGD with Momentum Step",
+      "difficulty": "medium",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/1235",
+      "path": "problems/1235-sgd-with-momentum-step",
+      "first_solved_at": "2026-10-01T04:11:13.920Z",
+      "last_pushed_at": "2026-10-01T04:11:13.920Z",
+      "language": "python",
+      "lines": 7
+    },
+    "problem:1288": {
+      "kind": "problem",
+      "id": "1288",
+      "title": "Tensor Puzzle: Bucketize Values into Bins",
+      "difficulty": "hard",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1288",
+      "path": "problems/1288-tensor-puzzle-bucketize-values-into-bins",
+      "first_solved_at": "2026-10-01T18:10:28.753Z",
+      "last_pushed_at": "2026-10-01T18:10:28.753Z",
+      "language": "python",
+      "lines": 9
+    },
+    "problem:1300": {
+      "kind": "problem",
+      "id": "1300",
+      "title": "AgentOPSD: Full Turn-Level Credit Assignment Pipeline",
+      "difficulty": "hard",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/1300",
+      "path": "problems/1300-agentopsd-full-turn-level-credit-assignment-pipeline",
+      "first_solved_at": "2026-10-01T18:11:17.867Z",
+      "last_pushed_at": "2026-10-01T18:11:17.867Z",
+      "language": "python",
+      "lines": 55
+    },
+    "problem:1301": {
+      "kind": "problem",
+      "id": "1301",
+      "title": "FlashDecoding: Split-K GQA Decode Attention",
+      "difficulty": "hard",
+      "category": "Inference",
+      "url": "https://www.deep-ml.com/problems/1301",
+      "path": "problems/1301-flashdecoding-split-k-gqa-decode-attention",
+      "first_solved_at": "2026-10-01T18:13:03.896Z",
+      "last_pushed_at": "2026-10-01T18:13:03.896Z",
+      "language": "python",
+      "lines": 77
     }
   }
 }
