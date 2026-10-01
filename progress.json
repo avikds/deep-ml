@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T07:01:29.493Z",
+  "generated_at": "2026-10-01T18:25:31.982Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -3512,6 +3512,19 @@
       "last_pushed_at": "2026-09-29T07:00:58.081Z",
       "language": "python",
       "lines": 29
+    },
+    "lab:7d2f6a1c-3b8e-4c5d-9a0f-1e2b3c4d5e6f": {
+      "kind": "lab",
+      "id": "7d2f6a1c-3b8e-4c5d-9a0f-1e2b3c4d5e6f",
+      "title": "Design Your Own Autoscaler",
+      "difficulty": "medium",
+      "category": "Inference",
+      "url": "https://www.deep-ml.com/labs/7d2f6a1c-3b8e-4c5d-9a0f-1e2b3c4d5e6f",
+      "path": "labs/7d2f6a1c-3b8e-4c5d-9a0f-1e2b3c4d5e6f-design-your-own-autoscaler",
+      "first_solved_at": "2026-10-01T18:25:30.291Z",
+      "last_pushed_at": "2026-10-01T18:25:30.291Z",
+      "language": "python",
+      "lines": 80
     }
   }
 }

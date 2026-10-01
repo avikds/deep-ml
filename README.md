@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**274** solved · 208 problems · 41 labs · 25 math
+**275** solved · 208 problems · 42 labs · 25 math
 
 ![Coverage](./coverage.svg)
 
@@ -238,6 +238,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Combine Trained Models into an Ensemble](https://www.deep-ml.com/labs/27) | medium | 2026-09-05 | [solution](labs/0027-combine-trained-models-into-an-ensemble) |
 | [Data Preprocessing: Handling Missing Values](https://www.deep-ml.com/labs/11) | medium | 2026-08-26 | [solution](labs/0011-data-preprocessing-handling-missing-values) |
 | [Design Your Own Attention Mechanism](https://www.deep-ml.com/labs/10) | medium | 2026-09-10 | [solution](labs/0010-design-your-own-attention-mechanism) |
+| [Design Your Own Autoscaler](https://www.deep-ml.com/labs/7d2f6a1c-3b8e-4c5d-9a0f-1e2b3c4d5e6f) | medium | 2026-10-01 | [solution](labs/7d2f6a1c-3b8e-4c5d-9a0f-1e2b3c4d5e6f-design-your-own-autoscaler) |
 | [Design Your Own MoE Router](https://www.deep-ml.com/labs/25) | medium | 2026-09-06 | [solution](labs/0025-design-your-own-moe-router) |
 | [Design Your Own Optimizer (NumPy)](https://www.deep-ml.com/labs/8) | medium | 2026-09-01 | [solution](labs/0008-design-your-own-optimizer-numpy) |
 | [Design Your Own PTQ](https://www.deep-ml.com/labs/36) | medium | 2026-08-20 | [solution](labs/0036-design-your-own-ptq) |
