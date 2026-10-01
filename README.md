@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**277** solved · 208 problems · 44 labs · 25 math
+**278** solved · 208 problems · 45 labs · 25 math
 
 ![Coverage](./coverage.svg)
 
@@ -263,6 +263,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Build a Tree for a Random Forest](https://www.deep-ml.com/labs/26) | hard | 2026-08-26 | [solution](labs/0026-build-a-tree-for-a-random-forest) |
 | [Design Your Own Latent Dynamics: Self-Speculative Decoding on TinyStories](https://www.deep-ml.com/labs/442392d7-09c3-4535-94f5-3aa8f288cce5) | hard | 2026-09-07 | [solution](labs/442392d7-09c3-4535-94f5-3aa8f288cce5-design-your-own-latent-dynamics-self-speculative-decoding-on-tinystories) |
 | [Design Your Own Quantizer](https://www.deep-ml.com/labs/c8e5b2d4-9f1a-4e6c-b7d3-2a4f6e8c0b9d) | hard | 2026-10-01 | [solution](labs/c8e5b2d4-9f1a-4e6c-b7d3-2a4f6e8c0b9d-design-your-own-quantizer) |
+| [Design Your Own Request Scheduler](https://www.deep-ml.com/labs/e6b3d8f2-7a4c-4d1e-9b5f-3c2a1d0e9f8b) | hard | 2026-10-01 | [solution](labs/e6b3d8f2-7a4c-4d1e-9b5f-3c2a1d0e9f8b-design-your-own-request-scheduler) |
 | [Feature Deconfounder for Biased Image Data](https://www.deep-ml.com/labs/16) | hard | 2026-08-21 | [solution](labs/0016-feature-deconfounder-for-biased-image-data) |
 | [Fine-Tune DistilGPT2 on TinyStories](https://www.deep-ml.com/labs/29) | hard | 2026-08-26 | [solution](labs/0029-fine-tune-distilgpt2-on-tinystories) |
 | [MNIST: Adversarial Example Generation](https://www.deep-ml.com/labs/5) | hard | 2026-08-24 | [solution](labs/0005-mnist-adversarial-example-generation) |

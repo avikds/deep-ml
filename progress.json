@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T18:29:02.165Z",
+  "generated_at": "2026-10-01T18:32:06.956Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -3551,6 +3551,19 @@
       "last_pushed_at": "2026-10-01T18:29:01.744Z",
       "language": "python",
       "lines": 44
+    },
+    "lab:e6b3d8f2-7a4c-4d1e-9b5f-3c2a1d0e9f8b": {
+      "kind": "lab",
+      "id": "e6b3d8f2-7a4c-4d1e-9b5f-3c2a1d0e9f8b",
+      "title": "Design Your Own Request Scheduler",
+      "difficulty": "hard",
+      "category": "Inference",
+      "url": "https://www.deep-ml.com/labs/e6b3d8f2-7a4c-4d1e-9b5f-3c2a1d0e9f8b",
+      "path": "labs/e6b3d8f2-7a4c-4d1e-9b5f-3c2a1d0e9f8b-design-your-own-request-scheduler",
+      "first_solved_at": "2026-10-01T18:32:06.304Z",
+      "last_pushed_at": "2026-10-01T18:32:06.304Z",
+      "language": "python",
+      "lines": 127
     }
   }
 }
