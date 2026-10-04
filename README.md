@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**283** solved · 213 problems · 45 labs · 25 math
+**284** solved · 214 problems · 45 labs · 25 math
 
 ![Coverage](./coverage.svg)
 
@@ -213,6 +213,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Train Softmax Regression with Gradient Descent](https://www.deep-ml.com/problems/105) | hard | 2026-09-06 | [solution](problems/0105-train-softmax-regression-with-gradient-descent) |
 | [Training a Rectified Flow Diffusion Model](https://www.deep-ml.com/problems/500) | hard | 2026-09-11 | [solution](problems/0500-training-a-rectified-flow-diffusion-model) |
 | [Transformer Policy for Behavioral Cloning from Latent Actions](https://www.deep-ml.com/problems/727) | hard | 2026-09-17 | [solution](problems/0727-transformer-policy-for-behavioral-cloning-from-latent-actions) |
+| [Tree Speculative Verification](https://www.deep-ml.com/problems/1304) | hard | 2026-10-04 | [solution](problems/1304-tree-speculative-verification) |
 | [Triton: Block Matrix Multiplication](https://www.deep-ml.com/problems/975) | hard | 2026-09-19 | [solution](problems/0975-triton-block-matrix-multiplication) |
 | [True Online SARSA with Eligibility Traces](https://www.deep-ml.com/problems/483) | hard | 2026-09-11 | [solution](problems/0483-true-online-sarsa-with-eligibility-traces) |
 | [True Online TD(λ) with Linear Function Approximation](https://www.deep-ml.com/problems/561) | hard | 2026-09-11 | [solution](problems/0561-true-online-td-with-linear-function-approximation) |
