@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T08:10:35.402Z",
+  "generated_at": "2026-10-04T08:12:12.758Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -3675,6 +3675,17 @@
       "path": "math/0199-asymmetric-binary-cross-entropy-and-the-elimination-threshold",
       "first_solved_at": "2026-10-04T08:10:33.304Z",
       "last_pushed_at": "2026-10-04T08:10:33.304Z"
+    },
+    "math:208": {
+      "kind": "math",
+      "id": "208",
+      "title": "Entropy Collapse on Hard Tasks and Positive-Ratio Filtering",
+      "difficulty": "hard",
+      "category": "Reinforcement Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/208",
+      "path": "math/0208-entropy-collapse-on-hard-tasks-and-positive-ratio-filtering",
+      "first_solved_at": "2026-10-04T08:12:11.186Z",
+      "last_pushed_at": "2026-10-04T08:12:11.186Z"
     }
   }
 }

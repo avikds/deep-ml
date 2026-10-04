@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**287** solved · 214 problems · 45 labs · 28 math
+**288** solved · 214 problems · 45 labs · 29 math
 
 ![Coverage](./coverage.svg)
 
@@ -290,6 +290,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Disaggregation and Chunked Prefill: The Scheduling Arithmetic](https://www.deep-ml.com/math-problems/171) | hard | 2026-09-21 | [solution](math/0171-disaggregation-and-chunked-prefill-the-scheduling-arithmetic) |
 | [DPO as Closed-Form KL-Constrained RL](https://www.deep-ml.com/math-problems/52) | hard | 2026-09-26 | [solution](math/0052-dpo-as-closed-form-kl-constrained-rl) |
 | [Eigendecomposition and SVD](https://www.deep-ml.com/math-problems/16) | hard | 2026-09-26 | [solution](math/0016-eigendecomposition-and-svd) |
+| [Entropy Collapse on Hard Tasks and Positive-Ratio Filtering](https://www.deep-ml.com/math-problems/208) | hard | 2026-10-04 | [solution](math/0208-entropy-collapse-on-hard-tasks-and-positive-ratio-filtering) |
 | [False Discovery Rate and Benjamini-Hochberg](https://www.deep-ml.com/math-problems/85) | hard | 2026-09-25 | [solution](math/0085-false-discovery-rate-and-benjamini-hochberg) |
 | [Interpolation and Double Descent](https://www.deep-ml.com/math-problems/118) | hard | 2026-09-24 | [solution](math/0118-interpolation-and-double-descent) |
 | [KL Divergence](https://www.deep-ml.com/math-problems/25) | hard | 2026-09-26 | [solution](math/0025-kl-divergence) |
