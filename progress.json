@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T07:55:11.156Z",
+  "generated_at": "2026-10-04T08:00:02.150Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -3653,6 +3653,17 @@
       "path": "math/0185-why-mean-squared-error-is-non-convex-for-logistic-regression",
       "first_solved_at": "2026-10-04T07:55:09.499Z",
       "last_pushed_at": "2026-10-04T07:55:09.499Z"
+    },
+    "math:193": {
+      "kind": "math",
+      "id": "193",
+      "title": "Spectral Graph Convolution and Chebyshev Filters",
+      "difficulty": "hard",
+      "category": "Graph Neural Networks",
+      "url": "https://www.deep-ml.com/math-problems/193",
+      "path": "math/0193-spectral-graph-convolution-and-chebyshev-filters",
+      "first_solved_at": "2026-10-04T07:59:44.997Z",
+      "last_pushed_at": "2026-10-04T07:59:44.997Z"
     }
   }
 }

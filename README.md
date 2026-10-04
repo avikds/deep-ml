@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**285** solved · 214 problems · 45 labs · 26 math
+**286** solved · 214 problems · 45 labs · 27 math
 
 ![Coverage](./coverage.svg)
 
@@ -305,6 +305,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Renewal Processes and Blackwell's Theorem](https://www.deep-ml.com/math-problems/149) | hard | 2026-09-23 | [solution](math/0149-renewal-processes-and-blackwell-s-theorem) |
 | [Ridge vs Lasso: Constraint Geometry and Soft-Thresholding](https://www.deep-ml.com/math-problems/94) | hard | 2026-09-25 | [solution](math/0094-ridge-vs-lasso-constraint-geometry-and-soft-thresholding) |
 | [Smoothing Splines: $\lambda$ and Effective Degrees of Freedom](https://www.deep-ml.com/math-problems/97) | hard | 2026-09-24 | [solution](math/0097-smoothing-splines-lambda-and-effective-degrees-of-freedom) |
+| [Spectral Graph Convolution and Chebyshev Filters](https://www.deep-ml.com/math-problems/193) | hard | 2026-10-04 | [solution](math/0193-spectral-graph-convolution-and-chebyshev-filters) |
 | [Why Mean Squared Error Is Non-Convex for Logistic Regression](https://www.deep-ml.com/math-problems/185) | hard | 2026-10-04 | [solution](math/0185-why-mean-squared-error-is-non-convex-for-logistic-regression) |
 | [XGBoost Split Gain from the Second-Order Objective](https://www.deep-ml.com/math-problems/151) | hard | 2026-09-23 | [solution](math/0151-xgboost-split-gain-from-the-second-order-objective) |
 
