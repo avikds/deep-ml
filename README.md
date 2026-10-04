@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**286** solved · 214 problems · 45 labs · 27 math
+**287** solved · 214 problems · 45 labs · 28 math
 
 ![Coverage](./coverage.svg)
 
@@ -281,6 +281,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [Asymmetric Binary Cross-Entropy and the Elimination Threshold](https://www.deep-ml.com/math-problems/199) | hard | 2026-10-04 | [solution](math/0199-asymmetric-binary-cross-entropy-and-the-elimination-threshold) |
 | [Bagging, Variance Reduction and Random Forests](https://www.deep-ml.com/math-problems/114) | hard | 2026-09-24 | [solution](math/0114-bagging-variance-reduction-and-random-forests) |
 | [Bayesian Methods](https://www.deep-ml.com/math-problems/28) | hard | 2026-09-26 | [solution](math/0028-bayesian-methods) |
 | [Boosting: Learning Slowly from Residuals](https://www.deep-ml.com/math-problems/115) | hard | 2026-09-24 | [solution](math/0115-boosting-learning-slowly-from-residuals) |

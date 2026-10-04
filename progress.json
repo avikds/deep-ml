@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T08:00:02.150Z",
+  "generated_at": "2026-10-04T08:10:35.402Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -3664,6 +3664,17 @@
       "path": "math/0193-spectral-graph-convolution-and-chebyshev-filters",
       "first_solved_at": "2026-10-04T07:59:44.997Z",
       "last_pushed_at": "2026-10-04T07:59:44.997Z"
+    },
+    "math:199": {
+      "kind": "math",
+      "id": "199",
+      "title": "Asymmetric Binary Cross-Entropy and the Elimination Threshold",
+      "difficulty": "hard",
+      "category": "Deep Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/199",
+      "path": "math/0199-asymmetric-binary-cross-entropy-and-the-elimination-threshold",
+      "first_solved_at": "2026-10-04T08:10:33.304Z",
+      "last_pushed_at": "2026-10-04T08:10:33.304Z"
     }
   }
 }
