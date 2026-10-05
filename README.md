@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**288** solved · 214 problems · 45 labs · 29 math
+**294** solved · 220 problems · 45 labs · 29 math
 
 ![Coverage](./coverage.svg)
 
@@ -132,6 +132,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement the GRPO Objective Function](https://www.deep-ml.com/problems/101) | hard | 2026-09-06 | [solution](problems/0101-implement-the-grpo-objective-function) |
 | [Implementing a Custom Dense Layer in Python](https://www.deep-ml.com/problems/40) | hard | 2026-08-25 | [solution](problems/0040-implementing-a-custom-dense-layer-in-python) |
 | [Implementing PagedAttention: Block-wise Attention Computation](https://www.deep-ml.com/problems/492) | hard | 2026-09-11 | [solution](problems/0492-implementing-pagedattention-block-wise-attention-computation) |
+| [Inclusive Prefix Scan](https://www.deep-ml.com/problems/1313) | hard | 2026-10-05 | [solution](problems/1313-inclusive-prefix-scan) |
 | [INT4 Pack/Unpack and Weight-Only W4A16 Matmul](https://www.deep-ml.com/problems/1256) | hard | 2026-09-27 | [solution](problems/1256-int4-pack-unpack-and-weight-only-w4a16-matmul) |
 | [Intra-Option Q-Learning for Temporal Abstraction](https://www.deep-ml.com/problems/652) | hard | 2026-09-16 | [solution](problems/0652-intra-option-q-learning-for-temporal-abstraction) |
 | [Job-Shop Scheduling with TD Learning](https://www.deep-ml.com/problems/622) | hard | 2026-09-16 | [solution](problems/0622-job-shop-scheduling-with-td-learning) |
@@ -140,6 +141,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Lightning Indexer Sparse Attention Selection](https://www.deep-ml.com/problems/736) | hard | 2026-09-17 | [solution](problems/0736-lightning-indexer-sparse-attention-selection) |
 | [Linear Sarsa Algorithm](https://www.deep-ml.com/problems/534) | hard | 2026-09-11 | [solution](problems/0534-linear-sarsa-algorithm) |
 | [Llama 3 RoPE Frequency Scaling](https://www.deep-ml.com/problems/1025) | hard | 2026-09-21 | [solution](problems/1025-llama-3-rope-frequency-scaling) |
+| [Loop Nest Codegen for a Reduction: Render, Compile, Run](https://www.deep-ml.com/problems/1520) | hard | 2026-10-05 | [solution](problems/1520-loop-nest-codegen-for-a-reduction-render-compile-run) |
 | [Manual Backprop Through Cross-Entropy Intermediates](https://www.deep-ml.com/problems/997) | hard | 2026-09-19 | [solution](problems/0997-manual-backprop-through-cross-entropy-intermediates) |
 | [Masked Generative Token Prediction Step](https://www.deep-ml.com/problems/706) | hard | 2026-09-17 | [solution](problems/0706-masked-generative-token-prediction-step) |
 | [MCTS with Step-wise Reward for Reasoning Trace Search](https://www.deep-ml.com/problems/777) | hard | 2026-09-19 | [solution](problems/0777-mcts-with-step-wise-reward-for-reasoning-trace-search) |
@@ -151,6 +153,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Monte Carlo Tree Search with Neural Policy and Value](https://www.deep-ml.com/problems/978) | hard | 2026-09-19 | [solution](problems/0978-monte-carlo-tree-search-with-neural-policy-and-value) |
 | [Monthly-Cohort Retention Rate by Plan](https://www.deep-ml.com/problems/1133) | hard | 2026-09-25 | [solution](problems/1133-monthly-cohort-retention-rate-by-plan) |
 | [Multi-Head Latent Attention (MLA)](https://www.deep-ml.com/problems/405) | hard | 2026-09-10 | [solution](problems/0405-multi-head-latent-attention-mla) |
+| [Multi-LoRA Batched Linear (Punica / S-LoRA)](https://www.deep-ml.com/problems/1305) | hard | 2026-10-05 | [solution](problems/1305-multi-lora-batched-linear-punica-s-lora) |
 | [n-Step Tree Backup Algorithm](https://www.deep-ml.com/problems/581) | hard | 2026-09-12 | [solution](problems/0581-n-step-tree-backup-algorithm) |
 | [Non-Maximum Suppression for Object Detection](https://www.deep-ml.com/problems/242) | hard | 2026-09-06 | [solution](problems/0242-non-maximum-suppression-for-object-detection) |
 | [NoPE (No Positional Embedding) with iRoPE Attention](https://www.deep-ml.com/problems/406) | hard | 2026-09-10 | [solution](problems/0406-nope-no-positional-embedding-with-irope-attention) |
@@ -163,6 +166,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Overlapping Weighted KV Compression](https://www.deep-ml.com/problems/735) | hard | 2026-09-17 | [solution](problems/0735-overlapping-weighted-kv-compression) |
 | [Parallel Environment Simulation with Multiprocessing](https://www.deep-ml.com/problems/655) | hard | 2026-09-16 | [solution](problems/0655-parallel-environment-simulation-with-multiprocessing) |
 | [Parallel Value Functions (Horde)](https://www.deep-ml.com/problems/585) | hard | 2026-09-13 | [solution](problems/0585-parallel-value-functions-horde) |
+| [Pattern Matching and Graph Rewrite to a Fixed Point](https://www.deep-ml.com/problems/1510) | hard | 2026-10-05 | [solution](problems/1510-pattern-matching-and-graph-rewrite-to-a-fixed-point) |
 | [PCA Color Augmentation](https://www.deep-ml.com/problems/191) | hard | 2026-09-06 | [solution](problems/0191-pca-color-augmentation) |
 | [Pegasos Kernel SVM Implementation](https://www.deep-ml.com/problems/21) | hard | 2026-08-25 | [solution](problems/0021-pegasos-kernel-svm-implementation) |
 | [Per-Layer Embedding Projection (PLE)](https://www.deep-ml.com/problems/1050) | hard | 2026-09-21 | [solution](problems/1050-per-layer-embedding-projection-ple) |
@@ -178,10 +182,12 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [QR Decomposition](https://www.deep-ml.com/problems/201) | hard | 2026-09-06 | [solution](problems/0201-qr-decomposition) |
 | [R-Learning for Average Reward](https://www.deep-ml.com/problems/540) | hard | 2026-09-11 | [solution](problems/0540-r-learning-for-average-reward) |
 | [Rainbow DQN Implementation](https://www.deep-ml.com/problems/593) | hard | 2026-09-13 | [solution](problems/0593-rainbow-dqn-implementation) |
+| [Rangeify: Push an Output Index Back Through Movement Ops](https://www.deep-ml.com/problems/1516) | hard | 2026-10-05 | [solution](problems/1516-rangeify-push-an-output-index-back-through-movement-ops) |
 | [REINFORCE with Baseline: Episode Update](https://www.deep-ml.com/problems/481) | hard | 2026-09-11 | [solution](problems/0481-reinforce-with-baseline-episode-update) |
 | [REINFORCE with Value Baseline](https://www.deep-ml.com/problems/552) | hard | 2026-09-11 | [solution](problems/0552-reinforce-with-value-baseline) |
 | [Residual Gradient Algorithm for Value Function Approximation](https://www.deep-ml.com/problems/577) | hard | 2026-09-11 | [solution](problems/0577-residual-gradient-algorithm-for-value-function-approximation) |
 | [Retrace(λ) Implementation](https://www.deep-ml.com/problems/582) | hard | 2026-09-13 | [solution](problems/0582-retrace-implementation) |
+| [Reverse-Mode Autodiff over a Tiny Graph IR](https://www.deep-ml.com/problems/1528) | hard | 2026-10-05 | [solution](problems/1528-reverse-mode-autodiff-over-a-tiny-graph-ir) |
 | [Sarsa(lambda) Algorithm with Eligibility Traces](https://www.deep-ml.com/problems/521) | hard | 2026-09-11 | [solution](problems/0521-sarsa-lambda-algorithm-with-eligibility-traces) |
 | [Semi-Gradient TD(lambda) with Eligibility Traces and Linear Function Approximation](https://www.deep-ml.com/problems/531) | hard | 2026-09-11 | [solution](problems/0531-semi-gradient-td-lambda-with-eligibility-traces-and-linear-function-approximation) |
 | [Semi-Markov Q-Learning](https://www.deep-ml.com/problems/617) | hard | 2026-09-16 | [solution](problems/0617-semi-markov-q-learning) |

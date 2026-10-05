@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T08:12:12.758Z",
+  "generated_at": "2026-10-05T05:58:12.876Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -3686,6 +3686,84 @@
       "path": "math/0208-entropy-collapse-on-hard-tasks-and-positive-ratio-filtering",
       "first_solved_at": "2026-10-04T08:12:11.186Z",
       "last_pushed_at": "2026-10-04T08:12:11.186Z"
+    },
+    "problem:1305": {
+      "kind": "problem",
+      "id": "1305",
+      "title": "Multi-LoRA Batched Linear (Punica / S-LoRA)",
+      "difficulty": "hard",
+      "category": "Inference",
+      "url": "https://www.deep-ml.com/problems/1305",
+      "path": "problems/1305-multi-lora-batched-linear-punica-s-lora",
+      "first_solved_at": "2026-10-05T04:47:41.027Z",
+      "last_pushed_at": "2026-10-05T04:47:41.027Z",
+      "language": "python",
+      "lines": 29
+    },
+    "problem:1510": {
+      "kind": "problem",
+      "id": "1510",
+      "title": "Pattern Matching and Graph Rewrite to a Fixed Point",
+      "difficulty": "hard",
+      "category": "Compilers",
+      "url": "https://www.deep-ml.com/problems/1510",
+      "path": "problems/1510-pattern-matching-and-graph-rewrite-to-a-fixed-point",
+      "first_solved_at": "2026-10-05T04:48:50.340Z",
+      "last_pushed_at": "2026-10-05T04:48:50.340Z",
+      "language": "python",
+      "lines": 131
+    },
+    "problem:1520": {
+      "kind": "problem",
+      "id": "1520",
+      "title": "Loop Nest Codegen for a Reduction: Render, Compile, Run",
+      "difficulty": "hard",
+      "category": "Compilers",
+      "url": "https://www.deep-ml.com/problems/1520",
+      "path": "problems/1520-loop-nest-codegen-for-a-reduction-render-compile-run",
+      "first_solved_at": "2026-10-05T05:04:14.065Z",
+      "last_pushed_at": "2026-10-05T05:04:14.065Z",
+      "language": "python",
+      "lines": 147
+    },
+    "problem:1313": {
+      "kind": "problem",
+      "id": "1313",
+      "title": "Inclusive Prefix Scan",
+      "difficulty": "hard",
+      "category": "Cuda",
+      "url": "https://www.deep-ml.com/problems/1313",
+      "path": "problems/1313-inclusive-prefix-scan",
+      "first_solved_at": "2026-10-05T05:49:28.408Z",
+      "last_pushed_at": "2026-10-05T05:49:28.408Z",
+      "language": "python",
+      "lines": 54
+    },
+    "problem:1528": {
+      "kind": "problem",
+      "id": "1528",
+      "title": "Reverse-Mode Autodiff over a Tiny Graph IR",
+      "difficulty": "hard",
+      "category": "Compilers",
+      "url": "https://www.deep-ml.com/problems/1528",
+      "path": "problems/1528-reverse-mode-autodiff-over-a-tiny-graph-ir",
+      "first_solved_at": "2026-10-05T05:54:53.724Z",
+      "last_pushed_at": "2026-10-05T05:54:53.724Z",
+      "language": "python",
+      "lines": 242
+    },
+    "problem:1516": {
+      "kind": "problem",
+      "id": "1516",
+      "title": "Rangeify: Push an Output Index Back Through Movement Ops",
+      "difficulty": "hard",
+      "category": "Compilers",
+      "url": "https://www.deep-ml.com/problems/1516",
+      "path": "problems/1516-rangeify-push-an-output-index-back-through-movement-ops",
+      "first_solved_at": "2026-10-05T05:56:08.496Z",
+      "last_pushed_at": "2026-10-05T05:56:08.496Z",
+      "language": "python",
+      "lines": 163
     }
   }
 }
