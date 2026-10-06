@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T05:58:12.876Z",
+  "generated_at": "2026-10-06T04:52:23.230Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -3764,6 +3764,32 @@
       "last_pushed_at": "2026-10-05T05:56:08.496Z",
       "language": "python",
       "lines": 163
+    },
+    "problem:1462": {
+      "kind": "problem",
+      "id": "1462",
+      "title": "Power Users With Purchases in Every Month of the Year",
+      "difficulty": "medium",
+      "category": "Sql",
+      "url": "https://www.deep-ml.com/problems/1462",
+      "path": "problems/1462-power-users-with-purchases-in-every-month-of-the-year",
+      "first_solved_at": "2026-10-06T04:45:04.342Z",
+      "last_pushed_at": "2026-10-06T04:45:04.342Z",
+      "language": "sql",
+      "lines": 43
+    },
+    "problem:1315": {
+      "kind": "problem",
+      "id": "1315",
+      "title": "Tiled 2D Convolution",
+      "difficulty": "hard",
+      "category": "Cuda",
+      "url": "https://www.deep-ml.com/problems/1315",
+      "path": "problems/1315-tiled-2d-convolution",
+      "first_solved_at": "2026-10-06T04:51:38.944Z",
+      "last_pushed_at": "2026-10-06T04:51:38.944Z",
+      "language": "python",
+      "lines": 109
     }
   }
 }

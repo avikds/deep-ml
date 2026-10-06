@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**294** solved · 220 problems · 45 labs · 29 math
+**296** solved · 222 problems · 45 labs · 29 math
 
 ![Coverage](./coverage.svg)
 
@@ -54,6 +54,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Numerical Gradient Checking](https://www.deep-ml.com/problems/313) | medium | 2026-09-06 | [solution](problems/0313-numerical-gradient-checking) |
 | [Omitted-Variable Bias](https://www.deep-ml.com/problems/1358) | medium | 2026-09-17 | [solution](problems/1358-omitted-variable-bias) |
 | [Poisson Deviance and Overdispersion](https://www.deep-ml.com/problems/1367) | medium | 2026-09-29 | [solution](problems/1367-poisson-deviance-and-overdispersion) |
+| [Power Users With Purchases in Every Month of the Year](https://www.deep-ml.com/problems/1462) | medium | 2026-10-06 | [solution](problems/1462-power-users-with-purchases-in-every-month-of-the-year) |
 | [SGD with Momentum Step](https://www.deep-ml.com/problems/1235) | medium | 2026-10-01 | [solution](problems/1235-sgd-with-momentum-step) |
 | [Sigmoidal Accuracy-to-Log-Likelihood Scaling Law Fit](https://www.deep-ml.com/problems/790) | medium | 2026-09-09 | [solution](problems/0790-sigmoidal-accuracy-to-log-likelihood-scaling-law-fit) |
 | [Solve Linear Equations using Jacobi Method](https://www.deep-ml.com/problems/11) | medium | 2026-08-25 | [solution](problems/0011-solve-linear-equations-using-jacobi-method) |
@@ -209,6 +210,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [TDNN for Variable-Length Sequences](https://www.deep-ml.com/problems/624) | hard | 2026-09-16 | [solution](problems/0624-tdnn-for-variable-length-sequences) |
 | [Temporal Abstraction with Options](https://www.deep-ml.com/problems/587) | hard | 2026-09-13 | [solution](problems/0587-temporal-abstraction-with-options) |
 | [Tensor Puzzle: Bucketize Values into Bins](https://www.deep-ml.com/problems/1288) | hard | 2026-10-01 | [solution](problems/1288-tensor-puzzle-bucketize-values-into-bins) |
+| [Tiled 2D Convolution](https://www.deep-ml.com/problems/1315) | hard | 2026-10-06 | [solution](problems/1315-tiled-2d-convolution) |
 | [Tinygrad: Build a Tiny GPT](https://www.deep-ml.com/problems/939) | hard | 2026-09-19 | [solution](problems/0939-tinygrad-build-a-tiny-gpt) |
 | [Tinygrad: Implement Multi-Head Self-Attention](https://www.deep-ml.com/problems/925) | hard | 2026-09-19 | [solution](problems/0925-tinygrad-implement-multi-head-self-attention) |
 | [Token-Level Key-Value Compression with Overlapping Windows](https://www.deep-ml.com/problems/734) | hard | 2026-09-17 | [solution](problems/0734-token-level-key-value-compression-with-overlapping-windows) |
