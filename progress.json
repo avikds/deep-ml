@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T04:52:23.230Z",
+  "generated_at": "2026-10-07T04:48:35.067Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -3790,6 +3790,19 @@
       "last_pushed_at": "2026-10-06T04:51:38.944Z",
       "language": "python",
       "lines": 109
+    },
+    "problem:1149": {
+      "kind": "problem",
+      "id": "1149",
+      "title": "Dynamic Programming Drills: Knapsack and Grid Paths",
+      "difficulty": "medium",
+      "category": "Algorithms",
+      "url": "https://www.deep-ml.com/problems/1149",
+      "path": "problems/1149-dynamic-programming-drills-knapsack-and-grid-paths",
+      "first_solved_at": "2026-10-07T04:44:15.910Z",
+      "last_pushed_at": "2026-10-07T04:44:15.910Z",
+      "language": "python",
+      "lines": 52
     }
   }
 }
