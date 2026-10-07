@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**297** solved · 223 problems · 45 labs · 29 math
+**298** solved · 224 problems · 45 labs · 29 math
 
 ![Coverage](./coverage.svg)
 
@@ -201,6 +201,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Sparse Distributed Memory](https://www.deep-ml.com/problems/646) | hard | 2026-09-16 | [solution](problems/0646-sparse-distributed-memory) |
 | [Spatial vs. Spatiotemporal Video Tokenizer Ablation](https://www.deep-ml.com/problems/718) | hard | 2026-09-17 | [solution](problems/0718-spatial-vs-spatiotemporal-video-tokenizer-ablation) |
 | [Speculative Decoding End-to-End Simulation](https://www.deep-ml.com/problems/410) | hard | 2026-09-10 | [solution](problems/0410-speculative-decoding-end-to-end-simulation) |
+| [Stream Compaction](https://www.deep-ml.com/problems/1316) | hard | 2026-10-07 | [solution](problems/1316-stream-compaction) |
 | [Successor Representation Learning](https://www.deep-ml.com/problems/597) | hard | 2026-09-15 | [solution](problems/0597-successor-representation-learning) |
 | [SVD of a 2x2 Matrix](https://www.deep-ml.com/problems/28) | hard | 2026-08-25 | [solution](problems/0028-svd-of-a-2x2-matrix) |
 | [TD-Gammon Position Evaluation Network](https://www.deep-ml.com/problems/618) | hard | 2026-09-16 | [solution](problems/0618-td-gammon-position-evaluation-network) |
