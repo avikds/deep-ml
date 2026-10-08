@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T03:40:55.608Z",
+  "generated_at": "2026-10-08T03:47:25.497Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -3829,6 +3829,19 @@
       "last_pushed_at": "2026-10-08T03:40:24.732Z",
       "language": "python",
       "lines": 37
+    },
+    "problem:1317": {
+      "kind": "problem",
+      "id": "1317",
+      "title": "Segmented Reduction",
+      "difficulty": "hard",
+      "category": "Cuda",
+      "url": "https://www.deep-ml.com/problems/1317",
+      "path": "problems/1317-segmented-reduction",
+      "first_solved_at": "2026-10-08T03:46:03.462Z",
+      "last_pushed_at": "2026-10-08T03:46:03.462Z",
+      "language": "python",
+      "lines": 136
     }
   }
 }
