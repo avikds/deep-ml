@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T03:22:12.656Z",
+  "generated_at": "2026-10-11T17:29:29.697Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -3868,6 +3868,19 @@
       "last_pushed_at": "2026-10-10T03:21:40.712Z",
       "language": "python",
       "lines": 61
+    },
+    "problem:1394": {
+      "kind": "problem",
+      "id": "1394",
+      "title": "Compute-Matched Looped MoE Configuration (SMELT)",
+      "difficulty": "medium",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/1394",
+      "path": "problems/1394-compute-matched-looped-moe-configuration-smelt",
+      "first_solved_at": "2026-10-11T17:28:38.085Z",
+      "last_pushed_at": "2026-10-11T17:28:38.085Z",
+      "language": "python",
+      "lines": 63
     }
   }
 }
