@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T17:29:29.697Z",
+  "generated_at": "2026-10-12T09:21:47.569Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -3881,6 +3881,19 @@
       "last_pushed_at": "2026-10-11T17:28:38.085Z",
       "language": "python",
       "lines": 63
+    },
+    "problem:1319": {
+      "kind": "problem",
+      "id": "1319",
+      "title": "Bitonic Sort",
+      "difficulty": "hard",
+      "category": "Cuda",
+      "url": "https://www.deep-ml.com/problems/1319",
+      "path": "problems/1319-bitonic-sort",
+      "first_solved_at": "2026-10-12T09:20:43.148Z",
+      "last_pushed_at": "2026-10-12T09:20:43.148Z",
+      "language": "python",
+      "lines": 54
     }
   }
 }

@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**303** solved · 229 problems · 45 labs · 29 math
+**304** solved · 230 problems · 45 labs · 29 math
 
 ![Coverage](./coverage.svg)
 
@@ -79,6 +79,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Backgammon with TD Learning](https://www.deep-ml.com/problems/579) | hard | 2026-09-11 | [solution](problems/0579-backgammon-with-td-learning) |
 | [Beam Search with Memory-Efficient Block Sharing](https://www.deep-ml.com/problems/496) | hard | 2026-09-11 | [solution](problems/0496-beam-search-with-memory-efficient-block-sharing) |
 | [Bellman Error Minimization with Linear Function Approximation](https://www.deep-ml.com/problems/649) | hard | 2026-09-16 | [solution](problems/0649-bellman-error-minimization-with-linear-function-approximation) |
+| [Bitonic Sort](https://www.deep-ml.com/problems/1319) | hard | 2026-10-12 | [solution](problems/1319-bitonic-sort) |
 | [Blocking Maze with Model Updates](https://www.deep-ml.com/problems/614) | hard | 2026-09-15 | [solution](problems/0614-blocking-maze-with-model-updates) |
 | [Build a Tiny GPT](https://www.deep-ml.com/problems/918) | hard | 2026-09-19 | [solution](problems/0918-build-a-tiny-gpt) |
 | [Build a Transformer Encoder Layer](https://www.deep-ml.com/problems/491) | hard | 2026-09-11 | [solution](problems/0491-build-a-transformer-encoder-layer) |
