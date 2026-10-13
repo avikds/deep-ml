@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**308** solved · 233 problems · 45 labs · 30 math
+**309** solved · 233 problems · 45 labs · 31 math
 
 ![Coverage](./coverage.svg)
 
@@ -326,6 +326,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Regularized Cox Models and the Concordance Index](https://www.deep-ml.com/math-problems/119) | hard | 2026-09-24 | [solution](math/0119-regularized-cox-models-and-the-concordance-index) |
 | [Renewal Processes and Blackwell's Theorem](https://www.deep-ml.com/math-problems/149) | hard | 2026-09-23 | [solution](math/0149-renewal-processes-and-blackwell-s-theorem) |
 | [Ridge vs Lasso: Constraint Geometry and Soft-Thresholding](https://www.deep-ml.com/math-problems/94) | hard | 2026-09-25 | [solution](math/0094-ridge-vs-lasso-constraint-geometry-and-soft-thresholding) |
+| [Semi-Gradient TD and the Deadly Triad](https://www.deep-ml.com/math-problems/228) | hard | 2026-10-13 | [solution](math/0228-semi-gradient-td-and-the-deadly-triad) |
 | [Smoothing Splines: $\lambda$ and Effective Degrees of Freedom](https://www.deep-ml.com/math-problems/97) | hard | 2026-09-24 | [solution](math/0097-smoothing-splines-lambda-and-effective-degrees-of-freedom) |
 | [Spectral Graph Convolution and Chebyshev Filters](https://www.deep-ml.com/math-problems/193) | hard | 2026-10-04 | [solution](math/0193-spectral-graph-convolution-and-chebyshev-filters) |
 | [Why Mean Squared Error Is Non-Convex for Logistic Regression](https://www.deep-ml.com/math-problems/185) | hard | 2026-10-04 | [solution](math/0185-why-mean-squared-error-is-non-convex-for-logistic-regression) |

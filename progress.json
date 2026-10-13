@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T15:43:13.864Z",
+  "generated_at": "2026-10-13T15:44:43.216Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -3944,6 +3944,17 @@
       "path": "math/0223-ordinary-vs-weighted-importance-sampling",
       "first_solved_at": "2026-10-13T15:43:12.615Z",
       "last_pushed_at": "2026-10-13T15:43:12.615Z"
+    },
+    "math:228": {
+      "kind": "math",
+      "id": "228",
+      "title": "Semi-Gradient TD and the Deadly Triad",
+      "difficulty": "hard",
+      "category": "Reinforcement Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/228",
+      "path": "math/0228-semi-gradient-td-and-the-deadly-triad",
+      "first_solved_at": "2026-10-13T15:44:42.239Z",
+      "last_pushed_at": "2026-10-13T15:44:42.239Z"
     }
   }
 }
