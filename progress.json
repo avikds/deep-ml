@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T05:25:30.337Z",
+  "generated_at": "2026-10-13T15:35:49.964Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -3907,6 +3907,32 @@
       "last_pushed_at": "2026-10-13T05:24:40.406Z",
       "language": "python",
       "lines": 13
+    },
+    "problem:1320": {
+      "kind": "problem",
+      "id": "1320",
+      "title": "Online Softmax",
+      "difficulty": "hard",
+      "category": "Cuda",
+      "url": "https://www.deep-ml.com/problems/1320",
+      "path": "problems/1320-online-softmax",
+      "first_solved_at": "2026-10-13T15:32:57.369Z",
+      "last_pushed_at": "2026-10-13T15:32:57.369Z",
+      "language": "python",
+      "lines": 97
+    },
+    "problem:1321": {
+      "kind": "problem",
+      "id": "1321",
+      "title": "Scaled Dot-Product Attention",
+      "difficulty": "hard",
+      "category": "Cuda",
+      "url": "https://www.deep-ml.com/problems/1321",
+      "path": "problems/1321-scaled-dot-product-attention",
+      "first_solved_at": "2026-10-13T15:34:53.102Z",
+      "last_pushed_at": "2026-10-13T15:34:53.102Z",
+      "language": "python",
+      "lines": 85
     }
   }
 }

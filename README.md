@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**305** solved · 231 problems · 45 labs · 29 math
+**307** solved · 233 problems · 45 labs · 29 math
 
 ![Coverage](./coverage.svg)
 
@@ -170,6 +170,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Off-Policy n-Step Sarsa with Importance Sampling](https://www.deep-ml.com/problems/563) | hard | 2026-09-11 | [solution](problems/0563-off-policy-n-step-sarsa-with-importance-sampling) |
 | [Off-Policy n-Step TD Prediction with Importance Sampling](https://www.deep-ml.com/problems/549) | hard | 2026-09-11 | [solution](problems/0549-off-policy-n-step-td-prediction-with-importance-sampling) |
 | [Off-Policy TD(lambda) with Importance-Weighted Eligibility Traces](https://www.deep-ml.com/problems/580) | hard | 2026-09-12 | [solution](problems/0580-off-policy-td-lambda-with-importance-weighted-eligibility-traces) |
+| [Online Softmax](https://www.deep-ml.com/problems/1320) | hard | 2026-10-13 | [solution](problems/1320-online-softmax) |
 | [Overlapping Look-Back KV Compression](https://www.deep-ml.com/problems/760) | hard | 2026-09-19 | [solution](problems/0760-overlapping-look-back-kv-compression) |
 | [Overlapping Weighted KV Compression](https://www.deep-ml.com/problems/735) | hard | 2026-09-17 | [solution](problems/0735-overlapping-weighted-kv-compression) |
 | [Parallel Environment Simulation with Multiprocessing](https://www.deep-ml.com/problems/655) | hard | 2026-09-16 | [solution](problems/0655-parallel-environment-simulation-with-multiprocessing) |
@@ -197,6 +198,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Retrace(λ) Implementation](https://www.deep-ml.com/problems/582) | hard | 2026-09-13 | [solution](problems/0582-retrace-implementation) |
 | [Reverse-Mode Autodiff over a Tiny Graph IR](https://www.deep-ml.com/problems/1528) | hard | 2026-10-05 | [solution](problems/1528-reverse-mode-autodiff-over-a-tiny-graph-ir) |
 | [Sarsa(lambda) Algorithm with Eligibility Traces](https://www.deep-ml.com/problems/521) | hard | 2026-09-11 | [solution](problems/0521-sarsa-lambda-algorithm-with-eligibility-traces) |
+| [Scaled Dot-Product Attention](https://www.deep-ml.com/problems/1321) | hard | 2026-10-13 | [solution](problems/1321-scaled-dot-product-attention) |
 | [Segmented Reduction](https://www.deep-ml.com/problems/1317) | hard | 2026-10-08 | [solution](problems/1317-segmented-reduction) |
 | [Semi-Gradient TD(lambda) with Eligibility Traces and Linear Function Approximation](https://www.deep-ml.com/problems/531) | hard | 2026-09-11 | [solution](problems/0531-semi-gradient-td-lambda-with-eligibility-traces-and-linear-function-approximation) |
 | [Semi-Markov Q-Learning](https://www.deep-ml.com/problems/617) | hard | 2026-09-16 | [solution](problems/0617-semi-markov-q-learning) |
