@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**307** solved · 233 problems · 45 labs · 29 math
+**308** solved · 233 problems · 45 labs · 30 math
 
 ![Coverage](./coverage.svg)
 
@@ -318,6 +318,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Matrix Decompositions: LU and QR](https://www.deep-ml.com/math-problems/15) | hard | 2026-09-26 | [solution](math/0015-matrix-decompositions-lu-and-qr) |
 | [Maximum Likelihood and MAP](https://www.deep-ml.com/math-problems/26) | hard | 2026-09-26 | [solution](math/0026-maximum-likelihood-and-map) |
 | [Moment-Generating Functions and a Central Limit Theorem Sketch](https://www.deep-ml.com/math-problems/148) | hard | 2026-09-23 | [solution](math/0148-moment-generating-functions-and-a-central-limit-theorem-sketch) |
+| [Ordinary vs Weighted Importance Sampling](https://www.deep-ml.com/math-problems/223) | hard | 2026-10-13 | [solution](math/0223-ordinary-vs-weighted-importance-sampling) |
 | [Probabilistic Models](https://www.deep-ml.com/math-problems/29) | hard | 2026-09-26 | [solution](math/0029-probabilistic-models) |
 | [Properties of Estimators: Bias, Consistency, Efficiency](https://www.deep-ml.com/math-problems/74) | hard | 2026-09-26 | [solution](math/0074-properties-of-estimators-bias-consistency-efficiency) |
 | [Ratio Metrics, the Delta Method and the Unit of Analysis](https://www.deep-ml.com/math-problems/180) | hard | 2026-09-24 | [solution](math/0180-ratio-metrics-the-delta-method-and-the-unit-of-analysis) |

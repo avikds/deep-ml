@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T15:35:49.964Z",
+  "generated_at": "2026-10-13T15:43:13.864Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -3933,6 +3933,17 @@
       "last_pushed_at": "2026-10-13T15:34:53.102Z",
       "language": "python",
       "lines": 85
+    },
+    "math:223": {
+      "kind": "math",
+      "id": "223",
+      "title": "Ordinary vs Weighted Importance Sampling",
+      "difficulty": "hard",
+      "category": "Reinforcement Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/223",
+      "path": "math/0223-ordinary-vs-weighted-importance-sampling",
+      "first_solved_at": "2026-10-13T15:43:12.615Z",
+      "last_pushed_at": "2026-10-13T15:43:12.615Z"
     }
   }
 }
