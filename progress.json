@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T15:44:43.216Z",
+  "generated_at": "2026-10-16T16:33:25.026Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -3955,6 +3955,19 @@
       "path": "math/0228-semi-gradient-td-and-the-deadly-triad",
       "first_solved_at": "2026-10-13T15:44:42.239Z",
       "last_pushed_at": "2026-10-13T15:44:42.239Z"
+    },
+    "problem:461": {
+      "kind": "problem",
+      "id": "461",
+      "title": "Guidance Attention Mask for Chunked Video",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/461",
+      "path": "problems/0461-guidance-attention-mask-for-chunked-video",
+      "first_solved_at": "2026-10-16T16:32:15.137Z",
+      "last_pushed_at": "2026-10-16T16:32:15.137Z",
+      "language": "python",
+      "lines": 33
     }
   }
 }
