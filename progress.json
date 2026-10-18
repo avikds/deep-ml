@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T16:33:25.026Z",
+  "generated_at": "2026-10-18T05:00:13.921Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -3968,6 +3968,19 @@
       "last_pushed_at": "2026-10-16T16:32:15.137Z",
       "language": "python",
       "lines": 33
+    },
+    "problem:321": {
+      "kind": "problem",
+      "id": "321",
+      "title": "BLEU Score for Text Generation",
+      "difficulty": "medium",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/321",
+      "path": "problems/0321-bleu-score-for-text-generation",
+      "first_solved_at": "2026-10-18T04:58:18.576Z",
+      "last_pushed_at": "2026-10-18T04:58:18.576Z",
+      "language": "python",
+      "lines": 65
     }
   }
 }
