@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**312** solved · 236 problems · 45 labs · 31 math
+**313** solved · 237 problems · 45 labs · 31 math
 
 ![Coverage](./coverage.svg)
 
@@ -225,6 +225,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Temporal Abstraction with Options](https://www.deep-ml.com/problems/587) | hard | 2026-09-13 | [solution](problems/0587-temporal-abstraction-with-options) |
 | [Tensor Puzzle: Bucketize Values into Bins](https://www.deep-ml.com/problems/1288) | hard | 2026-10-01 | [solution](problems/1288-tensor-puzzle-bucketize-values-into-bins) |
 | [Tiled 2D Convolution](https://www.deep-ml.com/problems/1315) | hard | 2026-10-06 | [solution](problems/1315-tiled-2d-convolution) |
+| [Tiled Flash Attention](https://www.deep-ml.com/problems/1322) | hard | 2026-10-22 | [solution](problems/1322-tiled-flash-attention) |
 | [Tinygrad: Build a Tiny GPT](https://www.deep-ml.com/problems/939) | hard | 2026-09-19 | [solution](problems/0939-tinygrad-build-a-tiny-gpt) |
 | [Tinygrad: Implement Multi-Head Self-Attention](https://www.deep-ml.com/problems/925) | hard | 2026-09-19 | [solution](problems/0925-tinygrad-implement-multi-head-self-attention) |
 | [Token-Level Key-Value Compression with Overlapping Windows](https://www.deep-ml.com/problems/734) | hard | 2026-09-17 | [solution](problems/0734-token-level-key-value-compression-with-overlapping-windows) |
