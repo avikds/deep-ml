@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**313** solved · 237 problems · 45 labs · 31 math
+**314** solved · 237 problems · 45 labs · 32 math
 
 ![Coverage](./coverage.svg)
 
@@ -318,6 +318,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Interpolation and Double Descent](https://www.deep-ml.com/math-problems/118) | hard | 2026-09-24 | [solution](math/0118-interpolation-and-double-descent) |
 | [KL Divergence](https://www.deep-ml.com/math-problems/25) | hard | 2026-09-26 | [solution](math/0025-kl-divergence) |
 | [Local Regression and Generalized Additive Models](https://www.deep-ml.com/math-problems/111) | hard | 2026-09-24 | [solution](math/0111-local-regression-and-generalized-additive-models) |
+| [Manifold-Constrained Hyper-Connections: the Birkhoff Polytope](https://www.deep-ml.com/math-problems/237) | hard | 2026-10-22 | [solution](math/0237-manifold-constrained-hyper-connections-the-birkhoff-polytope) |
 | [Matrix Completion and Missing Values](https://www.deep-ml.com/math-problems/122) | hard | 2026-09-23 | [solution](math/0122-matrix-completion-and-missing-values) |
 | [Matrix Decompositions: LU and QR](https://www.deep-ml.com/math-problems/15) | hard | 2026-09-26 | [solution](math/0015-matrix-decompositions-lu-and-qr) |
 | [Maximum Likelihood and MAP](https://www.deep-ml.com/math-problems/26) | hard | 2026-09-26 | [solution](math/0026-maximum-likelihood-and-map) |

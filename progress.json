@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T05:25:15.081Z",
+  "generated_at": "2026-10-22T18:00:16.997Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -4007,6 +4007,17 @@
       "last_pushed_at": "2026-10-22T05:19:27.201Z",
       "language": "python",
       "lines": 129
+    },
+    "math:237": {
+      "kind": "math",
+      "id": "237",
+      "title": "Manifold-Constrained Hyper-Connections: the Birkhoff Polytope",
+      "difficulty": "hard",
+      "category": "Deep Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/237",
+      "path": "math/0237-manifold-constrained-hyper-connections-the-birkhoff-polytope",
+      "first_solved_at": "2026-10-22T18:00:15.988Z",
+      "last_pushed_at": "2026-10-22T18:00:15.988Z"
     }
   }
 }
