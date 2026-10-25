@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**316** solved · 239 problems · 45 labs · 32 math
+**317** solved · 239 problems · 46 labs · 32 math
 
 ![Coverage](./coverage.svg)
 
@@ -278,6 +278,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Few-Shot Classification with Cluster-Based Label Propagation](https://www.deep-ml.com/labs/28) | medium | 2026-09-04 | [solution](labs/0028-few-shot-classification-with-cluster-based-label-propagation) |
 | [Fit Linear Regression with Autograd](https://www.deep-ml.com/labs/9ff596ea-672e-4101-9ce4-0856c55b62c9) | medium | 2026-09-10 | [solution](labs/9ff596ea-672e-4101-9ce4-0856c55b62c9-fit-linear-regression-with-autograd) |
 | [Fix Overfitting with Regularization (NumPy)](https://www.deep-ml.com/labs/21) | medium | 2026-09-06 | [solution](labs/0021-fix-overfitting-with-regularization-numpy) |
+| [Lowest Bits per Character](https://www.deep-ml.com/labs/7f65cc18-cd7d-4ba9-ad67-ad2e50b8667c) | medium | 2026-10-25 | [solution](labs/7f65cc18-cd7d-4ba9-ad67-ad2e50b8667c-lowest-bits-per-character) |
 | [MLP with Dropout and BatchNorm](https://www.deep-ml.com/labs/3480fd6b-ee7a-4afd-ba4b-5c934aeab10b) | medium | 2026-09-10 | [solution](labs/3480fd6b-ee7a-4afd-ba4b-5c934aeab10b-mlp-with-dropout-and-batchnorm) |
 | [MNIST: Design Your Own Pytorch Optimizer](https://www.deep-ml.com/labs/3) | medium | 2026-09-04 | [solution](labs/0003-mnist-design-your-own-pytorch-optimizer) |
 | [MNIST: Design Your Own Tinygrad Optimizer](https://www.deep-ml.com/labs/32) | medium | 2026-09-03 | [solution](labs/0032-mnist-design-your-own-tinygrad-optimizer) |
