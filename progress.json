@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T06:02:43.165Z",
+  "generated_at": "2026-10-25T06:12:46.702Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -4070,6 +4070,19 @@
       "last_pushed_at": "2026-10-25T06:02:41.649Z",
       "language": "python",
       "lines": 265
+    },
+    "lab:4f593102-2101-4946-8881-d6f66684853a": {
+      "kind": "lab",
+      "id": "4f593102-2101-4946-8881-d6f66684853a",
+      "title": "Best Dictionary at a Fixed Sparsity",
+      "difficulty": "hard",
+      "category": "Interpretability",
+      "url": "https://www.deep-ml.com/labs/4f593102-2101-4946-8881-d6f66684853a",
+      "path": "labs/4f593102-2101-4946-8881-d6f66684853a-best-dictionary-at-a-fixed-sparsity",
+      "first_solved_at": "2026-10-25T06:12:45.319Z",
+      "last_pushed_at": "2026-10-25T06:12:45.319Z",
+      "language": "python",
+      "lines": 81
     }
   }
 }
