@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T05:46:52.026Z",
+  "generated_at": "2026-10-25T06:02:43.165Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -4057,6 +4057,19 @@
       "last_pushed_at": "2026-10-25T05:46:40.495Z",
       "language": "python",
       "lines": 81
+    },
+    "lab:00141453-bba9-434d-98e3-be380b4473fb": {
+      "kind": "lab",
+      "id": "00141453-bba9-434d-98e3-be380b4473fb",
+      "title": "Best Language Model with a Fixed-Size Memory",
+      "difficulty": "hard",
+      "category": "Language Modeling",
+      "url": "https://www.deep-ml.com/labs/00141453-bba9-434d-98e3-be380b4473fb",
+      "path": "labs/00141453-bba9-434d-98e3-be380b4473fb-best-language-model-with-a-fixed-size-memory",
+      "first_solved_at": "2026-10-25T06:02:41.649Z",
+      "last_pushed_at": "2026-10-25T06:02:41.649Z",
+      "language": "python",
+      "lines": 265
     }
   }
 }

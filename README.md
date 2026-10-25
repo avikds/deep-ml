@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**317** solved · 239 problems · 46 labs · 32 math
+**318** solved · 239 problems · 47 labs · 32 math
 
 ![Coverage](./coverage.svg)
 
@@ -291,6 +291,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [PyTorch: Implement Your Own Gradient Descent Training Step](https://www.deep-ml.com/labs/12) | medium | 2026-08-26 | [solution](labs/0012-pytorch-implement-your-own-gradient-descent-training-step) |
 | [Tinygrad: Implement Your Own Gradient Descent Training Step](https://www.deep-ml.com/labs/33) | medium | 2026-09-03 | [solution](labs/0033-tinygrad-implement-your-own-gradient-descent-training-step) |
 | [Train a Tabular Policy with DPO](https://www.deep-ml.com/labs/37) | medium | 2026-09-10 | [solution](labs/0037-train-a-tabular-policy-with-dpo) |
+| [Best Language Model with a Fixed-Size Memory](https://www.deep-ml.com/labs/00141453-bba9-434d-98e3-be380b4473fb) | hard | 2026-10-25 | [solution](labs/00141453-bba9-434d-98e3-be380b4473fb-best-language-model-with-a-fixed-size-memory) |
 | [Build a Digit Classifier from Scratch](https://www.deep-ml.com/labs/20) | hard | 2026-08-26 | [solution](labs/0020-build-a-digit-classifier-from-scratch) |
 | [Build a Tree for a Random Forest](https://www.deep-ml.com/labs/26) | hard | 2026-08-26 | [solution](labs/0026-build-a-tree-for-a-random-forest) |
 | [Design Your Own Latent Dynamics: Self-Speculative Decoding on TinyStories](https://www.deep-ml.com/labs/442392d7-09c3-4535-94f5-3aa8f288cce5) | hard | 2026-09-07 | [solution](labs/442392d7-09c3-4535-94f5-3aa8f288cce5-design-your-own-latent-dynamics-self-speculative-decoding-on-tinystories) |
