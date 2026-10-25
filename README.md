@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**319** solved · 239 problems · 48 labs · 32 math
+**320** solved · 239 problems · 49 labs · 32 math
 
 ![Coverage](./coverage.svg)
 
@@ -293,6 +293,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Train a Tabular Policy with DPO](https://www.deep-ml.com/labs/37) | medium | 2026-09-10 | [solution](labs/0037-train-a-tabular-policy-with-dpo) |
 | [Best Dictionary at a Fixed Sparsity](https://www.deep-ml.com/labs/4f593102-2101-4946-8881-d6f66684853a) | hard | 2026-10-25 | [solution](labs/4f593102-2101-4946-8881-d6f66684853a-best-dictionary-at-a-fixed-sparsity) |
 | [Best Language Model with a Fixed-Size Memory](https://www.deep-ml.com/labs/00141453-bba9-434d-98e3-be380b4473fb) | hard | 2026-10-25 | [solution](labs/00141453-bba9-434d-98e3-be380b4473fb-best-language-model-with-a-fixed-size-memory) |
+| [Best Speculative Verification Policy](https://www.deep-ml.com/labs/8f72b129-ec9e-4842-9500-c6c367227548) | hard | 2026-10-25 | [solution](labs/8f72b129-ec9e-4842-9500-c6c367227548-best-speculative-verification-policy) |
 | [Build a Digit Classifier from Scratch](https://www.deep-ml.com/labs/20) | hard | 2026-08-26 | [solution](labs/0020-build-a-digit-classifier-from-scratch) |
 | [Build a Tree for a Random Forest](https://www.deep-ml.com/labs/26) | hard | 2026-08-26 | [solution](labs/0026-build-a-tree-for-a-random-forest) |
 | [Design Your Own Latent Dynamics: Self-Speculative Decoding on TinyStories](https://www.deep-ml.com/labs/442392d7-09c3-4535-94f5-3aa8f288cce5) | hard | 2026-09-07 | [solution](labs/442392d7-09c3-4535-94f5-3aa8f288cce5-design-your-own-latent-dynamics-self-speculative-decoding-on-tinystories) |

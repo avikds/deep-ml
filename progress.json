@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T06:12:46.702Z",
+  "generated_at": "2026-10-25T06:17:36.265Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -4083,6 +4083,19 @@
       "last_pushed_at": "2026-10-25T06:12:45.319Z",
       "language": "python",
       "lines": 81
+    },
+    "lab:8f72b129-ec9e-4842-9500-c6c367227548": {
+      "kind": "lab",
+      "id": "8f72b129-ec9e-4842-9500-c6c367227548",
+      "title": "Best Speculative Verification Policy",
+      "difficulty": "hard",
+      "category": "Inference",
+      "url": "https://www.deep-ml.com/labs/8f72b129-ec9e-4842-9500-c6c367227548",
+      "path": "labs/8f72b129-ec9e-4842-9500-c6c367227548-best-speculative-verification-policy",
+      "first_solved_at": "2026-10-25T06:17:34.688Z",
+      "last_pushed_at": "2026-10-25T06:17:34.688Z",
+      "language": "python",
+      "lines": 129
     }
   }
 }
