@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T23:38:42.924Z",
+  "generated_at": "2026-10-26T23:50:57.645Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -4148,6 +4148,19 @@
       "last_pushed_at": "2026-10-26T23:38:42.322Z",
       "language": "python",
       "lines": 143
+    },
+    "lab:37abee47-7133-4ecc-8a83-df898d0691e2": {
+      "kind": "lab",
+      "id": "37abee47-7133-4ecc-8a83-df898d0691e2",
+      "title": "Best Inference Engine Controller",
+      "difficulty": "hard",
+      "category": "Inference",
+      "url": "https://www.deep-ml.com/labs/37abee47-7133-4ecc-8a83-df898d0691e2",
+      "path": "labs/37abee47-7133-4ecc-8a83-df898d0691e2-best-inference-engine-controller",
+      "first_solved_at": "2026-10-26T23:50:56.776Z",
+      "last_pushed_at": "2026-10-26T23:50:56.776Z",
+      "language": "python",
+      "lines": 313
     }
   }
 }
