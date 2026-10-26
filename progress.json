@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T20:11:00.241Z",
+  "generated_at": "2026-10-26T20:16:30.695Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -4122,6 +4122,19 @@
       "last_pushed_at": "2026-10-26T20:10:59.593Z",
       "language": "python",
       "lines": 129
+    },
+    "lab:c315b9dd-696b-4882-a942-429b32a1c79c": {
+      "kind": "lab",
+      "id": "c315b9dd-696b-4882-a942-429b32a1c79c",
+      "title": "Grok Without the Slingshot",
+      "difficulty": "hard",
+      "category": "Optimization",
+      "url": "https://www.deep-ml.com/labs/c315b9dd-696b-4882-a942-429b32a1c79c",
+      "path": "labs/c315b9dd-696b-4882-a942-429b32a1c79c-grok-without-the-slingshot",
+      "first_solved_at": "2026-10-26T20:16:21.022Z",
+      "last_pushed_at": "2026-10-26T20:16:21.022Z",
+      "language": "python",
+      "lines": 42
     }
   }
 }

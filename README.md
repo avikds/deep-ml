@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**322** solved · 240 problems · 50 labs · 32 math
+**323** solved · 240 problems · 51 labs · 32 math
 
 ![Coverage](./coverage.svg)
 
@@ -303,6 +303,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Design Your Own Request Scheduler](https://www.deep-ml.com/labs/e6b3d8f2-7a4c-4d1e-9b5f-3c2a1d0e9f8b) | hard | 2026-10-01 | [solution](labs/e6b3d8f2-7a4c-4d1e-9b5f-3c2a1d0e9f8b-design-your-own-request-scheduler) |
 | [Feature Deconfounder for Biased Image Data](https://www.deep-ml.com/labs/16) | hard | 2026-08-21 | [solution](labs/0016-feature-deconfounder-for-biased-image-data) |
 | [Fine-Tune DistilGPT2 on TinyStories](https://www.deep-ml.com/labs/29) | hard | 2026-08-26 | [solution](labs/0029-fine-tune-distilgpt2-on-tinystories) |
+| [Grok Without the Slingshot](https://www.deep-ml.com/labs/c315b9dd-696b-4882-a942-429b32a1c79c) | hard | 2026-10-26 | [solution](labs/c315b9dd-696b-4882-a942-429b32a1c79c-grok-without-the-slingshot) |
 | [MNIST: Adversarial Example Generation](https://www.deep-ml.com/labs/5) | hard | 2026-08-24 | [solution](labs/0005-mnist-adversarial-example-generation) |
 | [MNIST: Build Neural Network from Scratch (NumPy Only)](https://www.deep-ml.com/labs/6) | hard | 2026-08-24 | [solution](labs/0006-mnist-build-neural-network-from-scratch-numpy-only) |
 | [MNIST: Classification Loss (with Gradient)](https://www.deep-ml.com/labs/4) | hard | 2026-08-26 | [solution](labs/0004-mnist-classification-loss-with-gradient) |
