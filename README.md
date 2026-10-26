@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**321** solved · 240 problems · 49 labs · 32 math
+**322** solved · 240 problems · 50 labs · 32 math
 
 ![Coverage](./coverage.svg)
 
@@ -276,6 +276,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Design Your Own Optimizer (NumPy)](https://www.deep-ml.com/labs/8) | medium | 2026-09-01 | [solution](labs/0008-design-your-own-optimizer-numpy) |
 | [Design Your Own PTQ](https://www.deep-ml.com/labs/36) | medium | 2026-08-20 | [solution](labs/0036-design-your-own-ptq) |
 | [Design Your Own Tabular Classifier](https://www.deep-ml.com/labs/35) | medium | 2026-08-21 | [solution](labs/0035-design-your-own-tabular-classifier) |
+| [Fastest Array Sum](https://www.deep-ml.com/labs/3d1f81c4-9b98-42cb-ad0c-10506c378bd4) | medium | 2026-10-26 | [solution](labs/3d1f81c4-9b98-42cb-ad0c-10506c378bd4-fastest-array-sum) |
 | [Few-Shot Classification with Cluster-Based Label Propagation](https://www.deep-ml.com/labs/28) | medium | 2026-09-04 | [solution](labs/0028-few-shot-classification-with-cluster-based-label-propagation) |
 | [Fit Linear Regression with Autograd](https://www.deep-ml.com/labs/9ff596ea-672e-4101-9ce4-0856c55b62c9) | medium | 2026-09-10 | [solution](labs/9ff596ea-672e-4101-9ce4-0856c55b62c9-fit-linear-regression-with-autograd) |
 | [Fix Overfitting with Regularization (NumPy)](https://www.deep-ml.com/labs/21) | medium | 2026-09-06 | [solution](labs/0021-fix-overfitting-with-regularization-numpy) |

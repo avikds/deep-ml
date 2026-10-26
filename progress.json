@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T18:27:34.805Z",
+  "generated_at": "2026-10-26T20:11:00.241Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -4109,6 +4109,19 @@
       "last_pushed_at": "2026-10-26T18:27:34.031Z",
       "language": "python",
       "lines": 58
+    },
+    "lab:3d1f81c4-9b98-42cb-ad0c-10506c378bd4": {
+      "kind": "lab",
+      "id": "3d1f81c4-9b98-42cb-ad0c-10506c378bd4",
+      "title": "Fastest Array Sum",
+      "difficulty": "medium",
+      "category": "GPU Kernels",
+      "url": "https://www.deep-ml.com/labs/3d1f81c4-9b98-42cb-ad0c-10506c378bd4",
+      "path": "labs/3d1f81c4-9b98-42cb-ad0c-10506c378bd4-fastest-array-sum",
+      "first_solved_at": "2026-10-26T20:10:59.593Z",
+      "last_pushed_at": "2026-10-26T20:10:59.593Z",
+      "language": "python",
+      "lines": 129
     }
   }
 }
