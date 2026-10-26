@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**320** solved · 239 problems · 49 labs · 32 math
+**321** solved · 240 problems · 49 labs · 32 math
 
 ![Coverage](./coverage.svg)
 
@@ -34,6 +34,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Backpropagation Gradients for a Dense Layer](https://www.deep-ml.com/problems/1076) | medium | 2026-09-06 | [solution](problems/1076-backpropagation-gradients-for-a-dense-layer) |
 | [BIRCH Clustering for Large Datasets](https://www.deep-ml.com/problems/825) | medium | 2026-09-20 | [solution](problems/0825-birch-clustering-for-large-datasets) |
 | [BLEU Score for Text Generation](https://www.deep-ml.com/problems/321) | medium | 2026-10-18 | [solution](problems/0321-bleu-score-for-text-generation) |
+| [Byte Pair Encoding (BPE) Tokenizer](https://www.deep-ml.com/problems/380) | medium | 2026-10-26 | [solution](problems/0380-byte-pair-encoding-bpe-tokenizer) |
 | [Calculate AUC (Area Under ROC Curve)](https://www.deep-ml.com/problems/277) | medium | 2026-10-09 | [solution](problems/0277-calculate-auc-area-under-roc-curve) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-08-20 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Compute-Matched Looped MoE Configuration (SMELT)](https://www.deep-ml.com/problems/1394) | medium | 2026-10-11 | [solution](problems/1394-compute-matched-looped-moe-configuration-smelt) |
