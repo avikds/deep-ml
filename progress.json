@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T20:16:30.695Z",
+  "generated_at": "2026-10-26T23:38:42.924Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -4135,6 +4135,19 @@
       "last_pushed_at": "2026-10-26T20:16:21.022Z",
       "language": "python",
       "lines": 42
+    },
+    "lab:20e9526d-3f50-42b9-83ad-119c33160b5b": {
+      "kind": "lab",
+      "id": "20e9526d-3f50-42b9-83ad-119c33160b5b",
+      "title": "Best Cache-Aware Router",
+      "difficulty": "hard",
+      "category": "Inference",
+      "url": "https://www.deep-ml.com/labs/20e9526d-3f50-42b9-83ad-119c33160b5b",
+      "path": "labs/20e9526d-3f50-42b9-83ad-119c33160b5b-best-cache-aware-router",
+      "first_solved_at": "2026-10-26T23:38:42.322Z",
+      "last_pushed_at": "2026-10-26T23:38:42.322Z",
+      "language": "python",
+      "lines": 143
     }
   }
 }
