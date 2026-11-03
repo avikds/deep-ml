@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T05:46:01.015Z",
+  "generated_at": "2026-11-03T05:52:36.403Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -4200,6 +4200,32 @@
       "last_pushed_at": "2026-11-03T05:45:49.253Z",
       "language": "python",
       "lines": 44
+    },
+    "problem:1189": {
+      "kind": "problem",
+      "id": "1189",
+      "title": "Parallel Reduction (Block Sum) CUDA Kernel",
+      "difficulty": "medium",
+      "category": "Cuda",
+      "url": "https://www.deep-ml.com/problems/1189",
+      "path": "problems/1189-parallel-reduction-block-sum-cuda-kernel",
+      "first_solved_at": "2026-11-03T05:50:06.633Z",
+      "last_pushed_at": "2026-11-03T05:50:06.633Z",
+      "language": "python",
+      "lines": 89
+    },
+    "problem:1332": {
+      "kind": "problem",
+      "id": "1332",
+      "title": "Per-Sample Gradients with vmap(grad)",
+      "difficulty": "hard",
+      "category": "Jax",
+      "url": "https://www.deep-ml.com/problems/1332",
+      "path": "problems/1332-per-sample-gradients-with-vmap-grad",
+      "first_solved_at": "2026-11-03T05:51:57.075Z",
+      "last_pushed_at": "2026-11-03T05:51:57.075Z",
+      "language": "python",
+      "lines": 18
     }
   }
 }
