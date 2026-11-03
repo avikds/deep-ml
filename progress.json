@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T07:15:11.660Z",
+  "generated_at": "2026-11-03T05:30:33.130Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -4174,6 +4174,19 @@
       "last_pushed_at": "2026-10-27T07:14:34.254Z",
       "language": "python",
       "lines": 38
+    },
+    "lab:9ca26f44-66b3-4bba-b396-ccf3c55e6932": {
+      "kind": "lab",
+      "id": "9ca26f44-66b3-4bba-b396-ccf3c55e6932",
+      "title": "Most Reward on a Drifting Bandit",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/labs/9ca26f44-66b3-4bba-b396-ccf3c55e6932",
+      "path": "labs/9ca26f44-66b3-4bba-b396-ccf3c55e6932-most-reward-on-a-drifting-bandit",
+      "first_solved_at": "2026-11-03T05:30:32.432Z",
+      "last_pushed_at": "2026-11-03T05:30:32.432Z",
+      "language": "python",
+      "lines": 24
     }
   }
 }
