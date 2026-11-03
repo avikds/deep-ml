@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**327** solved · 241 problems · 54 labs · 32 math
+**328** solved · 241 problems · 55 labs · 32 math
 
 ![Coverage](./coverage.svg)
 
@@ -311,6 +311,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [MNIST: Adversarial Example Generation](https://www.deep-ml.com/labs/5) | hard | 2026-08-24 | [solution](labs/0005-mnist-adversarial-example-generation) |
 | [MNIST: Build Neural Network from Scratch (NumPy Only)](https://www.deep-ml.com/labs/6) | hard | 2026-08-24 | [solution](labs/0006-mnist-build-neural-network-from-scratch-numpy-only) |
 | [MNIST: Classification Loss (with Gradient)](https://www.deep-ml.com/labs/4) | hard | 2026-08-26 | [solution](labs/0004-mnist-classification-loss-with-gradient) |
+| [Shortest Honest Intervals](https://www.deep-ml.com/labs/73281627-5479-466c-96e9-3203769ddc81) | hard | 2026-11-03 | [solution](labs/73281627-5479-466c-96e9-3203769ddc81-shortest-honest-intervals) |
 | [Train a Tiny CNN Image Classifier](https://www.deep-ml.com/labs/91c76ab2-7d3a-43a7-98ce-385aab6f1691) | hard | 2026-08-26 | [solution](labs/91c76ab2-7d3a-43a7-98ce-385aab6f1691-train-a-tiny-cnn-image-classifier) |
 
 ## Math

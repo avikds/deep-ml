@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T05:30:33.130Z",
+  "generated_at": "2026-11-03T05:46:01.015Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -4187,6 +4187,19 @@
       "last_pushed_at": "2026-11-03T05:30:32.432Z",
       "language": "python",
       "lines": 24
+    },
+    "lab:73281627-5479-466c-96e9-3203769ddc81": {
+      "kind": "lab",
+      "id": "73281627-5479-466c-96e9-3203769ddc81",
+      "title": "Shortest Honest Intervals",
+      "difficulty": "hard",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/labs/73281627-5479-466c-96e9-3203769ddc81",
+      "path": "labs/73281627-5479-466c-96e9-3203769ddc81-shortest-honest-intervals",
+      "first_solved_at": "2026-11-03T05:45:49.253Z",
+      "last_pushed_at": "2026-11-03T05:45:49.253Z",
+      "language": "python",
+      "lines": 44
     }
   }
 }
