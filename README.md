@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**330** solved · 243 problems · 55 labs · 32 math
+**331** solved · 243 problems · 56 labs · 32 math
 
 ![Coverage](./coverage.svg)
 
@@ -269,6 +269,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Tinygrad: Build a Complete Training Loop](https://www.deep-ml.com/labs/34) | easy | 2026-09-11 | [solution](labs/0034-tinygrad-build-a-complete-training-loop) |
 | [Train a Binary Classifier](https://www.deep-ml.com/labs/23) | easy | 2026-08-20 | [solution](labs/0023-train-a-binary-classifier) |
 | [Train a Linear Regression Model](https://www.deep-ml.com/labs/18) | easy | 2026-08-26 | [solution](labs/0018-train-a-linear-regression-model) |
+| [Best Classifier When Features Go Missing](https://www.deep-ml.com/labs/6c088b1a-22c9-4a01-a73f-67c155882ee2) | medium | 2026-11-04 | [solution](labs/6c088b1a-22c9-4a01-a73f-67c155882ee2-best-classifier-when-features-go-missing) |
 | [Build a Tokenizer for Language Modeling](https://www.deep-ml.com/labs/19) | medium | 2026-09-10 | [solution](labs/0019-build-a-tokenizer-for-language-modeling) |
 | [Combine Trained Models into an Ensemble](https://www.deep-ml.com/labs/27) | medium | 2026-09-05 | [solution](labs/0027-combine-trained-models-into-an-ensemble) |
 | [Data Preprocessing: Handling Missing Values](https://www.deep-ml.com/labs/11) | medium | 2026-08-26 | [solution](labs/0011-data-preprocessing-handling-missing-values) |
