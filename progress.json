@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T15:14:37.588Z",
+  "generated_at": "2026-11-04T15:21:35.969Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -4239,6 +4239,19 @@
       "last_pushed_at": "2026-11-04T15:14:37.379Z",
       "language": "python",
       "lines": 146
+    },
+    "lab:c2520e61-d0b5-4622-925f-d1397b616df8": {
+      "kind": "lab",
+      "id": "c2520e61-d0b5-4622-925f-d1397b616df8",
+      "title": "Best Density Model with a Low-Rank Latent",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/labs/c2520e61-d0b5-4622-925f-d1397b616df8",
+      "path": "labs/c2520e61-d0b5-4622-925f-d1397b616df8-best-density-model-with-a-low-rank-latent",
+      "first_solved_at": "2026-11-04T15:21:35.352Z",
+      "last_pushed_at": "2026-11-04T15:21:35.352Z",
+      "language": "python",
+      "lines": 226
     }
   }
 }
