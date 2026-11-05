@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T15:21:35.969Z",
+  "generated_at": "2026-11-05T05:05:27.434Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -4252,6 +4252,19 @@
       "last_pushed_at": "2026-11-04T15:21:35.352Z",
       "language": "python",
       "lines": 226
+    },
+    "lab:072b2938-4ef1-45ce-a79b-ce07ae9ec024": {
+      "kind": "lab",
+      "id": "072b2938-4ef1-45ce-a79b-ce07ae9ec024",
+      "title": "Best Image Codebook at 0.5 Bits per Pixel",
+      "difficulty": "medium",
+      "category": "Computer Vision",
+      "url": "https://www.deep-ml.com/labs/072b2938-4ef1-45ce-a79b-ce07ae9ec024",
+      "path": "labs/072b2938-4ef1-45ce-a79b-ce07ae9ec024-best-image-codebook-at-0-5-bits-per-pixel",
+      "first_solved_at": "2026-11-05T05:05:16.568Z",
+      "last_pushed_at": "2026-11-05T05:05:16.568Z",
+      "language": "python",
+      "lines": 177
     }
   }
 }
