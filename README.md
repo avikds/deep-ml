@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**334** solved · 244 problems · 58 labs · 32 math
+**335** solved · 244 problems · 59 labs · 32 math
 
 ![Coverage](./coverage.svg)
 
@@ -274,6 +274,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Best Density Model with a Low-Rank Latent](https://www.deep-ml.com/labs/c2520e61-d0b5-4622-925f-d1397b616df8) | medium | 2026-11-04 | [solution](labs/c2520e61-d0b5-4622-925f-d1397b616df8-best-density-model-with-a-low-rank-latent) |
 | [Best Image Codebook at 0.5 Bits per Pixel](https://www.deep-ml.com/labs/072b2938-4ef1-45ce-a79b-ce07ae9ec024) | medium | 2026-11-05 | [solution](labs/072b2938-4ef1-45ce-a79b-ce07ae9ec024-best-image-codebook-at-0-5-bits-per-pixel) |
 | [Build a Tokenizer for Language Modeling](https://www.deep-ml.com/labs/19) | medium | 2026-09-10 | [solution](labs/0019-build-a-tokenizer-for-language-modeling) |
+| [Cheapest Decisions with a Reject Option](https://www.deep-ml.com/labs/f357c9d3-9b96-466c-9e14-f4303e75205f) | medium | 2026-11-07 | [solution](labs/f357c9d3-9b96-466c-9e14-f4303e75205f-cheapest-decisions-with-a-reject-option) |
 | [Combine Trained Models into an Ensemble](https://www.deep-ml.com/labs/27) | medium | 2026-09-05 | [solution](labs/0027-combine-trained-models-into-an-ensemble) |
 | [Data Preprocessing: Handling Missing Values](https://www.deep-ml.com/labs/11) | medium | 2026-08-26 | [solution](labs/0011-data-preprocessing-handling-missing-values) |
 | [Design Your Own Attention Mechanism](https://www.deep-ml.com/labs/10) | medium | 2026-09-10 | [solution](labs/0010-design-your-own-attention-mechanism) |

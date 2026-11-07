@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T05:43:11.493Z",
+  "generated_at": "2026-11-07T16:53:58.179Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -4278,6 +4278,19 @@
       "last_pushed_at": "2026-11-05T05:42:07.436Z",
       "language": "python",
       "lines": 34
+    },
+    "lab:f357c9d3-9b96-466c-9e14-f4303e75205f": {
+      "kind": "lab",
+      "id": "f357c9d3-9b96-466c-9e14-f4303e75205f",
+      "title": "Cheapest Decisions with a Reject Option",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/labs/f357c9d3-9b96-466c-9e14-f4303e75205f",
+      "path": "labs/f357c9d3-9b96-466c-9e14-f4303e75205f-cheapest-decisions-with-a-reject-option",
+      "first_solved_at": "2026-11-07T16:53:48.546Z",
+      "last_pushed_at": "2026-11-07T16:53:48.546Z",
+      "language": "python",
+      "lines": 245
     }
   }
 }
