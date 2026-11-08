@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T16:53:58.179Z",
+  "generated_at": "2026-11-08T18:10:56.415Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -4291,6 +4291,19 @@
       "last_pushed_at": "2026-11-07T16:53:48.546Z",
       "language": "python",
       "lines": 245
+    },
+    "lab:86da6dad-91de-4017-80fc-adaa7f292d77": {
+      "kind": "lab",
+      "id": "86da6dad-91de-4017-80fc-adaa7f292d77",
+      "title": "Fewest Bits per Pixel on Binarized Digits",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/labs/86da6dad-91de-4017-80fc-adaa7f292d77",
+      "path": "labs/86da6dad-91de-4017-80fc-adaa7f292d77-fewest-bits-per-pixel-on-binarized-digits",
+      "first_solved_at": "2026-11-08T18:10:54.898Z",
+      "last_pushed_at": "2026-11-08T18:10:54.898Z",
+      "language": "python",
+      "lines": 172
     }
   }
 }
