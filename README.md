@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**336** solved · 244 problems · 60 labs · 32 math
+**337** solved · 244 problems · 61 labs · 32 math
 
 ![Coverage](./coverage.svg)
 
@@ -289,6 +289,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Fewest Bits per Pixel on Binarized Digits](https://www.deep-ml.com/labs/86da6dad-91de-4017-80fc-adaa7f292d77) | medium | 2026-11-08 | [solution](labs/86da6dad-91de-4017-80fc-adaa7f292d77-fewest-bits-per-pixel-on-binarized-digits) |
 | [Fit Linear Regression with Autograd](https://www.deep-ml.com/labs/9ff596ea-672e-4101-9ce4-0856c55b62c9) | medium | 2026-09-10 | [solution](labs/9ff596ea-672e-4101-9ce4-0856c55b62c9-fit-linear-regression-with-autograd) |
 | [Fix Overfitting with Regularization (NumPy)](https://www.deep-ml.com/labs/21) | medium | 2026-09-06 | [solution](labs/0021-fix-overfitting-with-regularization-numpy) |
+| [Honest Error Bars From 200 Houses](https://www.deep-ml.com/labs/b1231da6-8bc2-43d4-97c1-2b0bc1cd15bf) | medium | 2026-11-09 | [solution](labs/b1231da6-8bc2-43d4-97c1-2b0bc1cd15bf-honest-error-bars-from-200-houses) |
 | [Lowest Bits per Character](https://www.deep-ml.com/labs/7f65cc18-cd7d-4ba9-ad67-ad2e50b8667c) | medium | 2026-10-25 | [solution](labs/7f65cc18-cd7d-4ba9-ad67-ad2e50b8667c-lowest-bits-per-character) |
 | [MLP with Dropout and BatchNorm](https://www.deep-ml.com/labs/3480fd6b-ee7a-4afd-ba4b-5c934aeab10b) | medium | 2026-09-10 | [solution](labs/3480fd6b-ee7a-4afd-ba4b-5c934aeab10b-mlp-with-dropout-and-batchnorm) |
 | [MNIST: Design Your Own Pytorch Optimizer](https://www.deep-ml.com/labs/3) | medium | 2026-09-04 | [solution](labs/0003-mnist-design-your-own-pytorch-optimizer) |
