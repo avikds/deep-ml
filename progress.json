@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T04:28:49.510Z",
+  "generated_at": "2026-11-11T04:37:31.589Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -4330,6 +4330,19 @@
       "last_pushed_at": "2026-11-11T04:28:48.033Z",
       "language": "python",
       "lines": 154
+    },
+    "lab:78ce204b-faea-4e2c-9b87-0338f4cd99fb": {
+      "kind": "lab",
+      "id": "78ce204b-faea-4e2c-9b87-0338f4cd99fb",
+      "title": "Best CIFAR-10 Classifier in a Fixed Training Budget",
+      "difficulty": "hard",
+      "category": "Computer Vision",
+      "url": "https://www.deep-ml.com/labs/78ce204b-faea-4e2c-9b87-0338f4cd99fb",
+      "path": "labs/78ce204b-faea-4e2c-9b87-0338f4cd99fb-best-cifar-10-classifier-in-a-fixed-training-budget",
+      "first_solved_at": "2026-11-11T04:37:18.460Z",
+      "last_pushed_at": "2026-11-11T04:37:18.460Z",
+      "language": "python",
+      "lines": 264
     }
   }
 }
