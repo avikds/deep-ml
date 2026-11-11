@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**339** solved · 244 problems · 63 labs · 32 math
+**340** solved · 244 problems · 64 labs · 32 math
 
 ![Coverage](./coverage.svg)
 
@@ -287,6 +287,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Fastest Array Sum](https://www.deep-ml.com/labs/3d1f81c4-9b98-42cb-ad0c-10506c378bd4) | medium | 2026-10-26 | [solution](labs/3d1f81c4-9b98-42cb-ad0c-10506c378bd4-fastest-array-sum) |
 | [Few-Shot Classification with Cluster-Based Label Propagation](https://www.deep-ml.com/labs/28) | medium | 2026-09-04 | [solution](labs/0028-few-shot-classification-with-cluster-based-label-propagation) |
 | [Fewest Bits per Pixel on Binarized Digits](https://www.deep-ml.com/labs/86da6dad-91de-4017-80fc-adaa7f292d77) | medium | 2026-11-08 | [solution](labs/86da6dad-91de-4017-80fc-adaa7f292d77-fewest-bits-per-pixel-on-binarized-digits) |
+| [Fill In the Missing Letter](https://www.deep-ml.com/labs/c69c29bb-d5cd-40b4-bfa1-c76c63334cbd) | medium | 2026-11-11 | [solution](labs/c69c29bb-d5cd-40b4-bfa1-c76c63334cbd-fill-in-the-missing-letter) |
 | [Fit Linear Regression with Autograd](https://www.deep-ml.com/labs/9ff596ea-672e-4101-9ce4-0856c55b62c9) | medium | 2026-09-10 | [solution](labs/9ff596ea-672e-4101-9ce4-0856c55b62c9-fit-linear-regression-with-autograd) |
 | [Fix Overfitting with Regularization (NumPy)](https://www.deep-ml.com/labs/21) | medium | 2026-09-06 | [solution](labs/0021-fix-overfitting-with-regularization-numpy) |
 | [Honest Error Bars From 200 Houses](https://www.deep-ml.com/labs/b1231da6-8bc2-43d4-97c1-2b0bc1cd15bf) | medium | 2026-11-09 | [solution](labs/b1231da6-8bc2-43d4-97c1-2b0bc1cd15bf-honest-error-bars-from-200-houses) |

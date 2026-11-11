@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T04:37:31.589Z",
+  "generated_at": "2026-11-11T06:18:20.946Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -4343,6 +4343,19 @@
       "last_pushed_at": "2026-11-11T04:37:18.460Z",
       "language": "python",
       "lines": 264
+    },
+    "lab:c69c29bb-d5cd-40b4-bfa1-c76c63334cbd": {
+      "kind": "lab",
+      "id": "c69c29bb-d5cd-40b4-bfa1-c76c63334cbd",
+      "title": "Fill In the Missing Letter",
+      "difficulty": "medium",
+      "category": "Language Modeling",
+      "url": "https://www.deep-ml.com/labs/c69c29bb-d5cd-40b4-bfa1-c76c63334cbd",
+      "path": "labs/c69c29bb-d5cd-40b4-bfa1-c76c63334cbd-fill-in-the-missing-letter",
+      "first_solved_at": "2026-11-11T06:18:19.622Z",
+      "last_pushed_at": "2026-11-11T06:18:19.622Z",
+      "language": "python",
+      "lines": 117
     }
   }
 }
