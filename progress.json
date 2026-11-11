@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T06:28:27.956Z",
+  "generated_at": "2026-11-11T08:01:55.956Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -4382,6 +4382,32 @@
       "last_pushed_at": "2026-11-11T06:28:26.473Z",
       "language": "python",
       "lines": 198
+    },
+    "problem:1365": {
+      "kind": "problem",
+      "id": "1365",
+      "title": "Poisson Regression by Iteratively Reweighted Least Squares",
+      "difficulty": "hard",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/1365",
+      "path": "problems/1365-poisson-regression-by-iteratively-reweighted-least-squares",
+      "first_solved_at": "2026-11-11T07:39:58.416Z",
+      "last_pushed_at": "2026-11-11T07:39:58.416Z",
+      "language": "python",
+      "lines": 26
+    },
+    "problem:725": {
+      "kind": "problem",
+      "id": "725",
+      "title": "Memory Complexity: Full Space-Time vs. ST-Factorized Attention",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/725",
+      "path": "problems/0725-memory-complexity-full-space-time-vs-st-factorized-attention",
+      "first_solved_at": "2026-11-11T07:59:48.351Z",
+      "last_pushed_at": "2026-11-11T07:59:48.351Z",
+      "language": "python",
+      "lines": 20
     }
   }
 }
