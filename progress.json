@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T09:47:51.735Z",
+  "generated_at": "2026-11-11T04:28:49.510Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -4317,6 +4317,19 @@
       "last_pushed_at": "2026-11-09T09:47:49.921Z",
       "language": "python",
       "lines": 123
+    },
+    "lab:42c9e12c-3e60-4e90-bc35-7f7fe6f0fb32": {
+      "kind": "lab",
+      "id": "42c9e12c-3e60-4e90-bc35-7f7fe6f0fb32",
+      "title": "Best Balanced Router",
+      "difficulty": "hard",
+      "category": "Mixture of Experts",
+      "url": "https://www.deep-ml.com/labs/42c9e12c-3e60-4e90-bc35-7f7fe6f0fb32",
+      "path": "labs/42c9e12c-3e60-4e90-bc35-7f7fe6f0fb32-best-balanced-router",
+      "first_solved_at": "2026-11-11T04:28:48.033Z",
+      "last_pushed_at": "2026-11-11T04:28:48.033Z",
+      "language": "python",
+      "lines": 154
     }
   }
 }
