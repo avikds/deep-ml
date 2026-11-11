@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T06:22:11.167Z",
+  "generated_at": "2026-11-11T06:28:27.956Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -4369,6 +4369,19 @@
       "last_pushed_at": "2026-11-11T06:22:09.866Z",
       "language": "python",
       "lines": 239
+    },
+    "lab:5ead5173-8bf6-43ff-8d78-e5da445781fc": {
+      "kind": "lab",
+      "id": "5ead5173-8bf6-43ff-8d78-e5da445781fc",
+      "title": "Most Honest Predictions From Twenty Labels",
+      "difficulty": "medium",
+      "category": "Logistic Regression",
+      "url": "https://www.deep-ml.com/labs/5ead5173-8bf6-43ff-8d78-e5da445781fc",
+      "path": "labs/5ead5173-8bf6-43ff-8d78-e5da445781fc-most-honest-predictions-from-twenty-labels",
+      "first_solved_at": "2026-11-11T06:28:26.473Z",
+      "last_pushed_at": "2026-11-11T06:28:26.473Z",
+      "language": "python",
+      "lines": 198
     }
   }
 }

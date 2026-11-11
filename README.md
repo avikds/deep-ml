@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**341** solved · 244 problems · 65 labs · 32 math
+**342** solved · 244 problems · 66 labs · 32 math
 
 ![Coverage](./coverage.svg)
 
@@ -301,6 +301,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [MNIST: Fix Very Deep Network Training](https://www.deep-ml.com/labs/7) | medium | 2026-09-01 | [solution](labs/0007-mnist-fix-very-deep-network-training) |
 | [MNIST: Pytorch DataLoader](https://www.deep-ml.com/labs/1) | medium | 2026-08-31 | [solution](labs/0001-mnist-pytorch-dataloader) |
 | [MNIST: Tinygrad Data Transform](https://www.deep-ml.com/labs/30) | medium | 2026-09-04 | [solution](labs/0030-mnist-tinygrad-data-transform) |
+| [Most Honest Predictions From Twenty Labels](https://www.deep-ml.com/labs/5ead5173-8bf6-43ff-8d78-e5da445781fc) | medium | 2026-11-11 | [solution](labs/5ead5173-8bf6-43ff-8d78-e5da445781fc-most-honest-predictions-from-twenty-labels) |
 | [Most Reward on a Drifting Bandit](https://www.deep-ml.com/labs/9ca26f44-66b3-4bba-b396-ccf3c55e6932) | medium | 2026-11-03 | [solution](labs/9ca26f44-66b3-4bba-b396-ccf3c55e6932-most-reward-on-a-drifting-bandit) |
 | [Numpy: Design Your Own Dimensionality Reduction](https://www.deep-ml.com/labs/14) | medium | 2026-08-26 | [solution](labs/0014-numpy-design-your-own-dimensionality-reduction) |
 | [PyTorch: Implement Your Own Gradient Descent Training Step](https://www.deep-ml.com/labs/12) | medium | 2026-08-26 | [solution](labs/0012-pytorch-implement-your-own-gradient-descent-training-step) |
