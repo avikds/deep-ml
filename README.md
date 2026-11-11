@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**340** solved · 244 problems · 64 labs · 32 math
+**341** solved · 244 problems · 65 labs · 32 math
 
 ![Coverage](./coverage.svg)
 
@@ -292,6 +292,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Fix Overfitting with Regularization (NumPy)](https://www.deep-ml.com/labs/21) | medium | 2026-09-06 | [solution](labs/0021-fix-overfitting-with-regularization-numpy) |
 | [Honest Error Bars From 200 Houses](https://www.deep-ml.com/labs/b1231da6-8bc2-43d4-97c1-2b0bc1cd15bf) | medium | 2026-11-09 | [solution](labs/b1231da6-8bc2-43d4-97c1-2b0bc1cd15bf-honest-error-bars-from-200-houses) |
 | [Lowest Bits per Character](https://www.deep-ml.com/labs/7f65cc18-cd7d-4ba9-ad67-ad2e50b8667c) | medium | 2026-10-25 | [solution](labs/7f65cc18-cd7d-4ba9-ad67-ad2e50b8667c-lowest-bits-per-character) |
+| [Lowest Poisson Deviance on Insurance Claims](https://www.deep-ml.com/labs/74df628d-bc19-4f90-ae97-7872c1202b1a) | medium | 2026-11-11 | [solution](labs/74df628d-bc19-4f90-ae97-7872c1202b1a-lowest-poisson-deviance-on-insurance-claims) |
 | [MLP with Dropout and BatchNorm](https://www.deep-ml.com/labs/3480fd6b-ee7a-4afd-ba4b-5c934aeab10b) | medium | 2026-09-10 | [solution](labs/3480fd6b-ee7a-4afd-ba4b-5c934aeab10b-mlp-with-dropout-and-batchnorm) |
 | [MNIST: Design Your Own Pytorch Optimizer](https://www.deep-ml.com/labs/3) | medium | 2026-09-04 | [solution](labs/0003-mnist-design-your-own-pytorch-optimizer) |
 | [MNIST: Design Your Own Tinygrad Optimizer](https://www.deep-ml.com/labs/32) | medium | 2026-09-03 | [solution](labs/0032-mnist-design-your-own-tinygrad-optimizer) |

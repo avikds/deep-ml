@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T06:18:20.946Z",
+  "generated_at": "2026-11-11T06:22:11.167Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -4356,6 +4356,19 @@
       "last_pushed_at": "2026-11-11T06:18:19.622Z",
       "language": "python",
       "lines": 117
+    },
+    "lab:74df628d-bc19-4f90-ae97-7872c1202b1a": {
+      "kind": "lab",
+      "id": "74df628d-bc19-4f90-ae97-7872c1202b1a",
+      "title": "Lowest Poisson Deviance on Insurance Claims",
+      "difficulty": "medium",
+      "category": "Regression",
+      "url": "https://www.deep-ml.com/labs/74df628d-bc19-4f90-ae97-7872c1202b1a",
+      "path": "labs/74df628d-bc19-4f90-ae97-7872c1202b1a-lowest-poisson-deviance-on-insurance-claims",
+      "first_solved_at": "2026-11-11T06:22:09.866Z",
+      "last_pushed_at": "2026-11-11T06:22:09.866Z",
+      "language": "python",
+      "lines": 239
     }
   }
 }
