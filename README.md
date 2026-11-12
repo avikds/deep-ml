@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**345** solved · 246 problems · 67 labs · 32 math
+**346** solved · 246 problems · 68 labs · 32 math
 
 ![Coverage](./coverage.svg)
 
@@ -327,6 +327,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [MNIST: Adversarial Example Generation](https://www.deep-ml.com/labs/5) | hard | 2026-08-24 | [solution](labs/0005-mnist-adversarial-example-generation) |
 | [MNIST: Build Neural Network from Scratch (NumPy Only)](https://www.deep-ml.com/labs/6) | hard | 2026-08-24 | [solution](labs/0006-mnist-build-neural-network-from-scratch-numpy-only) |
 | [MNIST: Classification Loss (with Gradient)](https://www.deep-ml.com/labs/4) | hard | 2026-08-26 | [solution](labs/0004-mnist-classification-loss-with-gradient) |
+| [Most Faithful 2-D Map](https://www.deep-ml.com/labs/3181f54f-1354-4fcc-8bef-d7591289e3d1) | hard | 2026-11-12 | [solution](labs/3181f54f-1354-4fcc-8bef-d7591289e3d1-most-faithful-2-d-map) |
 | [Most Goals in a Changing Maze](https://www.deep-ml.com/labs/dc348c53-6b06-4fbb-a8ca-57bc562b68d6) | hard | 2026-11-12 | [solution](labs/dc348c53-6b06-4fbb-a8ca-57bc562b68d6-most-goals-in-a-changing-maze) |
 | [Shortest Honest Intervals](https://www.deep-ml.com/labs/73281627-5479-466c-96e9-3203769ddc81) | hard | 2026-11-03 | [solution](labs/73281627-5479-466c-96e9-3203769ddc81-shortest-honest-intervals) |
 | [Train a Tiny CNN Image Classifier](https://www.deep-ml.com/labs/91c76ab2-7d3a-43a7-98ce-385aab6f1691) | hard | 2026-08-26 | [solution](labs/91c76ab2-7d3a-43a7-98ce-385aab6f1691-train-a-tiny-cnn-image-classifier) |
