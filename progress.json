@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T08:01:55.956Z",
+  "generated_at": "2026-11-12T05:11:38.551Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -4408,6 +4408,19 @@
       "last_pushed_at": "2026-11-11T07:59:48.351Z",
       "language": "python",
       "lines": 20
+    },
+    "lab:dc348c53-6b06-4fbb-a8ca-57bc562b68d6": {
+      "kind": "lab",
+      "id": "dc348c53-6b06-4fbb-a8ca-57bc562b68d6",
+      "title": "Most Goals in a Changing Maze",
+      "difficulty": "hard",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/labs/dc348c53-6b06-4fbb-a8ca-57bc562b68d6",
+      "path": "labs/dc348c53-6b06-4fbb-a8ca-57bc562b68d6-most-goals-in-a-changing-maze",
+      "first_solved_at": "2026-11-12T05:11:36.668Z",
+      "last_pushed_at": "2026-11-12T05:11:36.668Z",
+      "language": "python",
+      "lines": 181
     }
   }
 }
