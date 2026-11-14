@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**346** solved · 246 problems · 68 labs · 32 math
+**351** solved · 251 problems · 68 labs · 32 math
 
 ![Coverage](./coverage.svg)
 
@@ -96,7 +96,9 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Build a VQ-VAE from Scratch](https://www.deep-ml.com/problems/699) | hard | 2026-09-17 | [solution](problems/0699-build-a-vq-vae-from-scratch) |
 | [Causal and Padding Masks with scaled_dot_product_attention](https://www.deep-ml.com/problems/1346) | hard | 2026-11-05 | [solution](problems/1346-causal-and-padding-masks-with-scaled-dot-product-attention) |
 | [Certainty-Equivalence in TD Learning](https://www.deep-ml.com/problems/516) | hard | 2026-09-11 | [solution](problems/0516-certainty-equivalence-in-td-learning) |
+| [Coefficient Standard Errors, t-Statistics and p-Values](https://www.deep-ml.com/problems/1360) | hard | 2026-11-14 | [solution](problems/1360-coefficient-standard-errors-t-statistics-and-p-values) |
 | [Cohort Retention: First Login and Consecutive-Day Logins](https://www.deep-ml.com/problems/1119) | hard | 2026-09-25 | [solution](problems/1119-cohort-retention-first-login-and-consecutive-day-logins) |
+| [Combine Correlated Alphas into Robust Weights](https://www.deep-ml.com/problems/1356) | hard | 2026-11-14 | [solution](problems/1356-combine-correlated-alphas-into-robust-weights) |
 | [Combined Token Sampling Pipeline (Temperature + Top-k + Top-p)](https://www.deep-ml.com/problems/419) | hard | 2026-09-10 | [solution](problems/0419-combined-token-sampling-pipeline-temperature-top-k-top-p) |
 | [Context Parallelism with Ring Attention for Video Models](https://www.deep-ml.com/problems/448) | hard | 2026-09-10 | [solution](problems/0448-context-parallelism-with-ring-attention-for-video-models) |
 | [Control Variates in Off-Policy Methods](https://www.deep-ml.com/problems/584) | hard | 2026-09-13 | [solution](problems/0584-control-variates-in-off-policy-methods) |
@@ -157,6 +159,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Kanerva Coding for High-Dimensional Spaces](https://www.deep-ml.com/problems/600) | hard | 2026-09-15 | [solution](problems/0600-kanerva-coding-for-high-dimensional-spaces) |
 | [Least-Squares Temporal Difference (LSTD) for Policy Evaluation](https://www.deep-ml.com/problems/536) | hard | 2026-09-11 | [solution](problems/0536-least-squares-temporal-difference-lstd-for-policy-evaluation) |
 | [Lightning Indexer Sparse Attention Selection](https://www.deep-ml.com/problems/736) | hard | 2026-09-17 | [solution](problems/0736-lightning-indexer-sparse-attention-selection) |
+| [Linear Covariance Shrinkage](https://www.deep-ml.com/problems/1355) | hard | 2026-11-14 | [solution](problems/1355-linear-covariance-shrinkage) |
 | [Linear Sarsa Algorithm](https://www.deep-ml.com/problems/534) | hard | 2026-09-11 | [solution](problems/0534-linear-sarsa-algorithm) |
 | [Llama 3 RoPE Frequency Scaling](https://www.deep-ml.com/problems/1025) | hard | 2026-09-21 | [solution](problems/1025-llama-3-rope-frequency-scaling) |
 | [Loop Nest Codegen for a Reduction: Render, Compile, Run](https://www.deep-ml.com/problems/1520) | hard | 2026-10-05 | [solution](problems/1520-loop-nest-codegen-for-a-reduction-render-compile-run) |
@@ -198,6 +201,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Pre-Norm GPT Transformer Block Forward Pass](https://www.deep-ml.com/problems/1056) | hard | 2026-09-21 | [solution](problems/1056-pre-norm-gpt-transformer-block-forward-pass) |
 | [Preference Dataset Collate Function for DPO](https://www.deep-ml.com/problems/1069) | hard | 2026-09-21 | [solution](problems/1069-preference-dataset-collate-function-for-dpo) |
 | [Prioritized Sweeping Algorithm](https://www.deep-ml.com/problems/527) | hard | 2026-09-11 | [solution](problems/0527-prioritized-sweeping-algorithm) |
+| [Purged Walk-Forward Cross-Validation](https://www.deep-ml.com/problems/1351) | hard | 2026-11-14 | [solution](problems/1351-purged-walk-forward-cross-validation) |
 | [Q(lambda) with Eligibility Traces](https://www.deep-ml.com/problems/522) | hard | 2026-09-11 | [solution](problems/0522-q-lambda-with-eligibility-traces) |
 | [Q(σ) Unified Algorithm](https://www.deep-ml.com/problems/583) | hard | 2026-09-13 | [solution](problems/0583-q-unified-algorithm) |
 | [QR Decomposition](https://www.deep-ml.com/problems/201) | hard | 2026-09-06 | [solution](problems/0201-qr-decomposition) |
@@ -209,6 +213,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Residual Gradient Algorithm for Value Function Approximation](https://www.deep-ml.com/problems/577) | hard | 2026-09-11 | [solution](problems/0577-residual-gradient-algorithm-for-value-function-approximation) |
 | [Retrace(λ) Implementation](https://www.deep-ml.com/problems/582) | hard | 2026-09-13 | [solution](problems/0582-retrace-implementation) |
 | [Reverse-Mode Autodiff over a Tiny Graph IR](https://www.deep-ml.com/problems/1528) | hard | 2026-10-05 | [solution](problems/1528-reverse-mode-autodiff-over-a-tiny-graph-ir) |
+| [Rotary Position Embeddings (RoPE)](https://www.deep-ml.com/problems/1347) | hard | 2026-11-14 | [solution](problems/1347-rotary-position-embeddings-rope) |
 | [Sarsa(lambda) Algorithm with Eligibility Traces](https://www.deep-ml.com/problems/521) | hard | 2026-09-11 | [solution](problems/0521-sarsa-lambda-algorithm-with-eligibility-traces) |
 | [Scaled Dot-Product Attention](https://www.deep-ml.com/problems/1321) | hard | 2026-10-13 | [solution](problems/1321-scaled-dot-product-attention) |
 | [Segmented Reduction](https://www.deep-ml.com/problems/1317) | hard | 2026-10-08 | [solution](problems/1317-segmented-reduction) |

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T16:48:29.932Z",
+  "generated_at": "2026-11-14T05:01:04.076Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -4434,6 +4434,71 @@
       "last_pushed_at": "2026-11-12T16:48:27.926Z",
       "language": "python",
       "lines": 51
+    },
+    "problem:1347": {
+      "kind": "problem",
+      "id": "1347",
+      "title": "Rotary Position Embeddings (RoPE)",
+      "difficulty": "hard",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/1347",
+      "path": "problems/1347-rotary-position-embeddings-rope",
+      "first_solved_at": "2026-11-14T04:52:43.748Z",
+      "last_pushed_at": "2026-11-14T04:52:43.748Z",
+      "language": "python",
+      "lines": 28
+    },
+    "problem:1351": {
+      "kind": "problem",
+      "id": "1351",
+      "title": "Purged Walk-Forward Cross-Validation",
+      "difficulty": "hard",
+      "category": "Financial Engineering",
+      "url": "https://www.deep-ml.com/problems/1351",
+      "path": "problems/1351-purged-walk-forward-cross-validation",
+      "first_solved_at": "2026-11-14T04:54:09.635Z",
+      "last_pushed_at": "2026-11-14T04:54:09.635Z",
+      "language": "python",
+      "lines": 20
+    },
+    "problem:1355": {
+      "kind": "problem",
+      "id": "1355",
+      "title": "Linear Covariance Shrinkage",
+      "difficulty": "hard",
+      "category": "Financial Engineering",
+      "url": "https://www.deep-ml.com/problems/1355",
+      "path": "problems/1355-linear-covariance-shrinkage",
+      "first_solved_at": "2026-11-14T04:55:11.555Z",
+      "last_pushed_at": "2026-11-14T04:55:11.555Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:1356": {
+      "kind": "problem",
+      "id": "1356",
+      "title": "Combine Correlated Alphas into Robust Weights",
+      "difficulty": "hard",
+      "category": "Financial Engineering",
+      "url": "https://www.deep-ml.com/problems/1356",
+      "path": "problems/1356-combine-correlated-alphas-into-robust-weights",
+      "first_solved_at": "2026-11-14T04:56:39.439Z",
+      "last_pushed_at": "2026-11-14T04:56:39.439Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:1360": {
+      "kind": "problem",
+      "id": "1360",
+      "title": "Coefficient Standard Errors, t-Statistics and p-Values",
+      "difficulty": "hard",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/1360",
+      "path": "problems/1360-coefficient-standard-errors-t-statistics-and-p-values",
+      "first_solved_at": "2026-11-14T04:58:04.749Z",
+      "last_pushed_at": "2026-11-14T04:58:04.749Z",
+      "language": "python",
+      "lines": 37
     }
   }
 }
