@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T05:40:35.557Z",
+  "generated_at": "2026-11-18T07:54:44.639Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -4551,6 +4551,45 @@
       "last_pushed_at": "2026-11-18T05:40:30.076Z",
       "language": "python",
       "lines": 317
+    },
+    "problem:2": {
+      "kind": "problem",
+      "id": "2",
+      "title": "Transpose of a Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/2",
+      "path": "problems/0002-transpose-of-a-matrix",
+      "first_solved_at": "2026-11-16T22:46:35.804Z",
+      "last_pushed_at": "2026-11-16T22:46:35.804Z",
+      "language": "python",
+      "lines": 8
+    },
+    "problem:3": {
+      "kind": "problem",
+      "id": "3",
+      "title": "Reshape Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/3",
+      "path": "problems/0003-reshape-matrix",
+      "first_solved_at": "2026-11-16T22:47:06.800Z",
+      "last_pushed_at": "2026-11-16T22:47:06.800Z",
+      "language": "python",
+      "lines": 9
+    },
+    "problem:1420": {
+      "kind": "problem",
+      "id": "1420",
+      "title": "Generalized Additive Model by Backfitting",
+      "difficulty": "hard",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/1420",
+      "path": "problems/1420-generalized-additive-model-by-backfitting",
+      "first_solved_at": "2026-11-16T22:48:07.887Z",
+      "last_pushed_at": "2026-11-16T22:48:07.887Z",
+      "language": "python",
+      "lines": 61
     }
   }
 }
