@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**351** solved · 251 problems · 68 labs · 32 math
+**352** solved · 251 problems · 69 labs · 32 math
 
 ![Coverage](./coverage.svg)
 
@@ -314,6 +314,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [PyTorch: Implement Your Own Gradient Descent Training Step](https://www.deep-ml.com/labs/12) | medium | 2026-08-26 | [solution](labs/0012-pytorch-implement-your-own-gradient-descent-training-step) |
 | [Tinygrad: Implement Your Own Gradient Descent Training Step](https://www.deep-ml.com/labs/33) | medium | 2026-09-03 | [solution](labs/0033-tinygrad-implement-your-own-gradient-descent-training-step) |
 | [Train a Tabular Policy with DPO](https://www.deep-ml.com/labs/37) | medium | 2026-09-10 | [solution](labs/0037-train-a-tabular-policy-with-dpo) |
+| [Train Short, Test Long](https://www.deep-ml.com/labs/fc2accf2-62d7-4169-a045-691824ae7fdd) | medium | 2026-11-16 | [solution](labs/fc2accf2-62d7-4169-a045-691824ae7fdd-train-short-test-long) |
 | [Best Balanced Router](https://www.deep-ml.com/labs/42c9e12c-3e60-4e90-bc35-7f7fe6f0fb32) | hard | 2026-11-11 | [solution](labs/42c9e12c-3e60-4e90-bc35-7f7fe6f0fb32-best-balanced-router) |
 | [Best Cache-Aware Router](https://www.deep-ml.com/labs/20e9526d-3f50-42b9-83ad-119c33160b5b) | hard | 2026-10-26 | [solution](labs/20e9526d-3f50-42b9-83ad-119c33160b5b-best-cache-aware-router) |
 | [Best CIFAR-10 Classifier in a Fixed Training Budget](https://www.deep-ml.com/labs/78ce204b-faea-4e2c-9b87-0338f4cd99fb) | hard | 2026-11-11 | [solution](labs/78ce204b-faea-4e2c-9b87-0338f4cd99fb-best-cifar-10-classifier-in-a-fixed-training-budget) |

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T05:01:04.076Z",
+  "generated_at": "2026-11-16T22:43:38.931Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -4499,6 +4499,19 @@
       "last_pushed_at": "2026-11-14T04:58:04.749Z",
       "language": "python",
       "lines": 37
+    },
+    "lab:fc2accf2-62d7-4169-a045-691824ae7fdd": {
+      "kind": "lab",
+      "id": "fc2accf2-62d7-4169-a045-691824ae7fdd",
+      "title": "Train Short, Test Long",
+      "difficulty": "medium",
+      "category": "Language Modeling",
+      "url": "https://www.deep-ml.com/labs/fc2accf2-62d7-4169-a045-691824ae7fdd",
+      "path": "labs/fc2accf2-62d7-4169-a045-691824ae7fdd-train-short-test-long",
+      "first_solved_at": "2026-11-16T22:43:38.069Z",
+      "last_pushed_at": "2026-11-16T22:43:38.069Z",
+      "language": "python",
+      "lines": 33
     }
   }
 }
