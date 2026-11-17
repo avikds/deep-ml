@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T22:43:38.931Z",
+  "generated_at": "2026-11-17T06:13:23.387Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -4512,6 +4512,19 @@
       "last_pushed_at": "2026-11-16T22:43:38.069Z",
       "language": "python",
       "lines": 33
+    },
+    "lab:7b904dda-f086-4701-a521-938ad5228f97": {
+      "kind": "lab",
+      "id": "7b904dda-f086-4701-a521-938ad5228f97",
+      "title": "Best Imputer with Honest Uncertainty",
+      "difficulty": "hard",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/labs/7b904dda-f086-4701-a521-938ad5228f97",
+      "path": "labs/7b904dda-f086-4701-a521-938ad5228f97-best-imputer-with-honest-uncertainty",
+      "first_solved_at": "2026-11-17T06:13:22.368Z",
+      "last_pushed_at": "2026-11-17T06:13:22.368Z",
+      "language": "python",
+      "lines": 393
     }
   }
 }
