@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**359** solved · 255 problems · 72 labs · 32 math
+**361** solved · 257 problems · 72 labs · 32 math
 
 ![Coverage](./coverage.svg)
 
@@ -158,6 +158,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Inclusive Prefix Scan](https://www.deep-ml.com/problems/1313) | hard | 2026-10-05 | [solution](problems/1313-inclusive-prefix-scan) |
 | [INT4 Pack/Unpack and Weight-Only W4A16 Matmul](https://www.deep-ml.com/problems/1256) | hard | 2026-09-27 | [solution](problems/1256-int4-pack-unpack-and-weight-only-w4a16-matmul) |
 | [Intra-Option Q-Learning for Temporal Abstraction](https://www.deep-ml.com/problems/652) | hard | 2026-09-16 | [solution](problems/0652-intra-option-q-learning-for-temporal-abstraction) |
+| [IoU and Mean Average Precision for Object Detection](https://www.deep-ml.com/problems/1395) | hard | 2026-11-18 | [solution](problems/1395-iou-and-mean-average-precision-for-object-detection) |
 | [Job-Shop Scheduling with TD Learning](https://www.deep-ml.com/problems/622) | hard | 2026-09-16 | [solution](problems/0622-job-shop-scheduling-with-td-learning) |
 | [Kanerva Coding for High-Dimensional Spaces](https://www.deep-ml.com/problems/600) | hard | 2026-09-15 | [solution](problems/0600-kanerva-coding-for-high-dimensional-spaces) |
 | [Least-Squares Temporal Difference (LSTD) for Policy Evaluation](https://www.deep-ml.com/problems/536) | hard | 2026-09-11 | [solution](problems/0536-least-squares-temporal-difference-lstd-for-policy-evaluation) |
@@ -166,6 +167,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Linear Sarsa Algorithm](https://www.deep-ml.com/problems/534) | hard | 2026-09-11 | [solution](problems/0534-linear-sarsa-algorithm) |
 | [Llama 3 RoPE Frequency Scaling](https://www.deep-ml.com/problems/1025) | hard | 2026-09-21 | [solution](problems/1025-llama-3-rope-frequency-scaling) |
 | [Loop Nest Codegen for a Reduction: Render, Compile, Run](https://www.deep-ml.com/problems/1520) | hard | 2026-10-05 | [solution](problems/1520-loop-nest-codegen-for-a-reduction-render-compile-run) |
+| [LSTM Backpropagation Through Time by Hand](https://www.deep-ml.com/problems/1429) | hard | 2026-11-18 | [solution](problems/1429-lstm-backpropagation-through-time-by-hand) |
 | [Manual Backprop Through Cross-Entropy Intermediates](https://www.deep-ml.com/problems/997) | hard | 2026-09-19 | [solution](problems/0997-manual-backprop-through-cross-entropy-intermediates) |
 | [Masked Generative Token Prediction Step](https://www.deep-ml.com/problems/706) | hard | 2026-09-17 | [solution](problems/0706-masked-generative-token-prediction-step) |
 | [MCTS with Step-wise Reward for Reasoning Trace Search](https://www.deep-ml.com/problems/777) | hard | 2026-09-19 | [solution](problems/0777-mcts-with-step-wise-reward-for-reasoning-trace-search) |

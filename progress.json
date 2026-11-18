@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T07:54:47.180Z",
+  "generated_at": "2026-11-18T07:54:49.489Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -4603,6 +4603,32 @@
       "last_pushed_at": "2026-11-17T06:33:26.954Z",
       "language": "python",
       "lines": 51
+    },
+    "problem:1395": {
+      "kind": "problem",
+      "id": "1395",
+      "title": "IoU and Mean Average Precision for Object Detection",
+      "difficulty": "hard",
+      "category": "Computer Vision",
+      "url": "https://www.deep-ml.com/problems/1395",
+      "path": "problems/1395-iou-and-mean-average-precision-for-object-detection",
+      "first_solved_at": "2026-11-18T06:04:23.650Z",
+      "last_pushed_at": "2026-11-18T06:04:23.650Z",
+      "language": "python",
+      "lines": 105
+    },
+    "problem:1429": {
+      "kind": "problem",
+      "id": "1429",
+      "title": "LSTM Backpropagation Through Time by Hand",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/1429",
+      "path": "problems/1429-lstm-backpropagation-through-time-by-hand",
+      "first_solved_at": "2026-11-18T07:53:32.297Z",
+      "last_pushed_at": "2026-11-18T07:53:32.297Z",
+      "language": "python",
+      "lines": 104
     }
   }
 }
