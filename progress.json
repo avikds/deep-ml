@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T06:13:23.387Z",
+  "generated_at": "2026-11-18T04:23:28.358Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -4525,6 +4525,19 @@
       "last_pushed_at": "2026-11-17T06:13:22.368Z",
       "language": "python",
       "lines": 393
+    },
+    "lab:e66bd345-4351-4f2a-a1da-0648b7f154f5": {
+      "kind": "lab",
+      "id": "e66bd345-4351-4f2a-a1da-0648b7f154f5",
+      "title": "Best Low-Rank Approximation from a Matvec Budget",
+      "difficulty": "hard",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/labs/e66bd345-4351-4f2a-a1da-0648b7f154f5",
+      "path": "labs/e66bd345-4351-4f2a-a1da-0648b7f154f5-best-low-rank-approximation-from-a-matvec-budget",
+      "first_solved_at": "2026-11-18T04:23:27.653Z",
+      "last_pushed_at": "2026-11-18T04:23:27.653Z",
+      "language": "python",
+      "lines": 168
     }
   }
 }

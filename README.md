@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**353** solved · 251 problems · 70 labs · 32 math
+**354** solved · 251 problems · 71 labs · 32 math
 
 ![Coverage](./coverage.svg)
 
@@ -322,6 +322,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Best Imputer with Honest Uncertainty](https://www.deep-ml.com/labs/7b904dda-f086-4701-a521-938ad5228f97) | hard | 2026-11-17 | [solution](labs/7b904dda-f086-4701-a521-938ad5228f97-best-imputer-with-honest-uncertainty) |
 | [Best Inference Engine Controller](https://www.deep-ml.com/labs/37abee47-7133-4ecc-8a83-df898d0691e2) | hard | 2026-10-26 | [solution](labs/37abee47-7133-4ecc-8a83-df898d0691e2-best-inference-engine-controller) |
 | [Best Language Model with a Fixed-Size Memory](https://www.deep-ml.com/labs/00141453-bba9-434d-98e3-be380b4473fb) | hard | 2026-10-25 | [solution](labs/00141453-bba9-434d-98e3-be380b4473fb-best-language-model-with-a-fixed-size-memory) |
+| [Best Low-Rank Approximation from a Matvec Budget](https://www.deep-ml.com/labs/e66bd345-4351-4f2a-a1da-0648b7f154f5) | hard | 2026-11-18 | [solution](labs/e66bd345-4351-4f2a-a1da-0648b7f154f5-best-low-rank-approximation-from-a-matvec-budget) |
 | [Best Speculative Verification Policy](https://www.deep-ml.com/labs/8f72b129-ec9e-4842-9500-c6c367227548) | hard | 2026-10-25 | [solution](labs/8f72b129-ec9e-4842-9500-c6c367227548-best-speculative-verification-policy) |
 | [Build a Digit Classifier from Scratch](https://www.deep-ml.com/labs/20) | hard | 2026-08-26 | [solution](labs/0020-build-a-digit-classifier-from-scratch) |
 | [Build a Tree for a Random Forest](https://www.deep-ml.com/labs/26) | hard | 2026-08-26 | [solution](labs/0026-build-a-tree-for-a-random-forest) |
