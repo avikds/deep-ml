@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**354** solved · 251 problems · 71 labs · 32 math
+**355** solved · 251 problems · 72 labs · 32 math
 
 ![Coverage](./coverage.svg)
 
@@ -318,6 +318,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Best Balanced Router](https://www.deep-ml.com/labs/42c9e12c-3e60-4e90-bc35-7f7fe6f0fb32) | hard | 2026-11-11 | [solution](labs/42c9e12c-3e60-4e90-bc35-7f7fe6f0fb32-best-balanced-router) |
 | [Best Cache-Aware Router](https://www.deep-ml.com/labs/20e9526d-3f50-42b9-83ad-119c33160b5b) | hard | 2026-10-26 | [solution](labs/20e9526d-3f50-42b9-83ad-119c33160b5b-best-cache-aware-router) |
 | [Best CIFAR-10 Classifier in a Fixed Training Budget](https://www.deep-ml.com/labs/78ce204b-faea-4e2c-9b87-0338f4cd99fb) | hard | 2026-11-11 | [solution](labs/78ce204b-faea-4e2c-9b87-0338f4cd99fb-best-cifar-10-classifier-in-a-fixed-training-budget) |
+| [Best Conditional Disaggregation Policy](https://www.deep-ml.com/labs/aa10c37b-c4f9-4fc1-8df0-e7b0fb10746d) | hard | 2026-11-18 | [solution](labs/aa10c37b-c4f9-4fc1-8df0-e7b0fb10746d-best-conditional-disaggregation-policy) |
 | [Best Dictionary at a Fixed Sparsity](https://www.deep-ml.com/labs/4f593102-2101-4946-8881-d6f66684853a) | hard | 2026-10-25 | [solution](labs/4f593102-2101-4946-8881-d6f66684853a-best-dictionary-at-a-fixed-sparsity) |
 | [Best Imputer with Honest Uncertainty](https://www.deep-ml.com/labs/7b904dda-f086-4701-a521-938ad5228f97) | hard | 2026-11-17 | [solution](labs/7b904dda-f086-4701-a521-938ad5228f97-best-imputer-with-honest-uncertainty) |
 | [Best Inference Engine Controller](https://www.deep-ml.com/labs/37abee47-7133-4ecc-8a83-df898d0691e2) | hard | 2026-10-26 | [solution](labs/37abee47-7133-4ecc-8a83-df898d0691e2-best-inference-engine-controller) |

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T04:23:28.358Z",
+  "generated_at": "2026-11-18T05:40:35.557Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -4538,6 +4538,19 @@
       "last_pushed_at": "2026-11-18T04:23:27.653Z",
       "language": "python",
       "lines": 168
+    },
+    "lab:aa10c37b-c4f9-4fc1-8df0-e7b0fb10746d": {
+      "kind": "lab",
+      "id": "aa10c37b-c4f9-4fc1-8df0-e7b0fb10746d",
+      "title": "Best Conditional Disaggregation Policy",
+      "difficulty": "hard",
+      "category": "Inference",
+      "url": "https://www.deep-ml.com/labs/aa10c37b-c4f9-4fc1-8df0-e7b0fb10746d",
+      "path": "labs/aa10c37b-c4f9-4fc1-8df0-e7b0fb10746d-best-conditional-disaggregation-policy",
+      "first_solved_at": "2026-11-18T05:40:30.076Z",
+      "last_pushed_at": "2026-11-18T05:40:30.076Z",
+      "language": "python",
+      "lines": 317
     }
   }
 }
