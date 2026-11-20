@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T05:01:49.860Z",
+  "generated_at": "2026-11-20T06:08:12.660Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -4642,6 +4642,32 @@
       "last_pushed_at": "2026-11-19T05:00:21.476Z",
       "language": "python",
       "lines": 94
+    },
+    "problem:1262": {
+      "kind": "problem",
+      "id": "1262",
+      "title": "Identity Preference Optimization (IPO) Loss",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/1262",
+      "path": "problems/1262-identity-preference-optimization-ipo-loss",
+      "first_solved_at": "2026-11-20T06:04:24.133Z",
+      "last_pushed_at": "2026-11-20T06:04:24.133Z",
+      "language": "python",
+      "lines": 12
+    },
+    "problem:1466": {
+      "kind": "problem",
+      "id": "1466",
+      "title": "Probability Calibration: Platt Scaling and Isotonic Regression",
+      "difficulty": "hard",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/1466",
+      "path": "problems/1466-probability-calibration-platt-scaling-and-isotonic-regression",
+      "first_solved_at": "2026-11-20T06:05:59.810Z",
+      "last_pushed_at": "2026-11-20T06:05:59.810Z",
+      "language": "python",
+      "lines": 155
     }
   }
 }

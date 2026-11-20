@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**362** solved · 258 problems · 72 labs · 32 math
+**364** solved · 260 problems · 72 labs · 32 math
 
 ![Coverage](./coverage.svg)
 
@@ -48,6 +48,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Fused Bias+ReLU CUDA Kernel](https://www.deep-ml.com/problems/1188) | medium | 2026-09-22 | [solution](problems/1188-fused-bias-relu-cuda-kernel) |
 | [Guidance Attention Mask for Chunked Video](https://www.deep-ml.com/problems/461) | medium | 2026-10-16 | [solution](problems/0461-guidance-attention-mask-for-chunked-video) |
 | [Highest Total Daily Order Cost in a Date Range](https://www.deep-ml.com/problems/1120) | medium | 2026-09-19 | [solution](problems/1120-highest-total-daily-order-cost-in-a-date-range) |
+| [Identity Preference Optimization (IPO) Loss](https://www.deep-ml.com/problems/1262) | medium | 2026-11-20 | [solution](problems/1262-identity-preference-optimization-ipo-loss) |
 | [Implement a Vision Transformer (ViT) Image Encoder](https://www.deep-ml.com/problems/720) | medium | 2026-09-16 | [solution](problems/0720-implement-a-vision-transformer-vit-image-encoder) |
 | [Implement Attention Sink Detection](https://www.deep-ml.com/problems/457) | medium | 2026-09-28 | [solution](problems/0457-implement-attention-sink-detection) |
 | [Implement BatchNorm2d from Scratch (training mode)](https://www.deep-ml.com/problems/902) | medium | 2026-09-07 | [solution](problems/0902-implement-batchnorm2d-from-scratch-training-mode) |
@@ -208,6 +209,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Pre-Norm GPT Transformer Block Forward Pass](https://www.deep-ml.com/problems/1056) | hard | 2026-09-21 | [solution](problems/1056-pre-norm-gpt-transformer-block-forward-pass) |
 | [Preference Dataset Collate Function for DPO](https://www.deep-ml.com/problems/1069) | hard | 2026-09-21 | [solution](problems/1069-preference-dataset-collate-function-for-dpo) |
 | [Prioritized Sweeping Algorithm](https://www.deep-ml.com/problems/527) | hard | 2026-09-11 | [solution](problems/0527-prioritized-sweeping-algorithm) |
+| [Probability Calibration: Platt Scaling and Isotonic Regression](https://www.deep-ml.com/problems/1466) | hard | 2026-11-20 | [solution](problems/1466-probability-calibration-platt-scaling-and-isotonic-regression) |
 | [Purged Walk-Forward Cross-Validation](https://www.deep-ml.com/problems/1351) | hard | 2026-11-14 | [solution](problems/1351-purged-walk-forward-cross-validation) |
 | [Q(lambda) with Eligibility Traces](https://www.deep-ml.com/problems/522) | hard | 2026-09-11 | [solution](problems/0522-q-lambda-with-eligibility-traces) |
 | [Q(σ) Unified Algorithm](https://www.deep-ml.com/problems/583) | hard | 2026-09-13 | [solution](problems/0583-q-unified-algorithm) |
