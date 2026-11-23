@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**364** solved · 260 problems · 72 labs · 32 math
+**365** solved · 260 problems · 73 labs · 32 math
 
 ![Coverage](./coverage.svg)
 
@@ -336,6 +336,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Best Speculative Verification Policy](https://www.deep-ml.com/labs/8f72b129-ec9e-4842-9500-c6c367227548) | hard | 2026-10-25 | [solution](labs/8f72b129-ec9e-4842-9500-c6c367227548-best-speculative-verification-policy) |
 | [Build a Digit Classifier from Scratch](https://www.deep-ml.com/labs/20) | hard | 2026-08-26 | [solution](labs/0020-build-a-digit-classifier-from-scratch) |
 | [Build a Tree for a Random Forest](https://www.deep-ml.com/labs/26) | hard | 2026-08-26 | [solution](labs/0026-build-a-tree-for-a-random-forest) |
+| [Cheapest Index Math](https://www.deep-ml.com/labs/78868c50-937b-4a1b-8c05-fb4897286846) | hard | 2026-11-23 | [solution](labs/78868c50-937b-4a1b-8c05-fb4897286846-cheapest-index-math) |
 | [Design Your Own Latent Dynamics: Self-Speculative Decoding on TinyStories](https://www.deep-ml.com/labs/442392d7-09c3-4535-94f5-3aa8f288cce5) | hard | 2026-09-07 | [solution](labs/442392d7-09c3-4535-94f5-3aa8f288cce5-design-your-own-latent-dynamics-self-speculative-decoding-on-tinystories) |
 | [Design Your Own Quantizer](https://www.deep-ml.com/labs/c8e5b2d4-9f1a-4e6c-b7d3-2a4f6e8c0b9d) | hard | 2026-10-01 | [solution](labs/c8e5b2d4-9f1a-4e6c-b7d3-2a4f6e8c0b9d-design-your-own-quantizer) |
 | [Design Your Own Request Scheduler](https://www.deep-ml.com/labs/e6b3d8f2-7a4c-4d1e-9b5f-3c2a1d0e9f8b) | hard | 2026-10-01 | [solution](labs/e6b3d8f2-7a4c-4d1e-9b5f-3c2a1d0e9f8b-design-your-own-request-scheduler) |

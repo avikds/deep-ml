@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T06:08:12.660Z",
+  "generated_at": "2026-11-23T04:45:37.262Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -4668,6 +4668,19 @@
       "last_pushed_at": "2026-11-20T06:05:59.810Z",
       "language": "python",
       "lines": 155
+    },
+    "lab:78868c50-937b-4a1b-8c05-fb4897286846": {
+      "kind": "lab",
+      "id": "78868c50-937b-4a1b-8c05-fb4897286846",
+      "title": "Cheapest Index Math",
+      "difficulty": "hard",
+      "category": "Compilers",
+      "url": "https://www.deep-ml.com/labs/78868c50-937b-4a1b-8c05-fb4897286846",
+      "path": "labs/78868c50-937b-4a1b-8c05-fb4897286846-cheapest-index-math",
+      "first_solved_at": "2026-11-23T04:45:36.401Z",
+      "last_pushed_at": "2026-11-23T04:45:36.401Z",
+      "language": "python",
+      "lines": 479
     }
   }
 }
