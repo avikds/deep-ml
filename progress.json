@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T04:45:37.262Z",
+  "generated_at": "2026-11-23T04:48:49.980Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -4681,6 +4681,19 @@
       "last_pushed_at": "2026-11-23T04:45:36.401Z",
       "language": "python",
       "lines": 479
+    },
+    "lab:a6c854a0-d3b6-49cf-8045-a47347e10087": {
+      "kind": "lab",
+      "id": "a6c854a0-d3b6-49cf-8045-a47347e10087",
+      "title": "Lowest Peak Memory",
+      "difficulty": "hard",
+      "category": "Compilers",
+      "url": "https://www.deep-ml.com/labs/a6c854a0-d3b6-49cf-8045-a47347e10087",
+      "path": "labs/a6c854a0-d3b6-49cf-8045-a47347e10087-lowest-peak-memory",
+      "first_solved_at": "2026-11-23T04:48:49.196Z",
+      "last_pushed_at": "2026-11-23T04:48:49.196Z",
+      "language": "python",
+      "lines": 142
     }
   }
 }
