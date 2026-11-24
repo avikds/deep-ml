@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T04:48:49.980Z",
+  "generated_at": "2026-11-24T17:32:50.864Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -4694,6 +4694,19 @@
       "last_pushed_at": "2026-11-23T04:48:49.196Z",
       "language": "python",
       "lines": 142
+    },
+    "problem:1481": {
+      "kind": "problem",
+      "id": "1481",
+      "title": "Weisfeiler-Lehman Color Refinement and the 1-WL Test",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/1481",
+      "path": "problems/1481-weisfeiler-lehman-color-refinement-and-the-1-wl-test",
+      "first_solved_at": "2026-11-24T17:32:09.527Z",
+      "last_pushed_at": "2026-11-24T17:32:09.527Z",
+      "language": "python",
+      "lines": 86
     }
   }
 }
