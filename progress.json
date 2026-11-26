@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T17:32:50.864Z",
+  "generated_at": "2026-11-26T05:45:28.522Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -4707,6 +4707,19 @@
       "last_pushed_at": "2026-11-24T17:32:09.527Z",
       "language": "python",
       "lines": 86
+    },
+    "lab:fc2007d3-ad7f-4ad3-bb6d-d49d4b773562": {
+      "kind": "lab",
+      "id": "fc2007d3-ad7f-4ad3-bb6d-d49d4b773562",
+      "title": "Big Net, Small Data: Make 1,000 Digits Generalize",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/labs/fc2007d3-ad7f-4ad3-bb6d-d49d4b773562",
+      "path": "labs/fc2007d3-ad7f-4ad3-bb6d-d49d4b773562-big-net-small-data-make-1-000-digits-generalize",
+      "first_solved_at": "2026-11-26T05:45:26.798Z",
+      "last_pushed_at": "2026-11-26T05:45:26.798Z",
+      "language": "python",
+      "lines": 187
     }
   }
 }

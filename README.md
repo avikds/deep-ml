@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**367** solved · 261 problems · 74 labs · 32 math
+**368** solved · 261 problems · 75 labs · 32 math
 
 ![Coverage](./coverage.svg)
 
@@ -290,6 +290,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Best Classifier When Features Go Missing](https://www.deep-ml.com/labs/6c088b1a-22c9-4a01-a73f-67c155882ee2) | medium | 2026-11-04 | [solution](labs/6c088b1a-22c9-4a01-a73f-67c155882ee2-best-classifier-when-features-go-missing) |
 | [Best Density Model with a Low-Rank Latent](https://www.deep-ml.com/labs/c2520e61-d0b5-4622-925f-d1397b616df8) | medium | 2026-11-04 | [solution](labs/c2520e61-d0b5-4622-925f-d1397b616df8-best-density-model-with-a-low-rank-latent) |
 | [Best Image Codebook at 0.5 Bits per Pixel](https://www.deep-ml.com/labs/072b2938-4ef1-45ce-a79b-ce07ae9ec024) | medium | 2026-11-05 | [solution](labs/072b2938-4ef1-45ce-a79b-ce07ae9ec024-best-image-codebook-at-0-5-bits-per-pixel) |
+| [Big Net, Small Data: Make 1,000 Digits Generalize](https://www.deep-ml.com/labs/fc2007d3-ad7f-4ad3-bb6d-d49d4b773562) | medium | 2026-11-26 | [solution](labs/fc2007d3-ad7f-4ad3-bb6d-d49d4b773562-big-net-small-data-make-1-000-digits-generalize) |
 | [Build a Tokenizer for Language Modeling](https://www.deep-ml.com/labs/19) | medium | 2026-09-10 | [solution](labs/0019-build-a-tokenizer-for-language-modeling) |
 | [Cheapest Decisions with a Reject Option](https://www.deep-ml.com/labs/f357c9d3-9b96-466c-9e14-f4303e75205f) | medium | 2026-11-07 | [solution](labs/f357c9d3-9b96-466c-9e14-f4303e75205f-cheapest-decisions-with-a-reject-option) |
 | [Combine Trained Models into an Ensemble](https://www.deep-ml.com/labs/27) | medium | 2026-09-05 | [solution](labs/0027-combine-trained-models-into-an-ensemble) |
