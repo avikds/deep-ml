@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T05:45:28.522Z",
+  "generated_at": "2026-11-26T06:07:08.142Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -4718,6 +4718,19 @@
       "path": "labs/fc2007d3-ad7f-4ad3-bb6d-d49d4b773562-big-net-small-data-make-1-000-digits-generalize",
       "first_solved_at": "2026-11-26T05:45:26.798Z",
       "last_pushed_at": "2026-11-26T05:45:26.798Z",
+      "language": "python",
+      "lines": 187
+    },
+    "lab:5925eccc-3fb2-4b70-a730-6f7f88d0fe9e": {
+      "kind": "lab",
+      "id": "5925eccc-3fb2-4b70-a730-6f7f88d0fe9e",
+      "title": "Recognize a Digit the Student Never Saw",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/labs/5925eccc-3fb2-4b70-a730-6f7f88d0fe9e",
+      "path": "labs/5925eccc-3fb2-4b70-a730-6f7f88d0fe9e-recognize-a-digit-the-student-never-saw",
+      "first_solved_at": "2026-11-26T06:07:06.627Z",
+      "last_pushed_at": "2026-11-26T06:07:06.627Z",
       "language": "python",
       "lines": 187
     }

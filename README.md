@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**368** solved · 261 problems · 75 labs · 32 math
+**369** solved · 261 problems · 76 labs · 32 math
 
 ![Coverage](./coverage.svg)
 
@@ -323,6 +323,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Most Reward on a Drifting Bandit](https://www.deep-ml.com/labs/9ca26f44-66b3-4bba-b396-ccf3c55e6932) | medium | 2026-11-03 | [solution](labs/9ca26f44-66b3-4bba-b396-ccf3c55e6932-most-reward-on-a-drifting-bandit) |
 | [Numpy: Design Your Own Dimensionality Reduction](https://www.deep-ml.com/labs/14) | medium | 2026-08-26 | [solution](labs/0014-numpy-design-your-own-dimensionality-reduction) |
 | [PyTorch: Implement Your Own Gradient Descent Training Step](https://www.deep-ml.com/labs/12) | medium | 2026-08-26 | [solution](labs/0012-pytorch-implement-your-own-gradient-descent-training-step) |
+| [Recognize a Digit the Student Never Saw](https://www.deep-ml.com/labs/5925eccc-3fb2-4b70-a730-6f7f88d0fe9e) | medium | 2026-11-26 | [solution](labs/5925eccc-3fb2-4b70-a730-6f7f88d0fe9e-recognize-a-digit-the-student-never-saw) |
 | [Tinygrad: Implement Your Own Gradient Descent Training Step](https://www.deep-ml.com/labs/33) | medium | 2026-09-03 | [solution](labs/0033-tinygrad-implement-your-own-gradient-descent-training-step) |
 | [Train a Tabular Policy with DPO](https://www.deep-ml.com/labs/37) | medium | 2026-09-10 | [solution](labs/0037-train-a-tabular-policy-with-dpo) |
 | [Train Short, Test Long](https://www.deep-ml.com/labs/fc2accf2-62d7-4169-a045-691824ae7fdd) | medium | 2026-11-16 | [solution](labs/fc2accf2-62d7-4169-a045-691824ae7fdd-train-short-test-long) |
