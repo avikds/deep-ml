@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T06:07:08.142Z",
+  "generated_at": "2026-11-26T06:37:33.485Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -4733,6 +4733,19 @@
       "last_pushed_at": "2026-11-26T06:07:06.627Z",
       "language": "python",
       "lines": 187
+    },
+    "lab:af997b64-c9b7-4e87-81b3-1299ecef35e0": {
+      "kind": "lab",
+      "id": "af997b64-c9b7-4e87-81b3-1299ecef35e0",
+      "title": "Word Vectors That Solve Analogies",
+      "difficulty": "medium",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/labs/af997b64-c9b7-4e87-81b3-1299ecef35e0",
+      "path": "labs/af997b64-c9b7-4e87-81b3-1299ecef35e0-word-vectors-that-solve-analogies",
+      "first_solved_at": "2026-11-26T06:37:31.882Z",
+      "last_pushed_at": "2026-11-26T06:37:31.882Z",
+      "language": "python",
+      "lines": 459
     }
   }
 }
